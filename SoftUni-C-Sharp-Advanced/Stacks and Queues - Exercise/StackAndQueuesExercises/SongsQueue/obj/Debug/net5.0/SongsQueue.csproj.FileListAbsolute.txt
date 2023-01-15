@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\SongsQueue\bin\Debug\net5.0\SongsQueue.exe
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\SongsQueue\bin\Debug\net5.0\SongsQueue.deps.json
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\SongsQueue\bin\Debug\net5.0\SongsQueue.runtimeconfig.json
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\SongsQueue\bin\Debug\net5.0\SongsQueue.runtimeconfig.dev.json
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\SongsQueue\bin\Debug\net5.0\SongsQueue.dll
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\SongsQueue\bin\Debug\net5.0\SongsQueue.pdb
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\SongsQueue\obj\Debug\net5.0\SongsQueue.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\SongsQueue\obj\Debug\net5.0\SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\SongsQueue\obj\Debug\net5.0\SongsQueue.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\SongsQueue\obj\Debug\net5.0\SongsQueue.AssemblyInfo.cs
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\SongsQueue\obj\Debug\net5.0\SongsQueue.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\SongsQueue\obj\Debug\net5.0\SongsQueue.dll
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\SongsQueue\obj\Debug\net5.0\refint\SongsQueue.dll
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\SongsQueue\obj\Debug\net5.0\SongsQueue.pdb
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\SongsQueue\obj\Debug\net5.0\SongsQueue.genruntimeconfig.cache
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\SongsQueue\obj\Debug\net5.0\ref\SongsQueue.dll

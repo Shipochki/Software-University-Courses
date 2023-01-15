@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\FastFood\bin\Debug\net5.0\FastFood.exe
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\FastFood\bin\Debug\net5.0\FastFood.deps.json
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\FastFood\bin\Debug\net5.0\FastFood.runtimeconfig.json
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\FastFood\bin\Debug\net5.0\FastFood.runtimeconfig.dev.json
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\FastFood\bin\Debug\net5.0\FastFood.dll
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\FastFood\bin\Debug\net5.0\FastFood.pdb
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\FastFood\obj\Debug\net5.0\FastFood.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\FastFood\obj\Debug\net5.0\FastFood.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\FastFood\obj\Debug\net5.0\FastFood.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\FastFood\obj\Debug\net5.0\FastFood.AssemblyInfo.cs
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\FastFood\obj\Debug\net5.0\FastFood.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\FastFood\obj\Debug\net5.0\FastFood.dll
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\FastFood\obj\Debug\net5.0\refint\FastFood.dll
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\FastFood\obj\Debug\net5.0\FastFood.pdb
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\FastFood\obj\Debug\net5.0\FastFood.genruntimeconfig.cache
+D:\softuni c# Advanced\Stacks and Queues - Exercise\BasicStackOperations\FastFood\obj\Debug\net5.0\ref\FastFood.dll
