@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SquareWithMaximumSum\bin\Debug\net5.0\SquareWithMaximumSum.exe
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SquareWithMaximumSum\bin\Debug\net5.0\SquareWithMaximumSum.deps.json
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SquareWithMaximumSum\bin\Debug\net5.0\SquareWithMaximumSum.runtimeconfig.json
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SquareWithMaximumSum\bin\Debug\net5.0\SquareWithMaximumSum.runtimeconfig.dev.json
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SquareWithMaximumSum\bin\Debug\net5.0\SquareWithMaximumSum.dll
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SquareWithMaximumSum\bin\Debug\net5.0\SquareWithMaximumSum.pdb
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SquareWithMaximumSum\obj\Debug\net5.0\SquareWithMaximumSum.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SquareWithMaximumSum\obj\Debug\net5.0\SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SquareWithMaximumSum\obj\Debug\net5.0\SquareWithMaximumSum.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SquareWithMaximumSum\obj\Debug\net5.0\SquareWithMaximumSum.AssemblyInfo.cs
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SquareWithMaximumSum\obj\Debug\net5.0\SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SquareWithMaximumSum\obj\Debug\net5.0\SquareWithMaximumSum.dll
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SquareWithMaximumSum\obj\Debug\net5.0\refint\SquareWithMaximumSum.dll
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SquareWithMaximumSum\obj\Debug\net5.0\SquareWithMaximumSum.pdb
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SquareWithMaximumSum\obj\Debug\net5.0\SquareWithMaximumSum.genruntimeconfig.cache
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SquareWithMaximumSum\obj\Debug\net5.0\ref\SquareWithMaximumSum.dll

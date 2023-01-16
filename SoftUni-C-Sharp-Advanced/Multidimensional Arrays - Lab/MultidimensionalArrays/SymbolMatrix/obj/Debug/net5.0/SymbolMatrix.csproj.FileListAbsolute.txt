@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SymbolMatrix\bin\Debug\net5.0\SymbolMatrix.exe
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SymbolMatrix\bin\Debug\net5.0\SymbolMatrix.deps.json
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SymbolMatrix\bin\Debug\net5.0\SymbolMatrix.runtimeconfig.json
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SymbolMatrix\bin\Debug\net5.0\SymbolMatrix.runtimeconfig.dev.json
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SymbolMatrix\bin\Debug\net5.0\SymbolMatrix.dll
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SymbolMatrix\bin\Debug\net5.0\SymbolMatrix.pdb
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SymbolMatrix\obj\Debug\net5.0\SymbolMatrix.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SymbolMatrix\obj\Debug\net5.0\SymbolMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SymbolMatrix\obj\Debug\net5.0\SymbolMatrix.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SymbolMatrix\obj\Debug\net5.0\SymbolMatrix.AssemblyInfo.cs
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SymbolMatrix\obj\Debug\net5.0\SymbolMatrix.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SymbolMatrix\obj\Debug\net5.0\SymbolMatrix.dll
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SymbolMatrix\obj\Debug\net5.0\refint\SymbolMatrix.dll
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SymbolMatrix\obj\Debug\net5.0\SymbolMatrix.pdb
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SymbolMatrix\obj\Debug\net5.0\SymbolMatrix.genruntimeconfig.cache
+D:\softuni c# Advanced\Multidimensional Arrays - Lab\SumMatrixElements\SymbolMatrix\obj\Debug\net5.0\ref\SymbolMatrix.dll
