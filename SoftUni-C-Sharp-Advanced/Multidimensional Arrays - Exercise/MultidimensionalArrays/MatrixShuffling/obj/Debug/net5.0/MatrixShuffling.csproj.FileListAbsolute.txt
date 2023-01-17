@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Multidimensional Arrays - Exercise\DiagonalDifference\MatrixShuffling\bin\Debug\net5.0\MatrixShuffling.exe
+D:\softuni c# Advanced\Multidimensional Arrays - Exercise\DiagonalDifference\MatrixShuffling\bin\Debug\net5.0\MatrixShuffling.deps.json
+D:\softuni c# Advanced\Multidimensional Arrays - Exercise\DiagonalDifference\MatrixShuffling\bin\Debug\net5.0\MatrixShuffling.runtimeconfig.json
+D:\softuni c# Advanced\Multidimensional Arrays - Exercise\DiagonalDifference\MatrixShuffling\bin\Debug\net5.0\MatrixShuffling.runtimeconfig.dev.json
+D:\softuni c# Advanced\Multidimensional Arrays - Exercise\DiagonalDifference\MatrixShuffling\bin\Debug\net5.0\MatrixShuffling.dll
+D:\softuni c# Advanced\Multidimensional Arrays - Exercise\DiagonalDifference\MatrixShuffling\bin\Debug\net5.0\MatrixShuffling.pdb
+D:\softuni c# Advanced\Multidimensional Arrays - Exercise\DiagonalDifference\MatrixShuffling\obj\Debug\net5.0\MatrixShuffling.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Multidimensional Arrays - Exercise\DiagonalDifference\MatrixShuffling\obj\Debug\net5.0\MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Multidimensional Arrays - Exercise\DiagonalDifference\MatrixShuffling\obj\Debug\net5.0\MatrixShuffling.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Multidimensional Arrays - Exercise\DiagonalDifference\MatrixShuffling\obj\Debug\net5.0\MatrixShuffling.AssemblyInfo.cs
+D:\softuni c# Advanced\Multidimensional Arrays - Exercise\DiagonalDifference\MatrixShuffling\obj\Debug\net5.0\MatrixShuffling.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Multidimensional Arrays - Exercise\DiagonalDifference\MatrixShuffling\obj\Debug\net5.0\MatrixShuffling.dll
+D:\softuni c# Advanced\Multidimensional Arrays - Exercise\DiagonalDifference\MatrixShuffling\obj\Debug\net5.0\refint\MatrixShuffling.dll
+D:\softuni c# Advanced\Multidimensional Arrays - Exercise\DiagonalDifference\MatrixShuffling\obj\Debug\net5.0\MatrixShuffling.pdb
+D:\softuni c# Advanced\Multidimensional Arrays - Exercise\DiagonalDifference\MatrixShuffling\obj\Debug\net5.0\MatrixShuffling.genruntimeconfig.cache
+D:\softuni c# Advanced\Multidimensional Arrays - Exercise\DiagonalDifference\MatrixShuffling\obj\Debug\net5.0\ref\MatrixShuffling.dll
