@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\RecordUniqueNames\bin\Debug\net5.0\RecordUniqueNames.exe
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\RecordUniqueNames\bin\Debug\net5.0\RecordUniqueNames.deps.json
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\RecordUniqueNames\bin\Debug\net5.0\RecordUniqueNames.runtimeconfig.json
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\RecordUniqueNames\bin\Debug\net5.0\RecordUniqueNames.runtimeconfig.dev.json
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\RecordUniqueNames\bin\Debug\net5.0\RecordUniqueNames.dll
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\RecordUniqueNames\bin\Debug\net5.0\RecordUniqueNames.pdb
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.AssemblyInfo.cs
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.dll
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\RecordUniqueNames\obj\Debug\net5.0\refint\RecordUniqueNames.dll
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.pdb
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.genruntimeconfig.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\RecordUniqueNames\obj\Debug\net5.0\ref\RecordUniqueNames.dll

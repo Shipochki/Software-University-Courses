@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\CountSameValuesArray\bin\Debug\net5.0\CountSameValuesArray.exe
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\CountSameValuesArray\bin\Debug\net5.0\CountSameValuesArray.deps.json
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\CountSameValuesArray\bin\Debug\net5.0\CountSameValuesArray.runtimeconfig.json
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\CountSameValuesArray\bin\Debug\net5.0\CountSameValuesArray.runtimeconfig.dev.json
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\CountSameValuesArray\bin\Debug\net5.0\CountSameValuesArray.dll
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\CountSameValuesArray\bin\Debug\net5.0\CountSameValuesArray.pdb
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\CountSameValuesArray\obj\Debug\net5.0\CountSameValuesArray.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\CountSameValuesArray\obj\Debug\net5.0\CountSameValuesArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\CountSameValuesArray\obj\Debug\net5.0\CountSameValuesArray.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\CountSameValuesArray\obj\Debug\net5.0\CountSameValuesArray.AssemblyInfo.cs
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\CountSameValuesArray\obj\Debug\net5.0\CountSameValuesArray.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\CountSameValuesArray\obj\Debug\net5.0\CountSameValuesArray.dll
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\CountSameValuesArray\obj\Debug\net5.0\refint\CountSameValuesArray.dll
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\CountSameValuesArray\obj\Debug\net5.0\CountSameValuesArray.pdb
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\CountSameValuesArray\obj\Debug\net5.0\CountSameValuesArray.genruntimeconfig.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Lab\CountSameValuesArray\CountSameValuesArray\obj\Debug\net5.0\ref\CountSameValuesArray.dll
