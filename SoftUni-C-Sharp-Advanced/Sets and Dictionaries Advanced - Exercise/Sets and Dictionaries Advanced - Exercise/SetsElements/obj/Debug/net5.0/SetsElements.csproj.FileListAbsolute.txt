@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\SetsElements\bin\Debug\net5.0\SetsElements.exe
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\SetsElements\bin\Debug\net5.0\SetsElements.deps.json
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\SetsElements\bin\Debug\net5.0\SetsElements.runtimeconfig.json
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\SetsElements\bin\Debug\net5.0\SetsElements.runtimeconfig.dev.json
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\SetsElements\bin\Debug\net5.0\SetsElements.dll
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\SetsElements\bin\Debug\net5.0\SetsElements.pdb
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\SetsElements\obj\Debug\net5.0\SetsElements.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\SetsElements\obj\Debug\net5.0\SetsElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\SetsElements\obj\Debug\net5.0\SetsElements.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\SetsElements\obj\Debug\net5.0\SetsElements.AssemblyInfo.cs
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\SetsElements\obj\Debug\net5.0\SetsElements.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\SetsElements\obj\Debug\net5.0\SetsElements.dll
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\SetsElements\obj\Debug\net5.0\refint\SetsElements.dll
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\SetsElements\obj\Debug\net5.0\SetsElements.pdb
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\SetsElements\obj\Debug\net5.0\SetsElements.genruntimeconfig.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\SetsElements\obj\Debug\net5.0\ref\SetsElements.dll

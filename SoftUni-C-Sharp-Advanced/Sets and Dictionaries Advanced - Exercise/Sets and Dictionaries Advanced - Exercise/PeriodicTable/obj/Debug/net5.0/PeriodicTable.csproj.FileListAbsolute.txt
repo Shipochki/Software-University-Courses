@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\PeriodicTable\bin\Debug\net5.0\PeriodicTable.exe
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\PeriodicTable\bin\Debug\net5.0\PeriodicTable.deps.json
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\PeriodicTable\bin\Debug\net5.0\PeriodicTable.runtimeconfig.json
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\PeriodicTable\bin\Debug\net5.0\PeriodicTable.runtimeconfig.dev.json
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\PeriodicTable\bin\Debug\net5.0\PeriodicTable.dll
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\PeriodicTable\bin\Debug\net5.0\PeriodicTable.pdb
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\PeriodicTable\obj\Debug\net5.0\PeriodicTable.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\PeriodicTable\obj\Debug\net5.0\PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\PeriodicTable\obj\Debug\net5.0\PeriodicTable.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\PeriodicTable\obj\Debug\net5.0\PeriodicTable.AssemblyInfo.cs
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\PeriodicTable\obj\Debug\net5.0\PeriodicTable.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\PeriodicTable\obj\Debug\net5.0\PeriodicTable.dll
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\PeriodicTable\obj\Debug\net5.0\refint\PeriodicTable.dll
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\PeriodicTable\obj\Debug\net5.0\PeriodicTable.pdb
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\PeriodicTable\obj\Debug\net5.0\PeriodicTable.genruntimeconfig.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\PeriodicTable\obj\Debug\net5.0\ref\PeriodicTable.dll

@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\UniqueUsernames\bin\Debug\net5.0\UniqueUsernames.exe
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\UniqueUsernames\bin\Debug\net5.0\UniqueUsernames.deps.json
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\UniqueUsernames\bin\Debug\net5.0\UniqueUsernames.runtimeconfig.json
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\UniqueUsernames\bin\Debug\net5.0\UniqueUsernames.runtimeconfig.dev.json
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\UniqueUsernames\bin\Debug\net5.0\UniqueUsernames.dll
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\UniqueUsernames\bin\Debug\net5.0\UniqueUsernames.pdb
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\UniqueUsernames\obj\Debug\net5.0\UniqueUsernames.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\UniqueUsernames\obj\Debug\net5.0\UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\UniqueUsernames\obj\Debug\net5.0\UniqueUsernames.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\UniqueUsernames\obj\Debug\net5.0\UniqueUsernames.AssemblyInfo.cs
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\UniqueUsernames\obj\Debug\net5.0\UniqueUsernames.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\UniqueUsernames\obj\Debug\net5.0\UniqueUsernames.dll
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\UniqueUsernames\obj\Debug\net5.0\refint\UniqueUsernames.dll
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\UniqueUsernames\obj\Debug\net5.0\UniqueUsernames.pdb
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\UniqueUsernames\obj\Debug\net5.0\UniqueUsernames.genruntimeconfig.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\UniqueUsernames\obj\Debug\net5.0\ref\UniqueUsernames.dll

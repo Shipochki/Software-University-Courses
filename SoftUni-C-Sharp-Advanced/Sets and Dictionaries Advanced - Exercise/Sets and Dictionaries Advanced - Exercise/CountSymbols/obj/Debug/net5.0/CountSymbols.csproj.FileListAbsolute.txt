@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\CountSymbols\bin\Debug\net5.0\CountSymbols.exe
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\CountSymbols\bin\Debug\net5.0\CountSymbols.deps.json
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\CountSymbols\bin\Debug\net5.0\CountSymbols.runtimeconfig.json
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\CountSymbols\bin\Debug\net5.0\CountSymbols.runtimeconfig.dev.json
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\CountSymbols\bin\Debug\net5.0\CountSymbols.dll
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\CountSymbols\bin\Debug\net5.0\CountSymbols.pdb
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\CountSymbols\obj\Debug\net5.0\CountSymbols.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\CountSymbols\obj\Debug\net5.0\CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\CountSymbols\obj\Debug\net5.0\CountSymbols.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\CountSymbols\obj\Debug\net5.0\CountSymbols.AssemblyInfo.cs
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\CountSymbols\obj\Debug\net5.0\CountSymbols.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\CountSymbols\obj\Debug\net5.0\CountSymbols.dll
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\CountSymbols\obj\Debug\net5.0\refint\CountSymbols.dll
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\CountSymbols\obj\Debug\net5.0\CountSymbols.pdb
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\CountSymbols\obj\Debug\net5.0\CountSymbols.genruntimeconfig.cache
+D:\softuni c# Advanced\Sets and Dictionaries Advanced - Exercise\UniqueUsernames\CountSymbols\obj\Debug\net5.0\ref\CountSymbols.dll
