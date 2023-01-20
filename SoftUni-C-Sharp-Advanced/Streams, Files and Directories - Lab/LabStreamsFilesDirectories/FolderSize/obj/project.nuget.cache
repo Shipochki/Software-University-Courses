@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QCigFG7fTIt+xK7b+eHbwuOTRelMtVJK7YETj2ZZmISLYGQWTNmrfXp9jo8A3xof2kUUuNl+f7bTZQSDY7DtTA==",
+  "success": true,
+  "projectFilePath": "D:\\softuni c# Advanced\\Streams, Files and Directories - Lab\\Skeleton\\FolderSize\\FolderSize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxcat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\xxcat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\xxcat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\xxcat\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

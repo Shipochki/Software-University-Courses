@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KNA0wq5FhPoziXpZinj2rMD9LvjzILq5qbcIiAFE+/HdC9mOawC5SsQdC8ZH1hVRuWo3IrkNT2dU/5+gdM3fNw==",
+  "success": true,
+  "projectFilePath": "D:\\softuni c# Advanced\\Streams, Files and Directories - Lab\\Skeleton\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxcat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\xxcat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\xxcat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\xxcat\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
