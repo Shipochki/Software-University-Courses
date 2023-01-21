@@ -1,0 +1,14 @@
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.exe
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.deps.json
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.json
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.dev.json
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.dll
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.pdb
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfo.cs
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.dll
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.pdb
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.genruntimeconfig.cache

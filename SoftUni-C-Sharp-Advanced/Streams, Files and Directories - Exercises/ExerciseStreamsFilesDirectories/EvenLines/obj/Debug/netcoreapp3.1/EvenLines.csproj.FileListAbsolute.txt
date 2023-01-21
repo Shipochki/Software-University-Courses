@@ -1,0 +1,14 @@
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.exe
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.deps.json
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.runtimeconfig.json
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.runtimeconfig.dev.json
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.dll
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.pdb
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.AssemblyInfo.cs
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.dll
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.pdb
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.genruntimeconfig.cache

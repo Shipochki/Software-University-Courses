@@ -1,0 +1,14 @@
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.exe
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.deps.json
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.json
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.dev.json
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.dll
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.pdb
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfo.cs
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.dll
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.pdb
+D:\softuni c# Advanced\Streams, Files and Directories - Exercises\Skeleton\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.genruntimeconfig.cache
