@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\ThePartyReservationFilterModule\obj\Debug\net5.0\ThePartyReservationFilterModule.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\ThePartyReservationFilterModule\obj\Debug\net5.0\ThePartyReservationFilterModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\ThePartyReservationFilterModule\obj\Debug\net5.0\ThePartyReservationFilterModule.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\ThePartyReservationFilterModule\obj\Debug\net5.0\ThePartyReservationFilterModule.AssemblyInfo.cs
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\ThePartyReservationFilterModule\obj\Debug\net5.0\ThePartyReservationFilterModule.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\ThePartyReservationFilterModule\bin\Debug\net5.0\ThePartyReservationFilterModule.exe
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\ThePartyReservationFilterModule\bin\Debug\net5.0\ThePartyReservationFilterModule.deps.json
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\ThePartyReservationFilterModule\bin\Debug\net5.0\ThePartyReservationFilterModule.runtimeconfig.json
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\ThePartyReservationFilterModule\bin\Debug\net5.0\ThePartyReservationFilterModule.runtimeconfig.dev.json
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\ThePartyReservationFilterModule\bin\Debug\net5.0\ThePartyReservationFilterModule.dll
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\ThePartyReservationFilterModule\bin\Debug\net5.0\ThePartyReservationFilterModule.pdb
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\ThePartyReservationFilterModule\obj\Debug\net5.0\ThePartyReservationFilterModule.dll
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\ThePartyReservationFilterModule\obj\Debug\net5.0\refint\ThePartyReservationFilterModule.dll
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\ThePartyReservationFilterModule\obj\Debug\net5.0\ThePartyReservationFilterModule.pdb
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\ThePartyReservationFilterModule\obj\Debug\net5.0\ThePartyReservationFilterModule.genruntimeconfig.cache
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\ThePartyReservationFilterModule\obj\Debug\net5.0\ref\ThePartyReservationFilterModule.dll

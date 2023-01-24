@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\CustomMinFunction\bin\Debug\net5.0\CustomMinFunction.exe
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\CustomMinFunction\bin\Debug\net5.0\CustomMinFunction.deps.json
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\CustomMinFunction\bin\Debug\net5.0\CustomMinFunction.runtimeconfig.json
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\CustomMinFunction\bin\Debug\net5.0\CustomMinFunction.runtimeconfig.dev.json
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\CustomMinFunction\bin\Debug\net5.0\CustomMinFunction.dll
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\CustomMinFunction\bin\Debug\net5.0\CustomMinFunction.pdb
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\CustomMinFunction\obj\Debug\net5.0\CustomMinFunction.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\CustomMinFunction\obj\Debug\net5.0\CustomMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\CustomMinFunction\obj\Debug\net5.0\CustomMinFunction.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\CustomMinFunction\obj\Debug\net5.0\CustomMinFunction.AssemblyInfo.cs
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\CustomMinFunction\obj\Debug\net5.0\CustomMinFunction.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\CustomMinFunction\obj\Debug\net5.0\CustomMinFunction.dll
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\CustomMinFunction\obj\Debug\net5.0\refint\CustomMinFunction.dll
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\CustomMinFunction\obj\Debug\net5.0\CustomMinFunction.pdb
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\CustomMinFunction\obj\Debug\net5.0\CustomMinFunction.genruntimeconfig.cache
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\CustomMinFunction\obj\Debug\net5.0\ref\CustomMinFunction.dll

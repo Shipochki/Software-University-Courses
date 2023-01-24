@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\PredicateParty\bin\Debug\net5.0\PredicateParty.exe
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\PredicateParty\bin\Debug\net5.0\PredicateParty.deps.json
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\PredicateParty\bin\Debug\net5.0\PredicateParty.runtimeconfig.json
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\PredicateParty\bin\Debug\net5.0\PredicateParty.runtimeconfig.dev.json
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\PredicateParty\bin\Debug\net5.0\PredicateParty.dll
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\PredicateParty\bin\Debug\net5.0\PredicateParty.pdb
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\PredicateParty\obj\Debug\net5.0\PredicateParty.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\PredicateParty\obj\Debug\net5.0\PredicateParty.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\PredicateParty\obj\Debug\net5.0\PredicateParty.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\PredicateParty\obj\Debug\net5.0\PredicateParty.AssemblyInfo.cs
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\PredicateParty\obj\Debug\net5.0\PredicateParty.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\PredicateParty\obj\Debug\net5.0\PredicateParty.dll
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\PredicateParty\obj\Debug\net5.0\refint\PredicateParty.dll
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\PredicateParty\obj\Debug\net5.0\PredicateParty.pdb
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\PredicateParty\obj\Debug\net5.0\PredicateParty.genruntimeconfig.cache
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\PredicateParty\obj\Debug\net5.0\ref\PredicateParty.dll

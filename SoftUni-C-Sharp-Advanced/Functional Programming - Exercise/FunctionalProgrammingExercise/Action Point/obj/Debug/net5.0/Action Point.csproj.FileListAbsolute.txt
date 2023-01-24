@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\Action Point\bin\Debug\net5.0\Action Point.exe
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\Action Point\bin\Debug\net5.0\Action Point.deps.json
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\Action Point\bin\Debug\net5.0\Action Point.runtimeconfig.json
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\Action Point\bin\Debug\net5.0\Action Point.runtimeconfig.dev.json
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\Action Point\bin\Debug\net5.0\Action Point.dll
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\Action Point\bin\Debug\net5.0\Action Point.pdb
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\Action Point\obj\Debug\net5.0\Action Point.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\Action Point\obj\Debug\net5.0\Action Point.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\Action Point\obj\Debug\net5.0\Action Point.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\Action Point\obj\Debug\net5.0\Action Point.AssemblyInfo.cs
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\Action Point\obj\Debug\net5.0\Action Point.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\Action Point\obj\Debug\net5.0\Action Point.dll
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\Action Point\obj\Debug\net5.0\refint\Action Point.dll
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\Action Point\obj\Debug\net5.0\Action Point.pdb
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\Action Point\obj\Debug\net5.0\Action Point.genruntimeconfig.cache
+D:\softuni c# Advanced\Functional Programming - Exercise\Action Point\Action Point\obj\Debug\net5.0\ref\Action Point.dll
