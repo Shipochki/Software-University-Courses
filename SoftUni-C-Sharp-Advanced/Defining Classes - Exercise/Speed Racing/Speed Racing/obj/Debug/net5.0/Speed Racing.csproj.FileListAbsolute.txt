@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Defining Classes - Exercise\Speed Racing\Speed Racing\bin\Debug\net5.0\Speed Racing.exe
+D:\softuni c# Advanced\Defining Classes - Exercise\Speed Racing\Speed Racing\bin\Debug\net5.0\Speed Racing.deps.json
+D:\softuni c# Advanced\Defining Classes - Exercise\Speed Racing\Speed Racing\bin\Debug\net5.0\Speed Racing.runtimeconfig.json
+D:\softuni c# Advanced\Defining Classes - Exercise\Speed Racing\Speed Racing\bin\Debug\net5.0\Speed Racing.runtimeconfig.dev.json
+D:\softuni c# Advanced\Defining Classes - Exercise\Speed Racing\Speed Racing\bin\Debug\net5.0\Speed Racing.dll
+D:\softuni c# Advanced\Defining Classes - Exercise\Speed Racing\Speed Racing\bin\Debug\net5.0\Speed Racing.pdb
+D:\softuni c# Advanced\Defining Classes - Exercise\Speed Racing\Speed Racing\obj\Debug\net5.0\Speed Racing.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Defining Classes - Exercise\Speed Racing\Speed Racing\obj\Debug\net5.0\Speed Racing.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Defining Classes - Exercise\Speed Racing\Speed Racing\obj\Debug\net5.0\Speed Racing.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Defining Classes - Exercise\Speed Racing\Speed Racing\obj\Debug\net5.0\Speed Racing.AssemblyInfo.cs
+D:\softuni c# Advanced\Defining Classes - Exercise\Speed Racing\Speed Racing\obj\Debug\net5.0\Speed Racing.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Defining Classes - Exercise\Speed Racing\Speed Racing\obj\Debug\net5.0\Speed Racing.dll
+D:\softuni c# Advanced\Defining Classes - Exercise\Speed Racing\Speed Racing\obj\Debug\net5.0\refint\Speed Racing.dll
+D:\softuni c# Advanced\Defining Classes - Exercise\Speed Racing\Speed Racing\obj\Debug\net5.0\Speed Racing.pdb
+D:\softuni c# Advanced\Defining Classes - Exercise\Speed Racing\Speed Racing\obj\Debug\net5.0\Speed Racing.genruntimeconfig.cache
+D:\softuni c# Advanced\Defining Classes - Exercise\Speed Racing\Speed Racing\obj\Debug\net5.0\ref\Speed Racing.dll

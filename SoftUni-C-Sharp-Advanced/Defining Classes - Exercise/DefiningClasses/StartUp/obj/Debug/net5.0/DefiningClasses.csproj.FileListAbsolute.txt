@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Defining Classes - Exercise\DefiningClasses\StartUp\bin\Debug\net5.0\DefiningClasses.exe
+D:\softuni c# Advanced\Defining Classes - Exercise\DefiningClasses\StartUp\bin\Debug\net5.0\DefiningClasses.deps.json
+D:\softuni c# Advanced\Defining Classes - Exercise\DefiningClasses\StartUp\bin\Debug\net5.0\DefiningClasses.runtimeconfig.json
+D:\softuni c# Advanced\Defining Classes - Exercise\DefiningClasses\StartUp\bin\Debug\net5.0\DefiningClasses.runtimeconfig.dev.json
+D:\softuni c# Advanced\Defining Classes - Exercise\DefiningClasses\StartUp\bin\Debug\net5.0\DefiningClasses.dll
+D:\softuni c# Advanced\Defining Classes - Exercise\DefiningClasses\StartUp\bin\Debug\net5.0\DefiningClasses.pdb
+D:\softuni c# Advanced\Defining Classes - Exercise\DefiningClasses\StartUp\obj\Debug\net5.0\DefiningClasses.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Defining Classes - Exercise\DefiningClasses\StartUp\obj\Debug\net5.0\DefiningClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Defining Classes - Exercise\DefiningClasses\StartUp\obj\Debug\net5.0\DefiningClasses.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Defining Classes - Exercise\DefiningClasses\StartUp\obj\Debug\net5.0\DefiningClasses.AssemblyInfo.cs
+D:\softuni c# Advanced\Defining Classes - Exercise\DefiningClasses\StartUp\obj\Debug\net5.0\DefiningClasses.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Defining Classes - Exercise\DefiningClasses\StartUp\obj\Debug\net5.0\DefiningClasses.dll
+D:\softuni c# Advanced\Defining Classes - Exercise\DefiningClasses\StartUp\obj\Debug\net5.0\refint\DefiningClasses.dll
+D:\softuni c# Advanced\Defining Classes - Exercise\DefiningClasses\StartUp\obj\Debug\net5.0\DefiningClasses.pdb
+D:\softuni c# Advanced\Defining Classes - Exercise\DefiningClasses\StartUp\obj\Debug\net5.0\DefiningClasses.genruntimeconfig.cache
+D:\softuni c# Advanced\Defining Classes - Exercise\DefiningClasses\StartUp\obj\Debug\net5.0\ref\DefiningClasses.dll
