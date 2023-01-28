@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Generics - Lab\GenericScale\GenericScale\bin\Debug\net5.0\GenericScale.exe
+D:\softuni c# Advanced\Generics - Lab\GenericScale\GenericScale\bin\Debug\net5.0\GenericScale.deps.json
+D:\softuni c# Advanced\Generics - Lab\GenericScale\GenericScale\bin\Debug\net5.0\GenericScale.runtimeconfig.json
+D:\softuni c# Advanced\Generics - Lab\GenericScale\GenericScale\bin\Debug\net5.0\GenericScale.runtimeconfig.dev.json
+D:\softuni c# Advanced\Generics - Lab\GenericScale\GenericScale\bin\Debug\net5.0\GenericScale.dll
+D:\softuni c# Advanced\Generics - Lab\GenericScale\GenericScale\bin\Debug\net5.0\GenericScale.pdb
+D:\softuni c# Advanced\Generics - Lab\GenericScale\GenericScale\obj\Debug\net5.0\GenericScale.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Generics - Lab\GenericScale\GenericScale\obj\Debug\net5.0\GenericScale.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Generics - Lab\GenericScale\GenericScale\obj\Debug\net5.0\GenericScale.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Generics - Lab\GenericScale\GenericScale\obj\Debug\net5.0\GenericScale.AssemblyInfo.cs
+D:\softuni c# Advanced\Generics - Lab\GenericScale\GenericScale\obj\Debug\net5.0\GenericScale.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Generics - Lab\GenericScale\GenericScale\obj\Debug\net5.0\GenericScale.dll
+D:\softuni c# Advanced\Generics - Lab\GenericScale\GenericScale\obj\Debug\net5.0\refint\GenericScale.dll
+D:\softuni c# Advanced\Generics - Lab\GenericScale\GenericScale\obj\Debug\net5.0\GenericScale.pdb
+D:\softuni c# Advanced\Generics - Lab\GenericScale\GenericScale\obj\Debug\net5.0\GenericScale.genruntimeconfig.cache
+D:\softuni c# Advanced\Generics - Lab\GenericScale\GenericScale\obj\Debug\net5.0\ref\GenericScale.dll

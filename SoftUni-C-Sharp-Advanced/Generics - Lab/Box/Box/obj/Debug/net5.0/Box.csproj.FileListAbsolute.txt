@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Generics - Lab\Box\Box\bin\Debug\net5.0\Box.exe
+D:\softuni c# Advanced\Generics - Lab\Box\Box\bin\Debug\net5.0\Box.deps.json
+D:\softuni c# Advanced\Generics - Lab\Box\Box\bin\Debug\net5.0\Box.runtimeconfig.json
+D:\softuni c# Advanced\Generics - Lab\Box\Box\bin\Debug\net5.0\Box.runtimeconfig.dev.json
+D:\softuni c# Advanced\Generics - Lab\Box\Box\bin\Debug\net5.0\Box.dll
+D:\softuni c# Advanced\Generics - Lab\Box\Box\bin\Debug\net5.0\Box.pdb
+D:\softuni c# Advanced\Generics - Lab\Box\Box\obj\Debug\net5.0\Box.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Generics - Lab\Box\Box\obj\Debug\net5.0\Box.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Generics - Lab\Box\Box\obj\Debug\net5.0\Box.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Generics - Lab\Box\Box\obj\Debug\net5.0\Box.AssemblyInfo.cs
+D:\softuni c# Advanced\Generics - Lab\Box\Box\obj\Debug\net5.0\Box.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Generics - Lab\Box\Box\obj\Debug\net5.0\Box.dll
+D:\softuni c# Advanced\Generics - Lab\Box\Box\obj\Debug\net5.0\refint\Box.dll
+D:\softuni c# Advanced\Generics - Lab\Box\Box\obj\Debug\net5.0\Box.pdb
+D:\softuni c# Advanced\Generics - Lab\Box\Box\obj\Debug\net5.0\Box.genruntimeconfig.cache
+D:\softuni c# Advanced\Generics - Lab\Box\Box\obj\Debug\net5.0\ref\Box.dll

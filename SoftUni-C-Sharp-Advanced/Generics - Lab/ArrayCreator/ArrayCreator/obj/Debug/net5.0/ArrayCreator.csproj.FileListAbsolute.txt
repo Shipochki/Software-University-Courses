@@ -1,0 +1,16 @@
+D:\softuni c# Advanced\Generics - Lab\ArrayCreator\ArrayCreator\bin\Debug\net5.0\ArrayCreator.exe
+D:\softuni c# Advanced\Generics - Lab\ArrayCreator\ArrayCreator\bin\Debug\net5.0\ArrayCreator.deps.json
+D:\softuni c# Advanced\Generics - Lab\ArrayCreator\ArrayCreator\bin\Debug\net5.0\ArrayCreator.runtimeconfig.json
+D:\softuni c# Advanced\Generics - Lab\ArrayCreator\ArrayCreator\bin\Debug\net5.0\ArrayCreator.runtimeconfig.dev.json
+D:\softuni c# Advanced\Generics - Lab\ArrayCreator\ArrayCreator\bin\Debug\net5.0\ArrayCreator.dll
+D:\softuni c# Advanced\Generics - Lab\ArrayCreator\ArrayCreator\bin\Debug\net5.0\ArrayCreator.pdb
+D:\softuni c# Advanced\Generics - Lab\ArrayCreator\ArrayCreator\obj\Debug\net5.0\ArrayCreator.csproj.AssemblyReference.cache
+D:\softuni c# Advanced\Generics - Lab\ArrayCreator\ArrayCreator\obj\Debug\net5.0\ArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# Advanced\Generics - Lab\ArrayCreator\ArrayCreator\obj\Debug\net5.0\ArrayCreator.AssemblyInfoInputs.cache
+D:\softuni c# Advanced\Generics - Lab\ArrayCreator\ArrayCreator\obj\Debug\net5.0\ArrayCreator.AssemblyInfo.cs
+D:\softuni c# Advanced\Generics - Lab\ArrayCreator\ArrayCreator\obj\Debug\net5.0\ArrayCreator.csproj.CoreCompileInputs.cache
+D:\softuni c# Advanced\Generics - Lab\ArrayCreator\ArrayCreator\obj\Debug\net5.0\ArrayCreator.dll
+D:\softuni c# Advanced\Generics - Lab\ArrayCreator\ArrayCreator\obj\Debug\net5.0\refint\ArrayCreator.dll
+D:\softuni c# Advanced\Generics - Lab\ArrayCreator\ArrayCreator\obj\Debug\net5.0\ArrayCreator.pdb
+D:\softuni c# Advanced\Generics - Lab\ArrayCreator\ArrayCreator\obj\Debug\net5.0\ArrayCreator.genruntimeconfig.cache
+D:\softuni c# Advanced\Generics - Lab\ArrayCreator\ArrayCreator\obj\Debug\net5.0\ref\ArrayCreator.dll
