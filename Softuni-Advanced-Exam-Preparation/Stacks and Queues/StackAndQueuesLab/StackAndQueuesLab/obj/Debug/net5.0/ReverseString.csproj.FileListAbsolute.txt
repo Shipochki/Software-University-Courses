@@ -1,0 +1,16 @@
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\StackAndQueuesLab\bin\Debug\net5.0\ReverseString.exe
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\StackAndQueuesLab\bin\Debug\net5.0\ReverseString.deps.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\StackAndQueuesLab\bin\Debug\net5.0\ReverseString.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\StackAndQueuesLab\bin\Debug\net5.0\ReverseString.runtimeconfig.dev.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\StackAndQueuesLab\bin\Debug\net5.0\ReverseString.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\StackAndQueuesLab\bin\Debug\net5.0\ReverseString.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\StackAndQueuesLab\obj\Debug\net5.0\ReverseString.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\StackAndQueuesLab\obj\Debug\net5.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\StackAndQueuesLab\obj\Debug\net5.0\ReverseString.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\StackAndQueuesLab\obj\Debug\net5.0\ReverseString.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\StackAndQueuesLab\obj\Debug\net5.0\ReverseString.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\StackAndQueuesLab\obj\Debug\net5.0\ReverseString.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\StackAndQueuesLab\obj\Debug\net5.0\refint\ReverseString.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\StackAndQueuesLab\obj\Debug\net5.0\ReverseString.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\StackAndQueuesLab\obj\Debug\net5.0\ReverseString.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\StackAndQueuesLab\obj\Debug\net5.0\ref\ReverseString.dll

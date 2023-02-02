@@ -1,0 +1,16 @@
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\TruckTour\bin\Debug\net5.0\TruckTour.exe
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\TruckTour\bin\Debug\net5.0\TruckTour.deps.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\TruckTour\bin\Debug\net5.0\TruckTour.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\TruckTour\bin\Debug\net5.0\TruckTour.runtimeconfig.dev.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\TruckTour\bin\Debug\net5.0\TruckTour.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\TruckTour\bin\Debug\net5.0\TruckTour.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\TruckTour\obj\Debug\net5.0\TruckTour.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\TruckTour\obj\Debug\net5.0\TruckTour.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\TruckTour\obj\Debug\net5.0\TruckTour.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\TruckTour\obj\Debug\net5.0\TruckTour.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\TruckTour\obj\Debug\net5.0\TruckTour.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\TruckTour\obj\Debug\net5.0\TruckTour.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\TruckTour\obj\Debug\net5.0\refint\TruckTour.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\TruckTour\obj\Debug\net5.0\TruckTour.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\TruckTour\obj\Debug\net5.0\TruckTour.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\TruckTour\obj\Debug\net5.0\ref\TruckTour.dll

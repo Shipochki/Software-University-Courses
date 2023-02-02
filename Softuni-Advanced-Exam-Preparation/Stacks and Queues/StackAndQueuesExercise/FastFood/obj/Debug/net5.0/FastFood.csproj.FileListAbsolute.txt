@@ -1,0 +1,16 @@
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FastFood\bin\Debug\net5.0\FastFood.exe
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FastFood\bin\Debug\net5.0\FastFood.deps.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FastFood\bin\Debug\net5.0\FastFood.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FastFood\bin\Debug\net5.0\FastFood.runtimeconfig.dev.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FastFood\bin\Debug\net5.0\FastFood.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FastFood\bin\Debug\net5.0\FastFood.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FastFood\obj\Debug\net5.0\FastFood.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FastFood\obj\Debug\net5.0\FastFood.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FastFood\obj\Debug\net5.0\FastFood.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FastFood\obj\Debug\net5.0\FastFood.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FastFood\obj\Debug\net5.0\FastFood.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FastFood\obj\Debug\net5.0\FastFood.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FastFood\obj\Debug\net5.0\refint\FastFood.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FastFood\obj\Debug\net5.0\FastFood.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FastFood\obj\Debug\net5.0\FastFood.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FastFood\obj\Debug\net5.0\ref\FastFood.dll

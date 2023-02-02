@@ -1,0 +1,16 @@
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\TrafficJam\bin\Debug\net5.0\TrafficJam.exe
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\TrafficJam\bin\Debug\net5.0\TrafficJam.deps.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\TrafficJam\bin\Debug\net5.0\TrafficJam.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\TrafficJam\bin\Debug\net5.0\TrafficJam.runtimeconfig.dev.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\TrafficJam\bin\Debug\net5.0\TrafficJam.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\TrafficJam\bin\Debug\net5.0\TrafficJam.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\TrafficJam\obj\Debug\net5.0\TrafficJam.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\TrafficJam\obj\Debug\net5.0\TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\TrafficJam\obj\Debug\net5.0\TrafficJam.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\TrafficJam\obj\Debug\net5.0\TrafficJam.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\TrafficJam\obj\Debug\net5.0\TrafficJam.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\TrafficJam\obj\Debug\net5.0\TrafficJam.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\TrafficJam\obj\Debug\net5.0\refint\TrafficJam.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\TrafficJam\obj\Debug\net5.0\TrafficJam.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\TrafficJam\obj\Debug\net5.0\TrafficJam.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\TrafficJam\obj\Debug\net5.0\ref\TrafficJam.dll

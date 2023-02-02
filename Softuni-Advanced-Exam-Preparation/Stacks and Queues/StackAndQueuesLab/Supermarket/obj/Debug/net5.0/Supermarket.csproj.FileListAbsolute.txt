@@ -1,0 +1,16 @@
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\Supermarket\bin\Debug\net5.0\Supermarket.exe
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\Supermarket\bin\Debug\net5.0\Supermarket.deps.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\Supermarket\bin\Debug\net5.0\Supermarket.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\Supermarket\bin\Debug\net5.0\Supermarket.runtimeconfig.dev.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\Supermarket\bin\Debug\net5.0\Supermarket.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\Supermarket\bin\Debug\net5.0\Supermarket.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\Supermarket\obj\Debug\net5.0\refint\Supermarket.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\Supermarket\obj\Debug\net5.0\ref\Supermarket.dll

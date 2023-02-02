@@ -1,0 +1,16 @@
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\HotPotato\bin\Debug\net5.0\HotPotato.exe
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\HotPotato\bin\Debug\net5.0\HotPotato.deps.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\HotPotato\bin\Debug\net5.0\HotPotato.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\HotPotato\bin\Debug\net5.0\HotPotato.runtimeconfig.dev.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\HotPotato\bin\Debug\net5.0\HotPotato.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\HotPotato\bin\Debug\net5.0\HotPotato.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\HotPotato\obj\Debug\net5.0\HotPotato.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\HotPotato\obj\Debug\net5.0\HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\HotPotato\obj\Debug\net5.0\HotPotato.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\HotPotato\obj\Debug\net5.0\HotPotato.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\HotPotato\obj\Debug\net5.0\HotPotato.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\HotPotato\obj\Debug\net5.0\HotPotato.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\HotPotato\obj\Debug\net5.0\refint\HotPotato.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\HotPotato\obj\Debug\net5.0\HotPotato.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\HotPotato\obj\Debug\net5.0\HotPotato.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\HotPotato\obj\Debug\net5.0\ref\HotPotato.dll

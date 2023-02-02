@@ -1,0 +1,16 @@
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\SimpleCalculator\bin\Debug\net5.0\3.SimpleCalculator.exe
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\SimpleCalculator\bin\Debug\net5.0\3.SimpleCalculator.deps.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\SimpleCalculator\bin\Debug\net5.0\3.SimpleCalculator.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\SimpleCalculator\bin\Debug\net5.0\3.SimpleCalculator.runtimeconfig.dev.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\SimpleCalculator\bin\Debug\net5.0\3.SimpleCalculator.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\SimpleCalculator\bin\Debug\net5.0\3.SimpleCalculator.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\SimpleCalculator\obj\Debug\net5.0\3.SimpleCalculator.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\SimpleCalculator\obj\Debug\net5.0\3.SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\SimpleCalculator\obj\Debug\net5.0\3.SimpleCalculator.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\SimpleCalculator\obj\Debug\net5.0\3.SimpleCalculator.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\SimpleCalculator\obj\Debug\net5.0\3.SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\SimpleCalculator\obj\Debug\net5.0\3.SimpleCalculator.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\SimpleCalculator\obj\Debug\net5.0\refint\3.SimpleCalculator.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\SimpleCalculator\obj\Debug\net5.0\3.SimpleCalculator.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\SimpleCalculator\obj\Debug\net5.0\3.SimpleCalculator.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\SimpleCalculator\obj\Debug\net5.0\ref\3.SimpleCalculator.dll

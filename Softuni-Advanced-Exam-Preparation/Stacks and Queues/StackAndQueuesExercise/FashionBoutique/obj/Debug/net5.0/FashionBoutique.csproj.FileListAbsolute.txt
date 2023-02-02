@@ -1,0 +1,16 @@
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FashionBoutique\bin\Debug\net5.0\FashionBoutique.exe
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FashionBoutique\bin\Debug\net5.0\FashionBoutique.deps.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FashionBoutique\bin\Debug\net5.0\FashionBoutique.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FashionBoutique\bin\Debug\net5.0\FashionBoutique.runtimeconfig.dev.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FashionBoutique\bin\Debug\net5.0\FashionBoutique.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FashionBoutique\bin\Debug\net5.0\FashionBoutique.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FashionBoutique\obj\Debug\net5.0\FashionBoutique.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FashionBoutique\obj\Debug\net5.0\FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FashionBoutique\obj\Debug\net5.0\FashionBoutique.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FashionBoutique\obj\Debug\net5.0\FashionBoutique.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FashionBoutique\obj\Debug\net5.0\FashionBoutique.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FashionBoutique\obj\Debug\net5.0\FashionBoutique.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FashionBoutique\obj\Debug\net5.0\refint\FashionBoutique.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FashionBoutique\obj\Debug\net5.0\FashionBoutique.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FashionBoutique\obj\Debug\net5.0\FashionBoutique.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\FashionBoutique\obj\Debug\net5.0\ref\FashionBoutique.dll

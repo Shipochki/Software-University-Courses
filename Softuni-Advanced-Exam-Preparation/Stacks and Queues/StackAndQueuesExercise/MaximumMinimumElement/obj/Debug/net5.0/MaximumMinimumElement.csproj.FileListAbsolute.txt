@@ -1,0 +1,16 @@
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\MaximumMinimumElement\bin\Debug\net5.0\MaximumMinimumElement.exe
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\MaximumMinimumElement\bin\Debug\net5.0\MaximumMinimumElement.deps.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\MaximumMinimumElement\bin\Debug\net5.0\MaximumMinimumElement.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\MaximumMinimumElement\bin\Debug\net5.0\MaximumMinimumElement.runtimeconfig.dev.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\MaximumMinimumElement\bin\Debug\net5.0\MaximumMinimumElement.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\MaximumMinimumElement\bin\Debug\net5.0\MaximumMinimumElement.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\MaximumMinimumElement\obj\Debug\net5.0\MaximumMinimumElement.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\MaximumMinimumElement\obj\Debug\net5.0\MaximumMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\MaximumMinimumElement\obj\Debug\net5.0\MaximumMinimumElement.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\MaximumMinimumElement\obj\Debug\net5.0\MaximumMinimumElement.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\MaximumMinimumElement\obj\Debug\net5.0\MaximumMinimumElement.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\MaximumMinimumElement\obj\Debug\net5.0\MaximumMinimumElement.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\MaximumMinimumElement\obj\Debug\net5.0\refint\MaximumMinimumElement.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\MaximumMinimumElement\obj\Debug\net5.0\MaximumMinimumElement.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\MaximumMinimumElement\obj\Debug\net5.0\MaximumMinimumElement.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\MaximumMinimumElement\obj\Debug\net5.0\ref\MaximumMinimumElement.dll

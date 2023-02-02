@@ -1,0 +1,16 @@
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\4.MatchingBrackets\bin\Debug\net5.0\4.MatchingBrackets.exe
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\4.MatchingBrackets\bin\Debug\net5.0\4.MatchingBrackets.deps.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\4.MatchingBrackets\bin\Debug\net5.0\4.MatchingBrackets.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\4.MatchingBrackets\bin\Debug\net5.0\4.MatchingBrackets.runtimeconfig.dev.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\4.MatchingBrackets\bin\Debug\net5.0\4.MatchingBrackets.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\4.MatchingBrackets\bin\Debug\net5.0\4.MatchingBrackets.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\4.MatchingBrackets\obj\Debug\net5.0\4.MatchingBrackets.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\4.MatchingBrackets\obj\Debug\net5.0\4.MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\4.MatchingBrackets\obj\Debug\net5.0\4.MatchingBrackets.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\4.MatchingBrackets\obj\Debug\net5.0\4.MatchingBrackets.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\4.MatchingBrackets\obj\Debug\net5.0\4.MatchingBrackets.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\4.MatchingBrackets\obj\Debug\net5.0\4.MatchingBrackets.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\4.MatchingBrackets\obj\Debug\net5.0\refint\4.MatchingBrackets.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\4.MatchingBrackets\obj\Debug\net5.0\4.MatchingBrackets.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\4.MatchingBrackets\obj\Debug\net5.0\4.MatchingBrackets.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesLab\4.MatchingBrackets\obj\Debug\net5.0\ref\4.MatchingBrackets.dll

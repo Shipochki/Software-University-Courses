@@ -1,0 +1,16 @@
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\SimpleTextEditor\bin\Debug\net5.0\SimpleTextEditor.exe
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\SimpleTextEditor\bin\Debug\net5.0\SimpleTextEditor.deps.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\SimpleTextEditor\bin\Debug\net5.0\SimpleTextEditor.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\SimpleTextEditor\bin\Debug\net5.0\SimpleTextEditor.runtimeconfig.dev.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\SimpleTextEditor\bin\Debug\net5.0\SimpleTextEditor.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\SimpleTextEditor\bin\Debug\net5.0\SimpleTextEditor.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\SimpleTextEditor\obj\Debug\net5.0\SimpleTextEditor.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\SimpleTextEditor\obj\Debug\net5.0\SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\SimpleTextEditor\obj\Debug\net5.0\SimpleTextEditor.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\SimpleTextEditor\obj\Debug\net5.0\SimpleTextEditor.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\SimpleTextEditor\obj\Debug\net5.0\SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\SimpleTextEditor\obj\Debug\net5.0\SimpleTextEditor.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\SimpleTextEditor\obj\Debug\net5.0\refint\SimpleTextEditor.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\SimpleTextEditor\obj\Debug\net5.0\SimpleTextEditor.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\SimpleTextEditor\obj\Debug\net5.0\SimpleTextEditor.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\SimpleTextEditor\obj\Debug\net5.0\ref\SimpleTextEditor.dll

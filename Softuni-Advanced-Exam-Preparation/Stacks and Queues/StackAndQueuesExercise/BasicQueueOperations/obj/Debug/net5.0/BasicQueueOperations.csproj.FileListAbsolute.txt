@@ -1,0 +1,16 @@
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.exe
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.deps.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.runtimeconfig.dev.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\BasicQueueOperations\obj\Debug\net5.0\refint\BasicQueueOperations.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\BasicQueueOperations\obj\Debug\net5.0\ref\BasicQueueOperations.dll

@@ -1,0 +1,16 @@
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\StackAndQueuesExercise\bin\Debug\net5.0\BasicStackOperation.exe
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\StackAndQueuesExercise\bin\Debug\net5.0\BasicStackOperation.deps.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\StackAndQueuesExercise\bin\Debug\net5.0\BasicStackOperation.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\StackAndQueuesExercise\bin\Debug\net5.0\BasicStackOperation.runtimeconfig.dev.json
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\StackAndQueuesExercise\bin\Debug\net5.0\BasicStackOperation.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\StackAndQueuesExercise\bin\Debug\net5.0\BasicStackOperation.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\StackAndQueuesExercise\obj\Debug\net5.0\BasicStackOperation.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\StackAndQueuesExercise\obj\Debug\net5.0\BasicStackOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\StackAndQueuesExercise\obj\Debug\net5.0\BasicStackOperation.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\StackAndQueuesExercise\obj\Debug\net5.0\BasicStackOperation.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\StackAndQueuesExercise\obj\Debug\net5.0\BasicStackOperation.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\StackAndQueuesExercise\obj\Debug\net5.0\BasicStackOperation.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\StackAndQueuesExercise\obj\Debug\net5.0\refint\BasicStackOperation.dll
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\StackAndQueuesExercise\obj\Debug\net5.0\BasicStackOperation.pdb
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\StackAndQueuesExercise\obj\Debug\net5.0\BasicStackOperation.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Stacks and Queues\StackAndQueuesExercise\StackAndQueuesExercise\obj\Debug\net5.0\ref\BasicStackOperation.dll
