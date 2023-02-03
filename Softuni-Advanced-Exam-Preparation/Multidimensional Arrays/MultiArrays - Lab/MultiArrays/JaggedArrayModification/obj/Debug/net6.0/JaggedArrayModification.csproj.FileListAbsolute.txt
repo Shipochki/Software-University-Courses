@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\JaggedArrayModification\bin\Debug\net6.0\JaggedArrayModification.exe
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\JaggedArrayModification\bin\Debug\net6.0\JaggedArrayModification.deps.json
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\JaggedArrayModification\bin\Debug\net6.0\JaggedArrayModification.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\JaggedArrayModification\bin\Debug\net6.0\JaggedArrayModification.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\JaggedArrayModification\bin\Debug\net6.0\JaggedArrayModification.pdb
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\JaggedArrayModification\obj\Debug\net6.0\JaggedArrayModification.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\JaggedArrayModification\obj\Debug\net6.0\JaggedArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\JaggedArrayModification\obj\Debug\net6.0\JaggedArrayModification.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\JaggedArrayModification\obj\Debug\net6.0\JaggedArrayModification.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\JaggedArrayModification\obj\Debug\net6.0\JaggedArrayModification.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\JaggedArrayModification\obj\Debug\net6.0\JaggedArrayModification.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\JaggedArrayModification\obj\Debug\net6.0\refint\JaggedArrayModification.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\JaggedArrayModification\obj\Debug\net6.0\JaggedArrayModification.pdb
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\JaggedArrayModification\obj\Debug\net6.0\JaggedArrayModification.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\JaggedArrayModification\obj\Debug\net6.0\ref\JaggedArrayModification.dll

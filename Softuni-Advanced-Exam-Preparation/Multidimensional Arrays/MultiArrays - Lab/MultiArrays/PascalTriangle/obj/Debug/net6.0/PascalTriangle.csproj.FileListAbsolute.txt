@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PascalTriangle\bin\Debug\net6.0\PascalTriangle.exe
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PascalTriangle\bin\Debug\net6.0\PascalTriangle.deps.json
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PascalTriangle\bin\Debug\net6.0\PascalTriangle.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PascalTriangle\bin\Debug\net6.0\PascalTriangle.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PascalTriangle\bin\Debug\net6.0\PascalTriangle.pdb
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PascalTriangle\obj\Debug\net6.0\PascalTriangle.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PascalTriangle\obj\Debug\net6.0\PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PascalTriangle\obj\Debug\net6.0\PascalTriangle.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PascalTriangle\obj\Debug\net6.0\PascalTriangle.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PascalTriangle\obj\Debug\net6.0\PascalTriangle.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PascalTriangle\obj\Debug\net6.0\PascalTriangle.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PascalTriangle\obj\Debug\net6.0\refint\PascalTriangle.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PascalTriangle\obj\Debug\net6.0\PascalTriangle.pdb
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PascalTriangle\obj\Debug\net6.0\PascalTriangle.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PascalTriangle\obj\Debug\net6.0\ref\PascalTriangle.dll

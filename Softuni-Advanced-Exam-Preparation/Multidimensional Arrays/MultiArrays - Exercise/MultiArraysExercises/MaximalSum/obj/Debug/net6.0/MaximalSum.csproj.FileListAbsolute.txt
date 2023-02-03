@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\MaximalSum\bin\Debug\net6.0\MaximalSum.exe
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\MaximalSum\bin\Debug\net6.0\MaximalSum.deps.json
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\MaximalSum\bin\Debug\net6.0\MaximalSum.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\MaximalSum\bin\Debug\net6.0\MaximalSum.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\MaximalSum\bin\Debug\net6.0\MaximalSum.pdb
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\MaximalSum\obj\Debug\net6.0\MaximalSum.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\MaximalSum\obj\Debug\net6.0\MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\MaximalSum\obj\Debug\net6.0\MaximalSum.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\MaximalSum\obj\Debug\net6.0\MaximalSum.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\MaximalSum\obj\Debug\net6.0\MaximalSum.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\MaximalSum\obj\Debug\net6.0\MaximalSum.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\MaximalSum\obj\Debug\net6.0\refint\MaximalSum.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\MaximalSum\obj\Debug\net6.0\MaximalSum.pdb
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\MaximalSum\obj\Debug\net6.0\MaximalSum.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\MaximalSum\obj\Debug\net6.0\ref\MaximalSum.dll

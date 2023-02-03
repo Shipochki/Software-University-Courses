@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net6.0\SumMatrixElements.exe
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net6.0\SumMatrixElements.deps.json
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net6.0\SumMatrixElements.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net6.0\SumMatrixElements.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net6.0\SumMatrixElements.pdb
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net6.0\SumMatrixElements.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net6.0\SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net6.0\SumMatrixElements.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net6.0\SumMatrixElements.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net6.0\SumMatrixElements.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net6.0\SumMatrixElements.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net6.0\refint\SumMatrixElements.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net6.0\SumMatrixElements.pdb
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net6.0\SumMatrixElements.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net6.0\ref\SumMatrixElements.dll

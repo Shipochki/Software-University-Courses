@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\net6.0\PrimaryDiagonal.exe
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\net6.0\PrimaryDiagonal.deps.json
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\net6.0\PrimaryDiagonal.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\net6.0\PrimaryDiagonal.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\net6.0\PrimaryDiagonal.pdb
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net6.0\refint\PrimaryDiagonal.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.pdb
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net6.0\ref\PrimaryDiagonal.dll

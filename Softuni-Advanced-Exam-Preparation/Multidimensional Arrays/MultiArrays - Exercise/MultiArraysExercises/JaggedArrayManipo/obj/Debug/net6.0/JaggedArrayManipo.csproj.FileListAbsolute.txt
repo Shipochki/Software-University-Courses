@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\JaggedArrayManipo\bin\Debug\net6.0\JaggedArrayManipo.exe
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\JaggedArrayManipo\bin\Debug\net6.0\JaggedArrayManipo.deps.json
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\JaggedArrayManipo\bin\Debug\net6.0\JaggedArrayManipo.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\JaggedArrayManipo\bin\Debug\net6.0\JaggedArrayManipo.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\JaggedArrayManipo\bin\Debug\net6.0\JaggedArrayManipo.pdb
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\JaggedArrayManipo\obj\Debug\net6.0\JaggedArrayManipo.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\JaggedArrayManipo\obj\Debug\net6.0\JaggedArrayManipo.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\JaggedArrayManipo\obj\Debug\net6.0\JaggedArrayManipo.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\JaggedArrayManipo\obj\Debug\net6.0\JaggedArrayManipo.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\JaggedArrayManipo\obj\Debug\net6.0\JaggedArrayManipo.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\JaggedArrayManipo\obj\Debug\net6.0\JaggedArrayManipo.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\JaggedArrayManipo\obj\Debug\net6.0\refint\JaggedArrayManipo.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\JaggedArrayManipo\obj\Debug\net6.0\JaggedArrayManipo.pdb
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\JaggedArrayManipo\obj\Debug\net6.0\JaggedArrayManipo.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\MultidimensionalArrays - Exercise\MultidimensipnalArraysExercises\JaggedArrayManipo\obj\Debug\net6.0\ref\JaggedArrayManipo.dll

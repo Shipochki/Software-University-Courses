@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SymbolMatrix\bin\Debug\net6.0\SymbolMatrix.exe
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SymbolMatrix\bin\Debug\net6.0\SymbolMatrix.deps.json
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SymbolMatrix\bin\Debug\net6.0\SymbolMatrix.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SymbolMatrix\bin\Debug\net6.0\SymbolMatrix.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SymbolMatrix\bin\Debug\net6.0\SymbolMatrix.pdb
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SymbolMatrix\obj\Debug\net6.0\SymbolMatrix.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SymbolMatrix\obj\Debug\net6.0\SymbolMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SymbolMatrix\obj\Debug\net6.0\SymbolMatrix.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SymbolMatrix\obj\Debug\net6.0\SymbolMatrix.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SymbolMatrix\obj\Debug\net6.0\SymbolMatrix.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SymbolMatrix\obj\Debug\net6.0\SymbolMatrix.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SymbolMatrix\obj\Debug\net6.0\refint\SymbolMatrix.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SymbolMatrix\obj\Debug\net6.0\SymbolMatrix.pdb
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SymbolMatrix\obj\Debug\net6.0\SymbolMatrix.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SymbolMatrix\obj\Debug\net6.0\ref\SymbolMatrix.dll

@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\net6.0\SquareWithMaximumSum.exe
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\net6.0\SquareWithMaximumSum.deps.json
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\net6.0\SquareWithMaximumSum.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\net6.0\SquareWithMaximumSum.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\net6.0\SquareWithMaximumSum.pdb
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\net6.0\SquareWithMaximumSum.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\net6.0\SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\net6.0\SquareWithMaximumSum.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\net6.0\SquareWithMaximumSum.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\net6.0\SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\net6.0\SquareWithMaximumSum.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\net6.0\refint\SquareWithMaximumSum.dll
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\net6.0\SquareWithMaximumSum.pdb
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\net6.0\SquareWithMaximumSum.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Multidimensional Arrays\Multidimensional Arrays - Lab\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\net6.0\ref\SquareWithMaximumSum.dll
