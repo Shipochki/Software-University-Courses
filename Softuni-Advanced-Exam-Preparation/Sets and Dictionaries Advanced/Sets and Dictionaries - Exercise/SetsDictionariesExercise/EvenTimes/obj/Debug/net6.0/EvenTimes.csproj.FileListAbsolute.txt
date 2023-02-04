@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\EvenTimes\bin\Debug\net6.0\EvenTimes.exe
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\EvenTimes\bin\Debug\net6.0\EvenTimes.deps.json
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\EvenTimes\bin\Debug\net6.0\EvenTimes.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\EvenTimes\bin\Debug\net6.0\EvenTimes.dll
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\EvenTimes\bin\Debug\net6.0\EvenTimes.pdb
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\EvenTimes\obj\Debug\net6.0\EvenTimes.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\EvenTimes\obj\Debug\net6.0\EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\EvenTimes\obj\Debug\net6.0\EvenTimes.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\EvenTimes\obj\Debug\net6.0\EvenTimes.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\EvenTimes\obj\Debug\net6.0\EvenTimes.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\EvenTimes\obj\Debug\net6.0\EvenTimes.dll
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\EvenTimes\obj\Debug\net6.0\refint\EvenTimes.dll
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\EvenTimes\obj\Debug\net6.0\EvenTimes.pdb
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\EvenTimes\obj\Debug\net6.0\EvenTimes.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\EvenTimes\obj\Debug\net6.0\ref\EvenTimes.dll

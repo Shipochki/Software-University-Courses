@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\CitiesContinent\bin\Debug\net6.0\CitiesContinent.exe
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\CitiesContinent\bin\Debug\net6.0\CitiesContinent.deps.json
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\CitiesContinent\bin\Debug\net6.0\CitiesContinent.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\CitiesContinent\bin\Debug\net6.0\CitiesContinent.dll
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\CitiesContinent\bin\Debug\net6.0\CitiesContinent.pdb
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\CitiesContinent\obj\Debug\net6.0\CitiesContinent.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\CitiesContinent\obj\Debug\net6.0\CitiesContinent.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\CitiesContinent\obj\Debug\net6.0\CitiesContinent.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\CitiesContinent\obj\Debug\net6.0\CitiesContinent.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\CitiesContinent\obj\Debug\net6.0\CitiesContinent.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\CitiesContinent\obj\Debug\net6.0\CitiesContinent.dll
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\CitiesContinent\obj\Debug\net6.0\refint\CitiesContinent.dll
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\CitiesContinent\obj\Debug\net6.0\CitiesContinent.pdb
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\CitiesContinent\obj\Debug\net6.0\CitiesContinent.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\CitiesContinent\obj\Debug\net6.0\ref\CitiesContinent.dll

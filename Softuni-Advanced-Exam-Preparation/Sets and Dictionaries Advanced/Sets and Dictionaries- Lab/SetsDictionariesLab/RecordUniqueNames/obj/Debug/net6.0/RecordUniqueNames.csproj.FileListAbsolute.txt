@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\RecordUniqueNames\bin\Debug\net6.0\RecordUniqueNames.exe
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\RecordUniqueNames\bin\Debug\net6.0\RecordUniqueNames.deps.json
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\RecordUniqueNames\bin\Debug\net6.0\RecordUniqueNames.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\RecordUniqueNames\bin\Debug\net6.0\RecordUniqueNames.dll
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\RecordUniqueNames\bin\Debug\net6.0\RecordUniqueNames.pdb
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\net6.0\RecordUniqueNames.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\net6.0\RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\net6.0\RecordUniqueNames.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\net6.0\RecordUniqueNames.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\net6.0\RecordUniqueNames.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\net6.0\RecordUniqueNames.dll
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\net6.0\refint\RecordUniqueNames.dll
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\net6.0\RecordUniqueNames.pdb
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\net6.0\RecordUniqueNames.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\net6.0\ref\RecordUniqueNames.dll

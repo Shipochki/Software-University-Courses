@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\AverageStudent\bin\Debug\net6.0\AverageStudent.exe
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\AverageStudent\bin\Debug\net6.0\AverageStudent.deps.json
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\AverageStudent\bin\Debug\net6.0\AverageStudent.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\AverageStudent\bin\Debug\net6.0\AverageStudent.dll
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\AverageStudent\bin\Debug\net6.0\AverageStudent.pdb
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\AverageStudent\obj\Debug\net6.0\AverageStudent.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\AverageStudent\obj\Debug\net6.0\AverageStudent.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\AverageStudent\obj\Debug\net6.0\AverageStudent.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\AverageStudent\obj\Debug\net6.0\AverageStudent.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\AverageStudent\obj\Debug\net6.0\AverageStudent.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\AverageStudent\obj\Debug\net6.0\AverageStudent.dll
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\AverageStudent\obj\Debug\net6.0\refint\AverageStudent.dll
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\AverageStudent\obj\Debug\net6.0\AverageStudent.pdb
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\AverageStudent\obj\Debug\net6.0\AverageStudent.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedLab\AverageStudent\obj\Debug\net6.0\ref\AverageStudent.dll

@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\PeriodicTable\bin\Debug\net6.0\PeriodicTable.exe
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\PeriodicTable\bin\Debug\net6.0\PeriodicTable.deps.json
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\PeriodicTable\bin\Debug\net6.0\PeriodicTable.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\PeriodicTable\bin\Debug\net6.0\PeriodicTable.dll
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\PeriodicTable\bin\Debug\net6.0\PeriodicTable.pdb
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.dll
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net6.0\refint\PeriodicTable.dll
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.pdb
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\SetsDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net6.0\ref\PeriodicTable.dll
