@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarData\obj\Debug\net6.0\CarData.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarData\obj\Debug\net6.0\CarData.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarData\obj\Debug\net6.0\CarData.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarData\obj\Debug\net6.0\CarData.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarData\obj\Debug\net6.0\CarData.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarData\bin\Debug\net6.0\CarData.exe
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarData\bin\Debug\net6.0\CarData.deps.json
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarData\bin\Debug\net6.0\CarData.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarData\bin\Debug\net6.0\CarData.dll
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarData\bin\Debug\net6.0\CarData.pdb
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarData\obj\Debug\net6.0\CarData.dll
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarData\obj\Debug\net6.0\refint\CarData.dll
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarData\obj\Debug\net6.0\CarData.pdb
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarData\obj\Debug\net6.0\CarData.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarData\obj\Debug\net6.0\ref\CarData.dll

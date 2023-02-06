@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarCargo\bin\Debug\net6.0\CarCargo.exe
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarCargo\bin\Debug\net6.0\CarCargo.deps.json
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarCargo\bin\Debug\net6.0\CarCargo.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarCargo\bin\Debug\net6.0\CarCargo.dll
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarCargo\bin\Debug\net6.0\CarCargo.pdb
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarCargo\obj\Debug\net6.0\CarCargo.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarCargo\obj\Debug\net6.0\CarCargo.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarCargo\obj\Debug\net6.0\CarCargo.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarCargo\obj\Debug\net6.0\CarCargo.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarCargo\obj\Debug\net6.0\CarCargo.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarCargo\obj\Debug\net6.0\CarCargo.dll
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarCargo\obj\Debug\net6.0\refint\CarCargo.dll
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarCargo\obj\Debug\net6.0\CarCargo.pdb
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarCargo\obj\Debug\net6.0\CarCargo.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarCargo\obj\Debug\net6.0\ref\CarCargo.dll

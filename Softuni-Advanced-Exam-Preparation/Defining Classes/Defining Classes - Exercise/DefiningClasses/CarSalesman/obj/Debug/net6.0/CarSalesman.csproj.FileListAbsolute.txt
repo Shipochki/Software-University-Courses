@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarSalesman\bin\Debug\net6.0\CarSalesman.exe
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarSalesman\bin\Debug\net6.0\CarSalesman.deps.json
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarSalesman\bin\Debug\net6.0\CarSalesman.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarSalesman\bin\Debug\net6.0\CarSalesman.dll
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarSalesman\bin\Debug\net6.0\CarSalesman.pdb
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarSalesman\obj\Debug\net6.0\CarSalesman.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarSalesman\obj\Debug\net6.0\CarSalesman.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarSalesman\obj\Debug\net6.0\CarSalesman.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarSalesman\obj\Debug\net6.0\CarSalesman.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarSalesman\obj\Debug\net6.0\CarSalesman.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarSalesman\obj\Debug\net6.0\CarSalesman.dll
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarSalesman\obj\Debug\net6.0\refint\CarSalesman.dll
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarSalesman\obj\Debug\net6.0\CarSalesman.pdb
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarSalesman\obj\Debug\net6.0\CarSalesman.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Exercise\DefiningClasses\CarSalesman\obj\Debug\net6.0\ref\CarSalesman.dll

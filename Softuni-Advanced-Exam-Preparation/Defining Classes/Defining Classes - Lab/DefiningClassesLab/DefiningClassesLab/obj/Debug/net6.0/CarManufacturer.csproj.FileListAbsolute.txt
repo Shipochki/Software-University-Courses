@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Lab\DefiningClassesLab\DefiningClassesLab\bin\Debug\net6.0\CarManufacturer.exe
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Lab\DefiningClassesLab\DefiningClassesLab\bin\Debug\net6.0\CarManufacturer.deps.json
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Lab\DefiningClassesLab\DefiningClassesLab\bin\Debug\net6.0\CarManufacturer.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Lab\DefiningClassesLab\DefiningClassesLab\bin\Debug\net6.0\CarManufacturer.dll
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Lab\DefiningClassesLab\DefiningClassesLab\bin\Debug\net6.0\CarManufacturer.pdb
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Lab\DefiningClassesLab\DefiningClassesLab\obj\Debug\net6.0\CarManufacturer.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Lab\DefiningClassesLab\DefiningClassesLab\obj\Debug\net6.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Lab\DefiningClassesLab\DefiningClassesLab\obj\Debug\net6.0\CarManufacturer.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Lab\DefiningClassesLab\DefiningClassesLab\obj\Debug\net6.0\CarManufacturer.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Lab\DefiningClassesLab\DefiningClassesLab\obj\Debug\net6.0\CarManufacturer.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Lab\DefiningClassesLab\DefiningClassesLab\obj\Debug\net6.0\CarManufacturer.dll
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Lab\DefiningClassesLab\DefiningClassesLab\obj\Debug\net6.0\refint\CarManufacturer.dll
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Lab\DefiningClassesLab\DefiningClassesLab\obj\Debug\net6.0\CarManufacturer.pdb
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Lab\DefiningClassesLab\DefiningClassesLab\obj\Debug\net6.0\CarManufacturer.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Defining Classes\Defining Classes - Lab\DefiningClassesLab\DefiningClassesLab\obj\Debug\net6.0\ref\CarManufacturer.dll
