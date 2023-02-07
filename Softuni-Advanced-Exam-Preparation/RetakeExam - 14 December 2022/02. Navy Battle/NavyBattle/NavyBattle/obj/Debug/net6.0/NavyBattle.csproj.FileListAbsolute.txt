@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\02. Navy Battle\NavyBattle\NavyBattle\obj\Debug\net6.0\NavyBattle.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\02. Navy Battle\NavyBattle\NavyBattle\obj\Debug\net6.0\NavyBattle.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\02. Navy Battle\NavyBattle\NavyBattle\obj\Debug\net6.0\NavyBattle.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\02. Navy Battle\NavyBattle\NavyBattle\obj\Debug\net6.0\NavyBattle.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\02. Navy Battle\NavyBattle\NavyBattle\obj\Debug\net6.0\NavyBattle.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\02. Navy Battle\NavyBattle\NavyBattle\bin\Debug\net6.0\NavyBattle.exe
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\02. Navy Battle\NavyBattle\NavyBattle\bin\Debug\net6.0\NavyBattle.deps.json
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\02. Navy Battle\NavyBattle\NavyBattle\bin\Debug\net6.0\NavyBattle.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\02. Navy Battle\NavyBattle\NavyBattle\bin\Debug\net6.0\NavyBattle.dll
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\02. Navy Battle\NavyBattle\NavyBattle\bin\Debug\net6.0\NavyBattle.pdb
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\02. Navy Battle\NavyBattle\NavyBattle\obj\Debug\net6.0\NavyBattle.dll
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\02. Navy Battle\NavyBattle\NavyBattle\obj\Debug\net6.0\refint\NavyBattle.dll
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\02. Navy Battle\NavyBattle\NavyBattle\obj\Debug\net6.0\NavyBattle.pdb
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\02. Navy Battle\NavyBattle\NavyBattle\obj\Debug\net6.0\NavyBattle.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\02. Navy Battle\NavyBattle\NavyBattle\obj\Debug\net6.0\ref\NavyBattle.dll

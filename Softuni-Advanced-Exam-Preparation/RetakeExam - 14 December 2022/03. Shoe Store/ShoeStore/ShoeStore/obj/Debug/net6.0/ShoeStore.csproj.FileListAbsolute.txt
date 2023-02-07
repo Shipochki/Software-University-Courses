@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\03. Shoe Store\ShoeStore\ShoeStore\bin\Debug\net6.0\ShoeStore.exe
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\03. Shoe Store\ShoeStore\ShoeStore\bin\Debug\net6.0\ShoeStore.deps.json
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\03. Shoe Store\ShoeStore\ShoeStore\bin\Debug\net6.0\ShoeStore.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\03. Shoe Store\ShoeStore\ShoeStore\bin\Debug\net6.0\ShoeStore.dll
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\03. Shoe Store\ShoeStore\ShoeStore\bin\Debug\net6.0\ShoeStore.pdb
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\03. Shoe Store\ShoeStore\ShoeStore\obj\Debug\net6.0\ShoeStore.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\03. Shoe Store\ShoeStore\ShoeStore\obj\Debug\net6.0\ShoeStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\03. Shoe Store\ShoeStore\ShoeStore\obj\Debug\net6.0\ShoeStore.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\03. Shoe Store\ShoeStore\ShoeStore\obj\Debug\net6.0\ShoeStore.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\03. Shoe Store\ShoeStore\ShoeStore\obj\Debug\net6.0\ShoeStore.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\03. Shoe Store\ShoeStore\ShoeStore\obj\Debug\net6.0\ShoeStore.dll
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\03. Shoe Store\ShoeStore\ShoeStore\obj\Debug\net6.0\refint\ShoeStore.dll
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\03. Shoe Store\ShoeStore\ShoeStore\obj\Debug\net6.0\ShoeStore.pdb
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\03. Shoe Store\ShoeStore\ShoeStore\obj\Debug\net6.0\ShoeStore.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\RetakeExam - 14.12.2022\03. Shoe Store\ShoeStore\ShoeStore\obj\Debug\net6.0\ref\ShoeStore.dll
