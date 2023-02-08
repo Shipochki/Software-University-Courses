@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\02. Rally Racing\RallyRacing\RallyRacing\bin\Debug\net6.0\RallyRacing.exe
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\02. Rally Racing\RallyRacing\RallyRacing\bin\Debug\net6.0\RallyRacing.deps.json
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\02. Rally Racing\RallyRacing\RallyRacing\bin\Debug\net6.0\RallyRacing.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\02. Rally Racing\RallyRacing\RallyRacing\bin\Debug\net6.0\RallyRacing.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\02. Rally Racing\RallyRacing\RallyRacing\bin\Debug\net6.0\RallyRacing.pdb
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\02. Rally Racing\RallyRacing\RallyRacing\obj\Debug\net6.0\RallyRacing.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\02. Rally Racing\RallyRacing\RallyRacing\obj\Debug\net6.0\RallyRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\02. Rally Racing\RallyRacing\RallyRacing\obj\Debug\net6.0\RallyRacing.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\02. Rally Racing\RallyRacing\RallyRacing\obj\Debug\net6.0\RallyRacing.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\02. Rally Racing\RallyRacing\RallyRacing\obj\Debug\net6.0\RallyRacing.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\02. Rally Racing\RallyRacing\RallyRacing\obj\Debug\net6.0\RallyRacing.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\02. Rally Racing\RallyRacing\RallyRacing\obj\Debug\net6.0\refint\RallyRacing.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\02. Rally Racing\RallyRacing\RallyRacing\obj\Debug\net6.0\RallyRacing.pdb
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\02. Rally Racing\RallyRacing\RallyRacing\obj\Debug\net6.0\RallyRacing.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\02. Rally Racing\RallyRacing\RallyRacing\obj\Debug\net6.0\ref\RallyRacing.dll

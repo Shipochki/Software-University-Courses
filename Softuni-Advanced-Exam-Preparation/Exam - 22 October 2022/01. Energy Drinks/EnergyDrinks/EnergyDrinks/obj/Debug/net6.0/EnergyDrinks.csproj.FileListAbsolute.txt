@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.exe
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.deps.json
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.pdb
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\refint\EnergyDrinks.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.pdb
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 22 October 2022\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\ref\EnergyDrinks.dll
