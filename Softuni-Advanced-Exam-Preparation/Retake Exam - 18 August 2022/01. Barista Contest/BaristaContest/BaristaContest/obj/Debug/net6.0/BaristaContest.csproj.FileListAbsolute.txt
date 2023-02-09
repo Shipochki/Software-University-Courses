@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Retake Exam – 18 August 2022\01. Barista Contest\BaristaContest\BaristaContest\bin\Debug\net6.0\BaristaContest.exe
+D:\softuni C# Advanced Exam Preparation\Retake Exam – 18 August 2022\01. Barista Contest\BaristaContest\BaristaContest\bin\Debug\net6.0\BaristaContest.deps.json
+D:\softuni C# Advanced Exam Preparation\Retake Exam – 18 August 2022\01. Barista Contest\BaristaContest\BaristaContest\bin\Debug\net6.0\BaristaContest.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Retake Exam – 18 August 2022\01. Barista Contest\BaristaContest\BaristaContest\bin\Debug\net6.0\BaristaContest.dll
+D:\softuni C# Advanced Exam Preparation\Retake Exam – 18 August 2022\01. Barista Contest\BaristaContest\BaristaContest\bin\Debug\net6.0\BaristaContest.pdb
+D:\softuni C# Advanced Exam Preparation\Retake Exam – 18 August 2022\01. Barista Contest\BaristaContest\BaristaContest\obj\Debug\net6.0\BaristaContest.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Retake Exam – 18 August 2022\01. Barista Contest\BaristaContest\BaristaContest\obj\Debug\net6.0\BaristaContest.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Retake Exam – 18 August 2022\01. Barista Contest\BaristaContest\BaristaContest\obj\Debug\net6.0\BaristaContest.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Retake Exam – 18 August 2022\01. Barista Contest\BaristaContest\BaristaContest\obj\Debug\net6.0\BaristaContest.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Retake Exam – 18 August 2022\01. Barista Contest\BaristaContest\BaristaContest\obj\Debug\net6.0\BaristaContest.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Retake Exam – 18 August 2022\01. Barista Contest\BaristaContest\BaristaContest\obj\Debug\net6.0\BaristaContest.dll
+D:\softuni C# Advanced Exam Preparation\Retake Exam – 18 August 2022\01. Barista Contest\BaristaContest\BaristaContest\obj\Debug\net6.0\refint\BaristaContest.dll
+D:\softuni C# Advanced Exam Preparation\Retake Exam – 18 August 2022\01. Barista Contest\BaristaContest\BaristaContest\obj\Debug\net6.0\BaristaContest.pdb
+D:\softuni C# Advanced Exam Preparation\Retake Exam – 18 August 2022\01. Barista Contest\BaristaContest\BaristaContest\obj\Debug\net6.0\BaristaContest.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Retake Exam – 18 August 2022\01. Barista Contest\BaristaContest\BaristaContest\obj\Debug\net6.0\ref\BaristaContest.dll
