@@ -1,0 +1,16 @@
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\03. Renovators\Renovators\Renovators\bin\Debug\net5.0\Renovators.exe
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\03. Renovators\Renovators\Renovators\bin\Debug\net5.0\Renovators.deps.json
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\03. Renovators\Renovators\Renovators\bin\Debug\net5.0\Renovators.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\03. Renovators\Renovators\Renovators\bin\Debug\net5.0\Renovators.runtimeconfig.dev.json
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\03. Renovators\Renovators\Renovators\bin\Debug\net5.0\Renovators.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\03. Renovators\Renovators\Renovators\bin\Debug\net5.0\Renovators.pdb
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\03. Renovators\Renovators\Renovators\obj\Debug\net5.0\Renovators.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\03. Renovators\Renovators\Renovators\obj\Debug\net5.0\Renovators.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\03. Renovators\Renovators\Renovators\obj\Debug\net5.0\Renovators.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\03. Renovators\Renovators\Renovators\obj\Debug\net5.0\Renovators.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\03. Renovators\Renovators\Renovators\obj\Debug\net5.0\Renovators.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\03. Renovators\Renovators\Renovators\obj\Debug\net5.0\Renovators.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\03. Renovators\Renovators\Renovators\obj\Debug\net5.0\refint\Renovators.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\03. Renovators\Renovators\Renovators\obj\Debug\net5.0\Renovators.pdb
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\03. Renovators\Renovators\Renovators\obj\Debug\net5.0\Renovators.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\03. Renovators\Renovators\Renovators\obj\Debug\net5.0\ref\Renovators.dll

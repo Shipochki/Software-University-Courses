@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\02. Wall Destroyer\WallDestroyer\WallDestroyer\bin\Debug\net6.0\WallDestroyer.exe
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\02. Wall Destroyer\WallDestroyer\WallDestroyer\bin\Debug\net6.0\WallDestroyer.deps.json
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\02. Wall Destroyer\WallDestroyer\WallDestroyer\bin\Debug\net6.0\WallDestroyer.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\02. Wall Destroyer\WallDestroyer\WallDestroyer\bin\Debug\net6.0\WallDestroyer.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\02. Wall Destroyer\WallDestroyer\WallDestroyer\bin\Debug\net6.0\WallDestroyer.pdb
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\02. Wall Destroyer\WallDestroyer\WallDestroyer\obj\Debug\net6.0\WallDestroyer.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\02. Wall Destroyer\WallDestroyer\WallDestroyer\obj\Debug\net6.0\WallDestroyer.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\02. Wall Destroyer\WallDestroyer\WallDestroyer\obj\Debug\net6.0\WallDestroyer.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\02. Wall Destroyer\WallDestroyer\WallDestroyer\obj\Debug\net6.0\WallDestroyer.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\02. Wall Destroyer\WallDestroyer\WallDestroyer\obj\Debug\net6.0\WallDestroyer.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\02. Wall Destroyer\WallDestroyer\WallDestroyer\obj\Debug\net6.0\WallDestroyer.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\02. Wall Destroyer\WallDestroyer\WallDestroyer\obj\Debug\net6.0\refint\WallDestroyer.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\02. Wall Destroyer\WallDestroyer\WallDestroyer\obj\Debug\net6.0\WallDestroyer.pdb
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\02. Wall Destroyer\WallDestroyer\WallDestroyer\obj\Debug\net6.0\WallDestroyer.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 25 June 2022\02. Wall Destroyer\WallDestroyer\WallDestroyer\obj\Debug\net6.0\ref\WallDestroyer.dll
