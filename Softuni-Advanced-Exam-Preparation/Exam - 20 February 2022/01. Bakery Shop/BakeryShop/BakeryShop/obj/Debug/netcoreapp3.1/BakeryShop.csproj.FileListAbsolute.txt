@@ -1,0 +1,14 @@
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\01. Bakery Shop\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.exe
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\01. Bakery Shop\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.deps.json
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\01. Bakery Shop\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\01. Bakery Shop\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.runtimeconfig.dev.json
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\01. Bakery Shop\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\01. Bakery Shop\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.pdb
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\01. Bakery Shop\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\01. Bakery Shop\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\01. Bakery Shop\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\01. Bakery Shop\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\01. Bakery Shop\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\01. Bakery Shop\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\01. Bakery Shop\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.pdb
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\01. Bakery Shop\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\02. Beaver at Work\BeaverAtWork\BeaverAtWork\bin\Debug\netcoreapp3.1\BeaverAtWork.exe
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\02. Beaver at Work\BeaverAtWork\BeaverAtWork\bin\Debug\netcoreapp3.1\BeaverAtWork.deps.json
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\02. Beaver at Work\BeaverAtWork\BeaverAtWork\bin\Debug\netcoreapp3.1\BeaverAtWork.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\02. Beaver at Work\BeaverAtWork\BeaverAtWork\bin\Debug\netcoreapp3.1\BeaverAtWork.runtimeconfig.dev.json
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\02. Beaver at Work\BeaverAtWork\BeaverAtWork\bin\Debug\netcoreapp3.1\BeaverAtWork.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\02. Beaver at Work\BeaverAtWork\BeaverAtWork\bin\Debug\netcoreapp3.1\BeaverAtWork.pdb
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\02. Beaver at Work\BeaverAtWork\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\02. Beaver at Work\BeaverAtWork\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\02. Beaver at Work\BeaverAtWork\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\02. Beaver at Work\BeaverAtWork\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\02. Beaver at Work\BeaverAtWork\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\02. Beaver at Work\BeaverAtWork\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\02. Beaver at Work\BeaverAtWork\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.pdb
+D:\softuni C# Advanced Exam Preparation\Exam - 20 February 2022\02. Beaver at Work\BeaverAtWork\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.genruntimeconfig.cache
