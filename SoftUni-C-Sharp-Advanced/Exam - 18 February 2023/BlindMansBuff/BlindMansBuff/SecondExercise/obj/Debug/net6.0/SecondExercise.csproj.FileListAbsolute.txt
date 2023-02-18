@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\2\SecondExercise\SecondExercise\bin\Debug\net6.0\SecondExercise.exe
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\2\SecondExercise\SecondExercise\bin\Debug\net6.0\SecondExercise.deps.json
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\2\SecondExercise\SecondExercise\bin\Debug\net6.0\SecondExercise.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\2\SecondExercise\SecondExercise\bin\Debug\net6.0\SecondExercise.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\2\SecondExercise\SecondExercise\bin\Debug\net6.0\SecondExercise.pdb
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\2\SecondExercise\SecondExercise\obj\Debug\net6.0\SecondExercise.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\2\SecondExercise\SecondExercise\obj\Debug\net6.0\SecondExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\2\SecondExercise\SecondExercise\obj\Debug\net6.0\SecondExercise.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\2\SecondExercise\SecondExercise\obj\Debug\net6.0\SecondExercise.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\2\SecondExercise\SecondExercise\obj\Debug\net6.0\SecondExercise.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\2\SecondExercise\SecondExercise\obj\Debug\net6.0\SecondExercise.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\2\SecondExercise\SecondExercise\obj\Debug\net6.0\refint\SecondExercise.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\2\SecondExercise\SecondExercise\obj\Debug\net6.0\SecondExercise.pdb
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\2\SecondExercise\SecondExercise\obj\Debug\net6.0\SecondExercise.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\2\SecondExercise\SecondExercise\obj\Debug\net6.0\ref\SecondExercise.dll

@@ -1,0 +1,15 @@
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\3\SoftUniKindergarten\bin\Debug\net6.0\SoftUniKindergarten.exe
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\3\SoftUniKindergarten\bin\Debug\net6.0\SoftUniKindergarten.deps.json
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\3\SoftUniKindergarten\bin\Debug\net6.0\SoftUniKindergarten.runtimeconfig.json
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\3\SoftUniKindergarten\bin\Debug\net6.0\SoftUniKindergarten.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\3\SoftUniKindergarten\bin\Debug\net6.0\SoftUniKindergarten.pdb
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\3\SoftUniKindergarten\obj\Debug\net6.0\SoftUniKindergarten.csproj.AssemblyReference.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\3\SoftUniKindergarten\obj\Debug\net6.0\SoftUniKindergarten.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\3\SoftUniKindergarten\obj\Debug\net6.0\SoftUniKindergarten.AssemblyInfoInputs.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\3\SoftUniKindergarten\obj\Debug\net6.0\SoftUniKindergarten.AssemblyInfo.cs
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\3\SoftUniKindergarten\obj\Debug\net6.0\SoftUniKindergarten.csproj.CoreCompileInputs.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\3\SoftUniKindergarten\obj\Debug\net6.0\SoftUniKindergarten.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\3\SoftUniKindergarten\obj\Debug\net6.0\refint\SoftUniKindergarten.dll
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\3\SoftUniKindergarten\obj\Debug\net6.0\SoftUniKindergarten.pdb
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\3\SoftUniKindergarten\obj\Debug\net6.0\SoftUniKindergarten.genruntimeconfig.cache
+D:\softuni C# Advanced Exam Preparation\Exam - 18 February 2023\3\SoftUniKindergarten\obj\Debug\net6.0\ref\SoftUniKindergarten.dll
