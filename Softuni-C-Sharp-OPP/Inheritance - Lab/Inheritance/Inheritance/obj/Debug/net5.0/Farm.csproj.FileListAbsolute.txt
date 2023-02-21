@@ -1,0 +1,16 @@
+D:\softuni c# OPP\Inheritance - Lab\Inheritance\Inheritance\bin\Debug\net5.0\Farm.exe
+D:\softuni c# OPP\Inheritance - Lab\Inheritance\Inheritance\bin\Debug\net5.0\Farm.deps.json
+D:\softuni c# OPP\Inheritance - Lab\Inheritance\Inheritance\bin\Debug\net5.0\Farm.runtimeconfig.json
+D:\softuni c# OPP\Inheritance - Lab\Inheritance\Inheritance\bin\Debug\net5.0\Farm.runtimeconfig.dev.json
+D:\softuni c# OPP\Inheritance - Lab\Inheritance\Inheritance\bin\Debug\net5.0\Farm.dll
+D:\softuni c# OPP\Inheritance - Lab\Inheritance\Inheritance\bin\Debug\net5.0\Farm.pdb
+D:\softuni c# OPP\Inheritance - Lab\Inheritance\Inheritance\obj\Debug\net5.0\Farm.csproj.AssemblyReference.cache
+D:\softuni c# OPP\Inheritance - Lab\Inheritance\Inheritance\obj\Debug\net5.0\Farm.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# OPP\Inheritance - Lab\Inheritance\Inheritance\obj\Debug\net5.0\Farm.AssemblyInfoInputs.cache
+D:\softuni c# OPP\Inheritance - Lab\Inheritance\Inheritance\obj\Debug\net5.0\Farm.AssemblyInfo.cs
+D:\softuni c# OPP\Inheritance - Lab\Inheritance\Inheritance\obj\Debug\net5.0\Farm.csproj.CoreCompileInputs.cache
+D:\softuni c# OPP\Inheritance - Lab\Inheritance\Inheritance\obj\Debug\net5.0\Farm.dll
+D:\softuni c# OPP\Inheritance - Lab\Inheritance\Inheritance\obj\Debug\net5.0\refint\Farm.dll
+D:\softuni c# OPP\Inheritance - Lab\Inheritance\Inheritance\obj\Debug\net5.0\Farm.pdb
+D:\softuni c# OPP\Inheritance - Lab\Inheritance\Inheritance\obj\Debug\net5.0\Farm.genruntimeconfig.cache
+D:\softuni c# OPP\Inheritance - Lab\Inheritance\Inheritance\obj\Debug\net5.0\ref\Farm.dll
