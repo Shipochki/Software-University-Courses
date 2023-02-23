@@ -1,0 +1,14 @@
+D:\softuni c# OPP\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+D:\softuni c# OPP\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+D:\softuni c# OPP\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+D:\softuni c# OPP\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+D:\softuni c# OPP\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+D:\softuni c# OPP\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+D:\softuni c# OPP\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.AssemblyReference.cache
+D:\softuni c# OPP\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# OPP\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+D:\softuni c# OPP\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+D:\softuni c# OPP\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+D:\softuni c# OPP\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+D:\softuni c# OPP\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+D:\softuni c# OPP\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache
