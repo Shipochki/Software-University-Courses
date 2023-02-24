@@ -1,0 +1,16 @@
+D:\softuni c# OPP\Encapsulation - Lab\SortPersonsName Age\Encapsulation\bin\Debug\net5.0\Encapsulation.exe
+D:\softuni c# OPP\Encapsulation - Lab\SortPersonsName Age\Encapsulation\bin\Debug\net5.0\Encapsulation.deps.json
+D:\softuni c# OPP\Encapsulation - Lab\SortPersonsName Age\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.json
+D:\softuni c# OPP\Encapsulation - Lab\SortPersonsName Age\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.dev.json
+D:\softuni c# OPP\Encapsulation - Lab\SortPersonsName Age\Encapsulation\bin\Debug\net5.0\Encapsulation.dll
+D:\softuni c# OPP\Encapsulation - Lab\SortPersonsName Age\Encapsulation\bin\Debug\net5.0\Encapsulation.pdb
+D:\softuni c# OPP\Encapsulation - Lab\SortPersonsName Age\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.AssemblyReference.cache
+D:\softuni c# OPP\Encapsulation - Lab\SortPersonsName Age\Encapsulation\obj\Debug\net5.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# OPP\Encapsulation - Lab\SortPersonsName Age\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfoInputs.cache
+D:\softuni c# OPP\Encapsulation - Lab\SortPersonsName Age\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfo.cs
+D:\softuni c# OPP\Encapsulation - Lab\SortPersonsName Age\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\softuni c# OPP\Encapsulation - Lab\SortPersonsName Age\Encapsulation\obj\Debug\net5.0\Encapsulation.dll
+D:\softuni c# OPP\Encapsulation - Lab\SortPersonsName Age\Encapsulation\obj\Debug\net5.0\refint\Encapsulation.dll
+D:\softuni c# OPP\Encapsulation - Lab\SortPersonsName Age\Encapsulation\obj\Debug\net5.0\Encapsulation.pdb
+D:\softuni c# OPP\Encapsulation - Lab\SortPersonsName Age\Encapsulation\obj\Debug\net5.0\Encapsulation.genruntimeconfig.cache
+D:\softuni c# OPP\Encapsulation - Lab\SortPersonsName Age\Encapsulation\obj\Debug\net5.0\ref\Encapsulation.dll
