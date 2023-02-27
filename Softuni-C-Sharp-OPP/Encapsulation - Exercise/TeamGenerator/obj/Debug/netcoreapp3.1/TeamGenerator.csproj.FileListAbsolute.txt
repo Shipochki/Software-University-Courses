@@ -1,0 +1,14 @@
+D:\softuni c# OPP\Encapsulation - Lab\Exercise\TeamGenerator\bin\Debug\netcoreapp3.1\TeamGenerator.exe
+D:\softuni c# OPP\Encapsulation - Lab\Exercise\TeamGenerator\bin\Debug\netcoreapp3.1\TeamGenerator.deps.json
+D:\softuni c# OPP\Encapsulation - Lab\Exercise\TeamGenerator\bin\Debug\netcoreapp3.1\TeamGenerator.runtimeconfig.json
+D:\softuni c# OPP\Encapsulation - Lab\Exercise\TeamGenerator\bin\Debug\netcoreapp3.1\TeamGenerator.runtimeconfig.dev.json
+D:\softuni c# OPP\Encapsulation - Lab\Exercise\TeamGenerator\bin\Debug\netcoreapp3.1\TeamGenerator.dll
+D:\softuni c# OPP\Encapsulation - Lab\Exercise\TeamGenerator\bin\Debug\netcoreapp3.1\TeamGenerator.pdb
+D:\softuni c# OPP\Encapsulation - Lab\Exercise\TeamGenerator\obj\Debug\netcoreapp3.1\TeamGenerator.csproj.AssemblyReference.cache
+D:\softuni c# OPP\Encapsulation - Lab\Exercise\TeamGenerator\obj\Debug\netcoreapp3.1\TeamGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# OPP\Encapsulation - Lab\Exercise\TeamGenerator\obj\Debug\netcoreapp3.1\TeamGenerator.AssemblyInfoInputs.cache
+D:\softuni c# OPP\Encapsulation - Lab\Exercise\TeamGenerator\obj\Debug\netcoreapp3.1\TeamGenerator.AssemblyInfo.cs
+D:\softuni c# OPP\Encapsulation - Lab\Exercise\TeamGenerator\obj\Debug\netcoreapp3.1\TeamGenerator.csproj.CoreCompileInputs.cache
+D:\softuni c# OPP\Encapsulation - Lab\Exercise\TeamGenerator\obj\Debug\netcoreapp3.1\TeamGenerator.dll
+D:\softuni c# OPP\Encapsulation - Lab\Exercise\TeamGenerator\obj\Debug\netcoreapp3.1\TeamGenerator.pdb
+D:\softuni c# OPP\Encapsulation - Lab\Exercise\TeamGenerator\obj\Debug\netcoreapp3.1\TeamGenerator.genruntimeconfig.cache
