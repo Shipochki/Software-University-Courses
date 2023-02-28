@@ -1,0 +1,14 @@
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.exe
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.dll
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.pdb
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.AssemblyReference.cache
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.CoreCompileInputs.cache
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.dll
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.pdb
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.genruntimeconfig.cache
