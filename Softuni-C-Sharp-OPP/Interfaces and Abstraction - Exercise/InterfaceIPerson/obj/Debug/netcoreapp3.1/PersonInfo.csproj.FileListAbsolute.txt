@@ -1,0 +1,14 @@
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\InterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.exe
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\InterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\InterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\InterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\InterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.dll
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\InterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\InterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.csproj.AssemblyReference.cache
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\InterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\InterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\InterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\InterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\InterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.dll
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\InterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\InterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache
