@@ -1,0 +1,14 @@
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.exe
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.deps.json
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.runtimeconfig.json
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.runtimeconfig.dev.json
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.dll
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.pdb
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.csproj.AssemblyReference.cache
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.AssemblyInfoInputs.cache
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.AssemblyInfo.cs
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.csproj.CoreCompileInputs.cache
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.dll
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.pdb
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.genruntimeconfig.cache
