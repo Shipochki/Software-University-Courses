@@ -1,0 +1,14 @@
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.exe
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.deps.json
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.json
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.dev.json
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.dll
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.pdb
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.AssemblyReference.cache
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfoInputs.cache
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfo.cs
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.CoreCompileInputs.cache
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.dll
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.pdb
+D:\softuni c# OPP\Interfaces and Abstraction - Exercise\InterfacesAbstraction\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.genruntimeconfig.cache
