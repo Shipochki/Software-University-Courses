@@ -1,0 +1,14 @@
+D:\softuni c# OPP\Encapsulation - Lab\Shapes\InterfacesAndAbstractions\bin\Debug\netcoreapp3.1\Shapes.exe
+D:\softuni c# OPP\Encapsulation - Lab\Shapes\InterfacesAndAbstractions\bin\Debug\netcoreapp3.1\Shapes.deps.json
+D:\softuni c# OPP\Encapsulation - Lab\Shapes\InterfacesAndAbstractions\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+D:\softuni c# OPP\Encapsulation - Lab\Shapes\InterfacesAndAbstractions\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+D:\softuni c# OPP\Encapsulation - Lab\Shapes\InterfacesAndAbstractions\bin\Debug\netcoreapp3.1\Shapes.dll
+D:\softuni c# OPP\Encapsulation - Lab\Shapes\InterfacesAndAbstractions\bin\Debug\netcoreapp3.1\Shapes.pdb
+D:\softuni c# OPP\Encapsulation - Lab\Shapes\InterfacesAndAbstractions\obj\Debug\netcoreapp3.1\Shapes.csproj.AssemblyReference.cache
+D:\softuni c# OPP\Encapsulation - Lab\Shapes\InterfacesAndAbstractions\obj\Debug\netcoreapp3.1\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# OPP\Encapsulation - Lab\Shapes\InterfacesAndAbstractions\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+D:\softuni c# OPP\Encapsulation - Lab\Shapes\InterfacesAndAbstractions\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+D:\softuni c# OPP\Encapsulation - Lab\Shapes\InterfacesAndAbstractions\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+D:\softuni c# OPP\Encapsulation - Lab\Shapes\InterfacesAndAbstractions\obj\Debug\netcoreapp3.1\Shapes.dll
+D:\softuni c# OPP\Encapsulation - Lab\Shapes\InterfacesAndAbstractions\obj\Debug\netcoreapp3.1\Shapes.pdb
+D:\softuni c# OPP\Encapsulation - Lab\Shapes\InterfacesAndAbstractions\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache
