@@ -1,0 +1,15 @@
+D:\softuni c# OPP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.csproj.AssemblyReference.cache
+D:\softuni c# OPP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# OPP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.AssemblyInfoInputs.cache
+D:\softuni c# OPP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.AssemblyInfo.cs
+D:\softuni c# OPP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.csproj.CoreCompileInputs.cache
+D:\softuni c# OPP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.exe
+D:\softuni c# OPP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.deps.json
+D:\softuni c# OPP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.runtimeconfig.json
+D:\softuni c# OPP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.dll
+D:\softuni c# OPP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.pdb
+D:\softuni c# OPP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.dll
+D:\softuni c# OPP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\refint\ValidationAttributes.dll
+D:\softuni c# OPP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.pdb
+D:\softuni c# OPP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.genruntimeconfig.cache
+D:\softuni c# OPP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ref\ValidationAttributes.dll
