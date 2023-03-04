@@ -25,7 +25,7 @@ namespace Database.Tests
         }
 
         [Test]
-        public void Adding_More_Than_Capacity_Throw_Exeption()
+        public void Adding_More_Than_Capacity_Throw_Exception()
         {
             Assert.Throws<InvalidOperationException>(() =>
             {
@@ -44,7 +44,7 @@ namespace Database.Tests
         }
 
         [Test]
-        public void Removing_From_Empty_Database_Throw_Expetion()
+        public void Removing_From_Empty_Database_Throw_Exception()
         {
             this.emptyDatabase = new Database(new int[0]);
 
