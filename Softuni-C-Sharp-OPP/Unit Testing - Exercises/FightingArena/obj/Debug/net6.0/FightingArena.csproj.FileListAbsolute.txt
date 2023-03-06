@@ -1,0 +1,12 @@
+D:\softuni c# OPP\Unit Testing - Exercises\FightingArena\bin\Debug\net6.0\FightingArena.deps.json
+D:\softuni c# OPP\Unit Testing - Exercises\FightingArena\bin\Debug\net6.0\FightingArena.dll
+D:\softuni c# OPP\Unit Testing - Exercises\FightingArena\bin\Debug\net6.0\FightingArena.pdb
+D:\softuni c# OPP\Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.csproj.AssemblyReference.cache
+D:\softuni c# OPP\Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# OPP\Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.AssemblyInfoInputs.cache
+D:\softuni c# OPP\Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.AssemblyInfo.cs
+D:\softuni c# OPP\Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.csproj.CoreCompileInputs.cache
+D:\softuni c# OPP\Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.dll
+D:\softuni c# OPP\Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\refint\FightingArena.dll
+D:\softuni c# OPP\Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.pdb
+D:\softuni c# OPP\Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\ref\FightingArena.dll
