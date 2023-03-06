@@ -1,0 +1,12 @@
+D:\softuni c# OPP\Unit Testing - Exercises\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.deps.json
+D:\softuni c# OPP\Unit Testing - Exercises\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.dll
+D:\softuni c# OPP\Unit Testing - Exercises\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.pdb
+D:\softuni c# OPP\Unit Testing - Exercises\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.csproj.AssemblyReference.cache
+D:\softuni c# OPP\Unit Testing - Exercises\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# OPP\Unit Testing - Exercises\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.AssemblyInfoInputs.cache
+D:\softuni c# OPP\Unit Testing - Exercises\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.AssemblyInfo.cs
+D:\softuni c# OPP\Unit Testing - Exercises\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.csproj.CoreCompileInputs.cache
+D:\softuni c# OPP\Unit Testing - Exercises\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.dll
+D:\softuni c# OPP\Unit Testing - Exercises\DatabaseExtended\obj\Debug\net6.0\refint\DatabaseExtended.dll
+D:\softuni c# OPP\Unit Testing - Exercises\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.pdb
+D:\softuni c# OPP\Unit Testing - Exercises\DatabaseExtended\obj\Debug\net6.0\ref\DatabaseExtended.dll
