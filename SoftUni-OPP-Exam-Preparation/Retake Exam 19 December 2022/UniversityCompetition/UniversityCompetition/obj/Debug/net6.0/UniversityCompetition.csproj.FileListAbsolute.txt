@@ -1,0 +1,50 @@
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.csproj.AssemblyReference.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.AssemblyInfoInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.AssemblyInfo.cs
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.csproj.CoreCompileInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\UniversityCompetition.exe
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\UniversityCompetition.deps.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\UniversityCompetition.runtimeconfig.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\UniversityCompetition.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\UniversityCompetition.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.csproj.CopyComplete
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\refint\UniversityCompetition.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.genruntimeconfig.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\ref\UniversityCompetition.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.csproj.AssemblyReference.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.AssemblyInfoInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.AssemblyInfo.cs
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.csproj.CoreCompileInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\refint\UniversityCompetition.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\UniversityCompetition.exe
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\UniversityCompetition.deps.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\UniversityCompetition.runtimeconfig.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\UniversityCompetition.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\UniversityCompetition.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.csproj.CopyComplete
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\UniversityCompetition.genruntimeconfig.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 19 December 2022\UniversityCompetition\UniversityCompetition\obj\Debug\net6.0\ref\UniversityCompetition.dll
