@@ -1,0 +1,14 @@
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 December 2022\Tests\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.exe
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 December 2022\Tests\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.deps.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 December 2022\Tests\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.runtimeconfig.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 December 2022\Tests\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.runtimeconfig.dev.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 December 2022\Tests\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 December 2022\Tests\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 December 2022\Tests\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.csproj.AssemblyReference.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 December 2022\Tests\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 December 2022\Tests\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.AssemblyInfoInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 December 2022\Tests\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.AssemblyInfo.cs
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 December 2022\Tests\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.csproj.CoreCompileInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 December 2022\Tests\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 December 2022\Tests\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 December 2022\Tests\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.genruntimeconfig.cache
