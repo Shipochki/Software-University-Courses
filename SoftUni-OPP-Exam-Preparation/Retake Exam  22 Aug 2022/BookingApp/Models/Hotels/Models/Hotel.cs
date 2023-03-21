@@ -47,25 +47,24 @@ namespace BookingApp.Models.Hotels.Models
 			}
 		}
 
-		private double turnover;
+		private double turnover =>
+			this.bookings.All().Sum(b => Math.Round(b.ResidenceDuration * b.Room.PricePerNight, 2));
 
 		public double Turnover
 		{
 			get { return turnover; }
-			private set
-			{
-				turnover = this.bookings.All().Sum(b => Math.Round(b.ResidenceDuration * b.Room.PricePerNight, 2));
-			}
 		}
 
-		private RoomRepository rooms = new RoomRepository();
+		
+
+		private IRepository<IRoom> rooms = new RoomRepository();
 
 		public IRepository<IRoom> Rooms
 		{
 			get { return rooms; }
 		}
 
-		private BookingRepository bookings = new BookingRepository();
+		private IRepository<IBooking> bookings = new BookingRepository();
 
 		public IRepository<IBooking> Bookings
 		{

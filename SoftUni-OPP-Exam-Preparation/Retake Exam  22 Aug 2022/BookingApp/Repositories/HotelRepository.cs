@@ -18,10 +18,7 @@ namespace BookingApp.Repositories
 			this.hotels.Add(model);
 		}
 
-		public IReadOnlyCollection<IHotel> All()
-		{
-			return this.hotels.AsReadOnly();
-		}
+		public IReadOnlyCollection<IHotel> All() => this.hotels;
 
 		public IHotel Select(string criteria)
 		{

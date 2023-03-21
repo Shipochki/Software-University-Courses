@@ -87,7 +87,7 @@ namespace BookingApp.Models.Bookings.Models
 		{
 			StringBuilder sb = new StringBuilder();
 			sb.AppendLine($"Booking number: {BookingNumber}");
-			sb.AppendLine($"Room type: {Room.GetType()}");
+			sb.AppendLine($"Room type: {Room.GetType().Name}");
 			sb.AppendLine($"Adults: {AdultsCount} Children: {ChildrenCount}");
 			sb.AppendLine($"Total amount paid: {Math.Round(ResidenceDuration * Room.PricePerNight, 2):F2} $");
 
