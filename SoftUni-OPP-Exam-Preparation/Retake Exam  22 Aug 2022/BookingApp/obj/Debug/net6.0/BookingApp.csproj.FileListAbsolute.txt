@@ -1,0 +1,15 @@
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 22 Aug 2022\BookingApp\bin\Debug\net6.0\BookingApp.exe
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 22 Aug 2022\BookingApp\bin\Debug\net6.0\BookingApp.deps.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 22 Aug 2022\BookingApp\bin\Debug\net6.0\BookingApp.runtimeconfig.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 22 Aug 2022\BookingApp\bin\Debug\net6.0\BookingApp.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 22 Aug 2022\BookingApp\bin\Debug\net6.0\BookingApp.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 22 Aug 2022\BookingApp\obj\Debug\net6.0\BookingApp.csproj.AssemblyReference.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 22 Aug 2022\BookingApp\obj\Debug\net6.0\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 22 Aug 2022\BookingApp\obj\Debug\net6.0\BookingApp.AssemblyInfoInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 22 Aug 2022\BookingApp\obj\Debug\net6.0\BookingApp.AssemblyInfo.cs
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 22 Aug 2022\BookingApp\obj\Debug\net6.0\BookingApp.csproj.CoreCompileInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 22 Aug 2022\BookingApp\obj\Debug\net6.0\BookingApp.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 22 Aug 2022\BookingApp\obj\Debug\net6.0\refint\BookingApp.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 22 Aug 2022\BookingApp\obj\Debug\net6.0\BookingApp.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 22 Aug 2022\BookingApp\obj\Debug\net6.0\BookingApp.genruntimeconfig.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam – 22 Aug 2022\BookingApp\obj\Debug\net6.0\ref\BookingApp.dll
