@@ -63,14 +63,16 @@ namespace PlanetWars.Models.Planets.Models
 			double amount =
 				this.units.Models.Sum(a => a.EnduranceLevel) +
 				this.weapons.Models.Sum(w => w.DestructionLevel);
-			if (this.units.FindByName(nameof(AnonymousImpactUnit)).GetType().Name
-				== nameof(AnonymousImpactUnit).GetType().Name)
+			if (this.units.FindByName(nameof(AnonymousImpactUnit)) != null && 
+				this.units.FindByName(nameof(AnonymousImpactUnit)).GetType().Name
+				== nameof(AnonymousImpactUnit))
 			{
 				amount += amount * 0.3;
 			}
 
-			if (this.weapons.FindByName(nameof(NuclearWeapon)).GetType().Name
-				== nameof(NuclearWeapon).GetType().Name)
+			if (this.weapons.FindByName(nameof(NuclearWeapon)) != null &&
+				this.weapons.FindByName(nameof(NuclearWeapon)).GetType().Name 
+				== nameof(NuclearWeapon))
 			{
 				amount += amount * 0.45;
 			}
@@ -102,7 +104,7 @@ namespace PlanetWars.Models.Planets.Models
 
 			if (this.Army.Count == 0)
 			{
-				sb.AppendLine("No units");
+				sb.AppendLine("--Forces: No units");
 			}
 			else
 			{
@@ -111,7 +113,7 @@ namespace PlanetWars.Models.Planets.Models
 
 			if (this.Weapons.Count == 0)
 			{
-				sb.AppendLine($"No weapons");
+				sb.AppendLine($"--Combat equipment: No weapons");
 			}
 			else
 			{

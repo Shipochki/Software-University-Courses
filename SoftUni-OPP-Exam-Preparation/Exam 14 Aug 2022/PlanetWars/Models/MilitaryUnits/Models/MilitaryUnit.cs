@@ -21,12 +21,11 @@ namespace PlanetWars.Models.MilitaryUnits.Models
 			private set { cost = value; }
 		}
 
-		private int enduranceLevel;
+		private int enduranceLevel = 1;
 
 		public int EnduranceLevel
 		{
 			get { return enduranceLevel; }
-			private set { enduranceLevel = value; }
 		}
 
 
