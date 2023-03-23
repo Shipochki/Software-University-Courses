@@ -8,7 +8,12 @@ namespace Heroes.Repositories
 {
 	public class HeroRepository : IRepository<IHero>
 	{
-		private List<IHero> models = new List<IHero>();
+		public HeroRepository()
+		{
+			this.models = new List<IHero>();
+		}
+
+		private List<IHero> models;
 
 		public IReadOnlyCollection<IHero> Models => models;
 

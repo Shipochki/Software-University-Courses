@@ -9,7 +9,12 @@ namespace Heroes.Repositories
 {
 	public class WeaponRepository : IRepository<IWeapon>
 	{
-		private List<IWeapon> models = new List<IWeapon>();
+		public WeaponRepository()
+		{
+			this.models = new List<IWeapon>();
+		}
+
+		private List<IWeapon> models;
 
 		public IReadOnlyCollection<IWeapon> Models => models;
 

@@ -1,7 +1,5 @@
 ﻿using Heroes.Models.Contracts;
 using System;
-using System.Collections.Generic;
-using System.Text;
 using static Heroes.Utilities.Messages.ExceptionMessages;
 
 namespace Heroes.Models.Heroes
@@ -95,18 +93,25 @@ namespace Heroes.Models.Heroes
 
 		public void TakeDamage(int points)
 		{
-			this.armour -= points;
-			if (this.armour <= 0)
+			if (this.armour - points == 0)
+			{
+				this.armour = 0;
+			}
+			else if (this.armour - points < 0)
 			{
 				int current = points - this.armour;
 				this.armour = 0;
 				this.health -= current;
-				if(this.health <= 0)
-				{
-					this.health = 0;
-				}
+			}
+			else
+			{
+				this.armour -= points;
 			}
 
+			if (this.health < 0)
+			{
+				this.health = 0;
+			}
 		}
 	}
 }

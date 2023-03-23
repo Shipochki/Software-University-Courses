@@ -7,7 +7,7 @@ using System.Text;
 
 namespace Heroes.Models.Map
 {
-    public class Map : IMap
+	public class Map : IMap
 	{
 		public string Fight(ICollection<IHero> players)
 		{
@@ -27,39 +27,45 @@ namespace Heroes.Models.Map
 			}
 
 			while (knights.Any(k => k.IsAlive)
-				|| barbarians.Any(b => b.IsAlive)) ;
+				&& barbarians.Any(b => b.IsAlive))
 			{
 				foreach (var knight in knights)
 				{
-					if (knight.IsAlive)
+					if (knight.IsAlive && knight.Weapon != null)
 					{
 						foreach (var barbarian in barbarians)
 						{
-							barbarian.TakeDamage(knight.Weapon.DoDamage());
+							if (barbarian.IsAlive)
+							{
+								barbarian.TakeDamage(knight.Weapon.DoDamage());
+							}
 						}
 					}
 				}
 
 				foreach (var barbarian in barbarians)
 				{
-					if (barbarian.IsAlive)
+					if (barbarian.IsAlive && barbarian.Weapon != null)
 					{
 						foreach (var knight in knights)
 						{
-							knight.TakeDamage(barbarian.Weapon.DoDamage());
+							if (knight.IsAlive)
+							{
+								knight.TakeDamage(barbarian.Weapon.DoDamage());
+							}
 						}
 					}
 				}
 			}
 
-			if(knights.Any(k => k.IsAlive))
+			if (knights.Any(k => k.IsAlive))
 			{
-				int counter = knights.Where(k => !k.IsAlive).Count();
+				int counter = knights.Where(k => k.IsAlive == false).Count();
 				return $"The knights took {counter} casualties but won the battle.";
 			}
 			else
 			{
-				int counter = barbarians.Where(k => !k.IsAlive).Count();
+				int counter = barbarians.Where(k => k.IsAlive == false).Count();
 				return $"The barbarians took {counter} casualties but won the battle.";
 			}
 		}
