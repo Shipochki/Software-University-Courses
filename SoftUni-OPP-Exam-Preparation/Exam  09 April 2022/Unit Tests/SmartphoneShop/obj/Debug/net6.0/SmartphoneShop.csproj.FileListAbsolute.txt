@@ -1,0 +1,15 @@
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Unit Tests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.exe
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Unit Tests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.deps.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Unit Tests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.runtimeconfig.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Unit Tests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Unit Tests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.csproj.AssemblyReference.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.AssemblyInfoInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.AssemblyInfo.cs
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.csproj.CoreCompileInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\refint\SmartphoneShop.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.genruntimeconfig.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Unit Tests\SmartphoneShop\obj\Debug\net6.0\ref\SmartphoneShop.dll
