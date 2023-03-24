@@ -1,0 +1,15 @@
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Formula1\Formula1\bin\Debug\net6.0\Formula1.exe
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Formula1\Formula1\bin\Debug\net6.0\Formula1.deps.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Formula1\Formula1\bin\Debug\net6.0\Formula1.runtimeconfig.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Formula1\Formula1\bin\Debug\net6.0\Formula1.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Formula1\Formula1\bin\Debug\net6.0\Formula1.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Formula1\Formula1\obj\Debug\net6.0\Formula1.csproj.AssemblyReference.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Formula1\Formula1\obj\Debug\net6.0\Formula1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Formula1\Formula1\obj\Debug\net6.0\Formula1.AssemblyInfoInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Formula1\Formula1\obj\Debug\net6.0\Formula1.AssemblyInfo.cs
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Formula1\Formula1\obj\Debug\net6.0\Formula1.csproj.CoreCompileInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Formula1\Formula1\obj\Debug\net6.0\Formula1.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Formula1\Formula1\obj\Debug\net6.0\refint\Formula1.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Formula1\Formula1\obj\Debug\net6.0\Formula1.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Formula1\Formula1\obj\Debug\net6.0\Formula1.genruntimeconfig.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam  09 April 2022\Formula1\Formula1\obj\Debug\net6.0\ref\Formula1.dll

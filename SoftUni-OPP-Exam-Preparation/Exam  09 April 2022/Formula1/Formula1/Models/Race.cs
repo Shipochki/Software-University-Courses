@@ -45,22 +45,12 @@ namespace Formula1.Models
 			}
 		}
 
-		private bool tookPlace = false;
-
-		public bool TookPlace
-		{
-			get { return tookPlace; }
-			set { tookPlace = value; }
-		}
+		public bool TookPlace { get; set; } = false;
 
 
-		private ICollection<IPilot> pilots;
+		private List<IPilot> pilots;
 
-		public ICollection<IPilot> Pilots
-		{
-			get { return pilots; }
-			private set { pilots = value; }
-		}
+		public ICollection<IPilot> Pilots => pilots;
 
 
 		public void AddPilot(IPilot pilot)

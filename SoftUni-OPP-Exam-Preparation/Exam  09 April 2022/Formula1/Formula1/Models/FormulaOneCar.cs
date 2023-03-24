@@ -1,9 +1,5 @@
 ﻿using Formula1.Models.Contracts;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using static Formula1.Utilities.ExceptionMessages;
 
 namespace Formula1.Models
@@ -62,10 +58,9 @@ namespace Formula1.Models
 			}
 		}
 
-
 		public double RaceScoreCalculator(int laps)
 		{
-			return this.engineDisplacement / horsepower * laps;
+			return this.engineDisplacement / this.horsepower * laps;
 		}
 	}
 }

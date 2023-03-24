@@ -37,7 +37,7 @@ namespace Formula1.Models
 			get { return car; }
 			private set 
 			{
-				if(car == null)
+				if(value == null)
 				{
 					throw new NullReferenceException(InvalidCarForPilot);
 				}
@@ -45,12 +45,11 @@ namespace Formula1.Models
 			}
 		}
 
-		private int numberOfWins;
+		private int numberOfWins = 0;
 
 		public int NumberOfWins
 		{
 			get { return numberOfWins; }
-			private set { numberOfWins = value; }
 		}
 
 		private bool canRace = false;
@@ -69,7 +68,7 @@ namespace Formula1.Models
 
 		public void WinRace()
 		{
-			this.NumberOfWins++;
+			this.numberOfWins++;
 		}
 
 		public override string ToString()
