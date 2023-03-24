@@ -1,2 +1,2 @@
 # Software-University-Courses
-All-Training-Courses
+All-Courses
