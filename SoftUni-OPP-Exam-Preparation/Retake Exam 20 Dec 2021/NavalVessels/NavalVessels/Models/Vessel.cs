@@ -6,7 +6,7 @@ using static NavalVessels.Utilities.Messages.ExceptionMessages;
 
 namespace NavalVessels.Models
 {
-    public class Vessel : IVessel
+	public class Vessel : IVessel
 	{
 		public Vessel(string name, double mainWeaponCaliber, double speed, double armorThickness)
 		{
@@ -80,26 +80,27 @@ namespace NavalVessels.Models
 			if (target.ArmorThickness - this.mainWeaponCaliber <= 0)
 			{
 				target.ArmorThickness = 0;
-				this.targets.Add(target.Name);
 			}
 			else
 			{
 				target.ArmorThickness -= this.mainWeaponCaliber;
 			}
+
+			this.targets.Add(target.Name);
 		}
 
 		public void RepairVessel()
 		{
-			if(this.GetType().Name == nameof(Battleship))
+			if (this.GetType().Name == nameof(Battleship))
 			{
-				if(this.ArmorThickness < 300)
+				if (this.ArmorThickness < 300)
 				{
 					this.ArmorThickness = 300;
 				}
 			}
-			else if(this.GetType().Name == nameof(Submarine))
+			else if (this.GetType().Name == nameof(Submarine))
 			{
-				if(this.ArmorThickness < 200)
+				if (this.ArmorThickness < 200)
 				{
 					this.ArmorThickness = 200;
 				}
@@ -110,17 +111,17 @@ namespace NavalVessels.Models
 		{
 			StringBuilder sb = new StringBuilder();
 			sb.AppendLine($"- {this.name}");
-			sb.AppendLine($"*Type: {this.GetType().Name}");
-			sb.AppendLine($"*Armor thickness: {this.ArmorThickness}");
-			sb.AppendLine($"*Main weapon caliber: {this.mainWeaponCaliber}");
-			sb.AppendLine($"*Speed: {this.speed} knots");
+			sb.AppendLine($" *Type: {this.GetType().Name}");
+			sb.AppendLine($" *Armor thickness: {this.ArmorThickness}");
+			sb.AppendLine($" *Main weapon caliber: {this.mainWeaponCaliber}");
+			sb.AppendLine($" *Speed: {this.speed} knots");
 			if (this.targets.Count == 0)
 			{
-				sb.AppendLine("*Targets: None");
+				sb.AppendLine(" *Targets: None");
 			}
 			else
 			{
-				sb.AppendLine($"*Targets: {string.Join(", ", this.targets)}");
+				sb.AppendLine($" *Targets: {string.Join(", ", this.targets)}");
 			}
 
 			return sb.ToString().TrimEnd();

@@ -47,11 +47,11 @@ namespace NavalVessels.Models
 			sb.AppendLine(baseString);
 			if (this.submergeMode)
 			{
-				sb.AppendLine("*Submerge mode: ON");
+				sb.AppendLine(" *Submerge mode: ON");
 			}
 			else
 			{
-				sb.AppendLine("*Submerge mode: OFF");
+				sb.AppendLine(" *Submerge mode: OFF");
 			}
 
 			return sb.ToString().TrimEnd();

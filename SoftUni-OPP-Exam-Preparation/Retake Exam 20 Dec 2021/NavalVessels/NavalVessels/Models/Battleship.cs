@@ -39,11 +39,11 @@ namespace NavalVessels.Models
 			sb.AppendLine(baseString);
 			if(this.sonarMode)
 			{
-				sb.AppendLine("*Sonar mode: ON");
+				sb.AppendLine(" *Sonar mode: ON");
 			}
 			else
 			{
-				sb.AppendLine("*Sonar mode: OFF");
+				sb.AppendLine(" *Sonar mode: OFF");
 			}
 
 			return sb.ToString().TrimEnd();

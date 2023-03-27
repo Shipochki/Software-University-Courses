@@ -31,7 +31,7 @@ namespace NavalVessels.Repositories
 
 		public bool Remove(IVessel model)
 		{
-			if(this.models.Contains(model))
+			if(this.FindByName(model.Name) != null)
 			{
 				this.models.Remove(model);
 				return true;
