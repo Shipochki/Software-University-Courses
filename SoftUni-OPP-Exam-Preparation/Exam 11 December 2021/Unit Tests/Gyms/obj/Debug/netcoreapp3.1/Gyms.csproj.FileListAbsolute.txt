@@ -1,0 +1,14 @@
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 11 December 2021\Unit Tests\Gyms\bin\Debug\netcoreapp3.1\Gyms.exe
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 11 December 2021\Unit Tests\Gyms\bin\Debug\netcoreapp3.1\Gyms.deps.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 11 December 2021\Unit Tests\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 11 December 2021\Unit Tests\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.dev.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 11 December 2021\Unit Tests\Gyms\bin\Debug\netcoreapp3.1\Gyms.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 11 December 2021\Unit Tests\Gyms\bin\Debug\netcoreapp3.1\Gyms.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 11 December 2021\Unit Tests\Gyms\obj\Debug\netcoreapp3.1\Gyms.csproj.AssemblyReference.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 11 December 2021\Unit Tests\Gyms\obj\Debug\netcoreapp3.1\Gyms.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 11 December 2021\Unit Tests\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfoInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 11 December 2021\Unit Tests\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfo.cs
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 11 December 2021\Unit Tests\Gyms\obj\Debug\netcoreapp3.1\Gyms.csproj.CoreCompileInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 11 December 2021\Unit Tests\Gyms\obj\Debug\netcoreapp3.1\Gyms.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 11 December 2021\Unit Tests\Gyms\obj\Debug\netcoreapp3.1\Gyms.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 11 December 2021\Unit Tests\Gyms\obj\Debug\netcoreapp3.1\Gyms.genruntimeconfig.cache
