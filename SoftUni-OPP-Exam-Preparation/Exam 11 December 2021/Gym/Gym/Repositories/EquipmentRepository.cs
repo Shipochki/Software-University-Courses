@@ -30,15 +30,7 @@ namespace Gym.Repositories
 
 		public bool Remove(IEquipment model)
 		{
-			if (this.models.Contains(model))
-			{
-				this.models.Remove(model);
-				return true;
-			}
-			else
-			{
-				return false;
-			}
+			return this.models.Remove(model);
 		}
 	}
 }

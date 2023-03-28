@@ -25,13 +25,13 @@ namespace Gym.Models.Gyms
 		public string Name
 		{
 			get { return name; }
-			private set 
+			private set
 			{
 				if (string.IsNullOrEmpty(value))
 				{
 					throw new ArgumentException(InvalidGymName);
 				}
-				name = value; 
+				name = value;
 			}
 		}
 
@@ -41,7 +41,12 @@ namespace Gym.Models.Gyms
 
 		public double EquipmentWeight
 		{
-			get { return this.equipment.Sum(e => e.Weight); }
+			get { return CurrentSumWeigth(); }
+		}
+
+		private double CurrentSumWeigth()
+		{
+			return Math.Round(this.equipment.Sum(e => e.Weight), 2);
 		}
 
 		private ICollection<IEquipment> equipment;
@@ -49,14 +54,14 @@ namespace Gym.Models.Gyms
 		public ICollection<IEquipment> Equipment => this.equipment;
 
 
-		private ICollection<IAthlete> athletes;
+		protected ICollection<IAthlete> athletes;
 
-		public ICollection<IAthlete> Athletes => this.athletes;	
+		public ICollection<IAthlete> Athletes => this.athletes;
 
 
 		public void AddAthlete(IAthlete athlete)
 		{
-			if(this.athletes.Count >= this.capacity)
+			if (this.athletes.Count == this.capacity)
 			{
 				throw new InvalidOperationException(NotEnoughSize);
 			}
@@ -69,33 +74,14 @@ namespace Gym.Models.Gyms
 			this.equipment.Add(equipment);
 		}
 
-		public void Exercise()
-		{
-			foreach (var athlete in this.athletes)
-			{
-				if(this.GetType().Name == nameof(BoxingGym))
-				{
-					if(this.athletes.GetType().Name == nameof(Boxer))
-					{
-						athlete.Exercise();
-					}
-				}
-				else
-				{
-					if (this.athletes.GetType().Name == nameof(Weightlifter))
-					{
-						athlete.Exercise();
-					}
-				}
-			}
-		}
+		public virtual void Exercise() { }
 
 		public string GymInfo()
 		{
-			StringBuilder sb= new StringBuilder();
+			StringBuilder sb = new StringBuilder();
 
 			sb.AppendLine($"{this.Name} is a {this.GetType().Name}:");
-			if(this.athletes.Count > 0)
+			if (this.athletes.Count > 0)
 			{
 				sb.AppendLine($"Athletes: {string.Join(", ", this.athletes.Select(a => a.FullName))}");
 			}
@@ -105,7 +91,7 @@ namespace Gym.Models.Gyms
 			}
 
 			sb.AppendLine($"Equipment total count: {this.equipment.Count}");
-			sb.AppendLine($"Equipment total weight: {this.EquipmentWeight} grams");
+			sb.AppendLine($"Equipment total weight: {this.EquipmentWeight:f2} grams");
 
 			return sb.ToString().TrimEnd();
 		}

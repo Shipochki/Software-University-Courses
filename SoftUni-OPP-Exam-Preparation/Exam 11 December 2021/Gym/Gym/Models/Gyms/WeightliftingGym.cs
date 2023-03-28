@@ -10,5 +10,13 @@ namespace Gym.Models.Gyms
 		public WeightliftingGym(string name) : base(name, initalCapacity)
 		{
 		}
+
+		public override void Exercise()
+		{
+			foreach (var athlete in this.athletes)
+			{
+				athlete.Exercise();
+			}
+		}
 	}
 }

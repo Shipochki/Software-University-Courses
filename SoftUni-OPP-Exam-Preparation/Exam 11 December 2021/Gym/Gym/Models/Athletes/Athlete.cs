@@ -11,7 +11,7 @@ namespace Gym.Models.Athletes
 			FullName = fullName;
 			Motivation = motivation;
 			NumberOfMedals = numberOfMedals;
-			Stamina = stamina;
+			this.stamina = stamina;
 		}
 
 		private string fullName;
@@ -44,13 +44,9 @@ namespace Gym.Models.Athletes
 			}
 		}
 
-		private int stamina;
+		protected int stamina;
 
-		public int Stamina
-		{
-			get { return stamina; }
-			private set { stamina = value; }
-		}
+		public int Stamina => this.stamina;
 
 		private int numberOfMedals;
 
@@ -67,32 +63,6 @@ namespace Gym.Models.Athletes
 			}
 		}
 
-		public void Exercise()
-		{
-			if(this.GetType().Name == nameof(Boxer))
-			{
-				if (this.stamina + 15 > 100)
-				{
-					this.stamina = 100;
-					throw new ArgumentException(InvalidStamina);
-				}
-				else
-				{
-					this.stamina += 15;
-				}
-			}
-			else if(this.GetType().Name == nameof(Weightlifter))
-			{
-				if(this.stamina + 10 > 100)
-				{
-					this.stamina = 100;
-					throw new ArgumentException(InvalidStamina);
-				}
-				else
-				{
-					this.stamina += 10;
-				}
-			}
-		}
+		public virtual void Exercise() { }
 	}
 }

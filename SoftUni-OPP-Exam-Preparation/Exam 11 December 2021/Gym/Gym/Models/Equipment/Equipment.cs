@@ -9,25 +9,17 @@ namespace Gym.Models.Equipment
 	{
 		public Equipment(double weight, decimal price)
 		{
-			Weight = weight;
-			Price = price;
+			this.weight = weight;
+			this.price = price;
 		}
 
 		private double weight;
 
-		public double Weight
-		{
-			get { return weight; }
-			private set { weight = value; }
-		}
+		public double Weight => weight;
 
 		private decimal price;
 
-		public decimal Price
-		{
-			get { return price; }
-			private set { price = value; }
-		}
+		public decimal Price => price;
 
 	}
 }
