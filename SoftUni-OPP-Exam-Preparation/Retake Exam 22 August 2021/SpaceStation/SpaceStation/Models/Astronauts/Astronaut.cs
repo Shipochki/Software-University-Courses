@@ -4,6 +4,7 @@ using System;
 using static SpaceStation.Utilities.Messages.ExceptionMessages;
 using System.Collections.Generic;
 using System.Text;
+using SpaceStation.Models.Bags;
 
 namespace SpaceStation.Models.Astronauts
 {
@@ -13,6 +14,7 @@ namespace SpaceStation.Models.Astronauts
 		{
 			Name = name;
 			Oxygen = oxygen;
+			bag = new Backpack();
 		}
 
 		private string name;
@@ -51,11 +53,15 @@ namespace SpaceStation.Models.Astronauts
 
 		private IBag bag;
 
-		public IBag Bag => this.bag;
+		public IBag Bag
+		{
+			get { return bag; }
+			private set { this.bag = value; }
+		}
 
 		public virtual void Breath()
 		{
-			if (this.oxygen >= 10)
+			if (this.oxygen - 10 >= 0)
 			{
 				this.oxygen -= 10;
 			}

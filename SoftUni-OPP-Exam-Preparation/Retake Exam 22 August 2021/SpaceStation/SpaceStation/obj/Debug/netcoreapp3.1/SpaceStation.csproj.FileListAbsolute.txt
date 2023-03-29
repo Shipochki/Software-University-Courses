@@ -1,0 +1,14 @@
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam - 22 August 2021\SpaceStation\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.exe
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam - 22 August 2021\SpaceStation\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.deps.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam - 22 August 2021\SpaceStation\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam - 22 August 2021\SpaceStation\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.dev.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam - 22 August 2021\SpaceStation\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam - 22 August 2021\SpaceStation\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam - 22 August 2021\SpaceStation\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.AssemblyReference.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam - 22 August 2021\SpaceStation\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam - 22 August 2021\SpaceStation\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfoInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam - 22 August 2021\SpaceStation\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfo.cs
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam - 22 August 2021\SpaceStation\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.CoreCompileInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam - 22 August 2021\SpaceStation\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam - 22 August 2021\SpaceStation\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam - 22 August 2021\SpaceStation\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.genruntimeconfig.cache

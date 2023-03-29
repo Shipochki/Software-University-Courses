@@ -12,18 +12,30 @@ namespace SpaceStation.Models.Mission
 	{
 		public void Explore(IPlanet planet, ICollection<IAstronaut> astronauts)
 		{
-			while (astronauts.Any(a => a.CanBreath) && planet.Items.Any())
+			while (astronauts.Any(a => a.Oxygen > 0) && planet.Items.Any())
 			{
-				foreach (var a in astronauts.Where(a => a.CanBreath))
+				foreach (var a in astronauts)
 				{
-					if (!a.CanBreath)
+					if (!planet.Items.Any())
 					{
 						break;
 					}
 
-					a.Bag.Items.Add(planet.Items.First());
-					a.Breath();
-					planet.Items.Remove(planet.Items.First());
+					foreach (var item in planet.Items)
+					{
+						if (a.Oxygen == 0)
+						{
+							break; ;
+						}
+
+						a.Bag.Items.Add(item);
+						a.Breath();
+					}
+
+					foreach (var item in a.Bag.Items)
+					{
+						planet.Items.Remove(item);
+					}
 				}
 			}
 		}
