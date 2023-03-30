@@ -1,0 +1,14 @@
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\Unit Tests\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\Unit Tests\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\Unit Tests\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\Unit Tests\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\Unit Tests\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\Unit Tests\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\Unit Tests\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.AssemblyReference.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\Unit Tests\Robots\obj\Debug\netcoreapp3.0\Robots.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\Unit Tests\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\Unit Tests\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\Unit Tests\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\Unit Tests\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\Unit Tests\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\Unit Tests\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache
