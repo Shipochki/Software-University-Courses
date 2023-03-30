@@ -1,0 +1,14 @@
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\CarRacing\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.exe
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\CarRacing\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.deps.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\CarRacing\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\CarRacing\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.dev.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\CarRacing\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\CarRacing\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\CarRacing\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.AssemblyReference.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\CarRacing\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\CarRacing\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfoInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\CarRacing\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfo.cs
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\CarRacing\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.CoreCompileInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\CarRacing\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\CarRacing\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 15 August 2021\CarRacing\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.genruntimeconfig.cache
