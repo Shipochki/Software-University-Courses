@@ -18,16 +18,17 @@ namespace Easter.Models.Workshops
 			{
 				foreach (var dye in bunny.Dyes)
 				{
-					while (!dye.IsFinished())
+					while (!dye.IsFinished() 
+						&& bunny.Energy > 0)
 					{
-						if (bunny.Energy <= 0)
-						{
-							return;
-						}
-
 						bunny.Work();
 						dye.Use();
 						egg.GetColored();
+
+						if (egg.IsDone())
+						{
+							return;
+						}
 					}
 				}
 			}
