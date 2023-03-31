@@ -1,0 +1,37 @@
+﻿using Easter.Models.Bunnies.Contracts;
+using Easter.Models.Eggs.Contracts;
+using Easter.Repositories.Contracts;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Easter.Repositories
+{
+	public class EggRepository : IRepository<IEgg>
+	{
+		public EggRepository()
+		{
+			this.models = new List<IEgg>();
+		}
+
+		private List<IEgg> models;
+
+		public IReadOnlyCollection<IEgg> Models => this.models;
+
+		public void Add(IEgg model)
+		{
+			this.models.Add(model);
+		}
+
+		public IEgg FindByName(string name)
+		{
+			return this.models.FirstOrDefault(m => m.Name == name);
+		}
+
+		public bool Remove(IEgg model)
+		{
+			return this.models.Remove(model);
+		}
+	}
+}
