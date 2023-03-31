@@ -4,36 +4,23 @@ class List {
         this.size = this.list.length;
     }
 
-    get list() {
-        return this._list;
-    }
-
-    set list(value) {
-        this._list = value;
-    }
-
     add(element) {
         this.list.push(element);
-        this.size = this.list.length;        
+        this.list.sort((a, b) => a - b)
+        this.size++;
+        return;     
     }
     remove(index) {
-        if (index > -1 && this.size > 0 && index < this.size) {
+        if (index > -1 && index < this.list.length) {
             this.list.splice(index, 1);
-            this.size = this.list.length;            
+            this.size--;
+            return;         
         }
     }
     get(index) {
-        if (index > -1 && this.size > 0 && index < this.size) {
+        if (index > -1 && index < this.list.length) {
             return this.list[index];
         }
-    }
-
-    get size() {
-        return this._size
-    }
-
-    set size(value) {
-        this._size = value
     }
 }
 
