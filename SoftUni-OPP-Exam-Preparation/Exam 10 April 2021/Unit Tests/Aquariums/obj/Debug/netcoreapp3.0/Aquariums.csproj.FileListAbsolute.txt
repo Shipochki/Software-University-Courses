@@ -1,0 +1,14 @@
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Unit Tests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Unit Tests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Unit Tests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Unit Tests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Unit Tests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Unit Tests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Unit Tests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.AssemblyReference.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Unit Tests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Unit Tests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Unit Tests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Unit Tests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Unit Tests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Unit Tests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Unit Tests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache
