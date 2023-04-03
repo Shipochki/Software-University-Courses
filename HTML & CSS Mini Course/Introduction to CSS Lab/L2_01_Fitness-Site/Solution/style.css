@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: #F0F1F5;    
+}
+
+header p {
+    display: inline-block;
+    color: #F9690E;
+    padding: 10px;
+}
+
+header nav{
+    padding-left: 1220px;
+    display: inline-block;
+}
+
+header nav ul li{
+    display: inline-block;
+    padding: 10px;
+}
+
+header nav ul li a{
+    color: #F9690E;
+    text-decoration: none;    
+}
+
+main section div{
+    background-image: url("../Requirements-and-Resources/Images/picture.jpg");
+    text-align: center;
+    padding: 400px;
+}
+
+main section div p{
+    color: #F0F1F5;
+    text-align: center;
+    font-size: 40px;
+}
+
+main section div p span{
+    color: #F9690E;
+}
+
+main section div a{
+    color: #F0F1F5;
+    text-align: center;
+    font-size: 20px;
+    padding: 15px;
+    background-color: #F9690E;
+    text-decoration: none;
+}
+
+main section div a:hover{
+    color: #F9690E;
+    text-align: center;
+    font-size: 20px;
+    padding: 15px;
+    background-color: #F0F1F5;
+}
+
+main section article{
+    display: inline-block;
+    text-align: center;
+    width: 630px;
+    height: 280px;
+    background-color: #F9690E;
+    color: #F0F1F5;
+    padding-right: 1px;
+}
+
+main section:last-child{
+    padding-right: 0px;
+}
+
+main section article h3{
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+
+main section article p{
+    margin-left: 150px;
+    width: 315px;
+    text-align: left;
+    font-size: 20px;
+}
+
+footer {
+    padding: 10px;
+}
