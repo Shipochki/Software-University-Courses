@@ -1,0 +1,14 @@
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Auqa Shop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.AssemblyReference.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Auqa Shop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Auqa Shop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Auqa Shop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Auqa Shop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Auqa Shop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Auqa Shop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Auqa Shop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Auqa Shop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Auqa Shop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Auqa Shop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Auqa Shop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Auqa Shop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam - 10 April 2021\Auqa Shop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache
