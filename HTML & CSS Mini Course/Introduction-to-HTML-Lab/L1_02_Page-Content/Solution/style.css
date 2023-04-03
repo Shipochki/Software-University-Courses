@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 40px;
+}
+
+article{
+    padding-left: 28%;
+    padding-right: 28%;
+}
+
+article header p{
+    font-style: italic;
+}
