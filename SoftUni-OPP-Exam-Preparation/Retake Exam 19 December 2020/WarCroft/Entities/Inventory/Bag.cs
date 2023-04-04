@@ -12,6 +12,7 @@ namespace WarCroft.Entities.Inventory
 		public Bag(int capacity)
 		{
 			Capacity = capacity;
+			this.items = new List<Item>();
 		}
 		
 		public int Capacity { get; set; } = 100;

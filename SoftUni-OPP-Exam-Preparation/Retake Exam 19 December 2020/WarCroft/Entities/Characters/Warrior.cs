@@ -16,12 +16,9 @@ namespace WarCroft.Entities.Characters
 
 		public void Attack(Character character)
 		{
-			if(!character.IsAlive || !this.IsAlive) 
-			{ 
-				return; 
-			}
+			Character attacker = this;
 
-			if(character == this)
+			if(character == attacker)
 			{
 				throw new InvalidOperationException(CharacterAttacksSelf);
 			}

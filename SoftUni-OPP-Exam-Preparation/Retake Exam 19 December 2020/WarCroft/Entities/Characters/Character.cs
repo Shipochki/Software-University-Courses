@@ -12,9 +12,9 @@ namespace WarCroft.Entities.Characters.Contracts
 		{
 			Name = name;
 			BaseHealth = health;
-			Health = health;
+			this.health = BaseHealth;
 			BaseArmor = armor;
-			Armor = armor;
+			Armor = BaseArmor;
 			AbilityPoints = abilityPoints;
 			Bag = bag;
 		}
@@ -36,23 +36,24 @@ namespace WarCroft.Entities.Characters.Contracts
 
 		public double BaseHealth { get; set; }
 
+		private double health;
 		public double Health
 		{
 			get
 			{
-				return Health;
+				return this.health;
 			}
 			set
 			{
 				if (value > 0)
 				{
-					if (value + Health > BaseHealth)
+					if (value > BaseHealth)
 					{
-						Health = BaseHealth;
+						this.health = BaseHealth;
 					}
 					else
 					{
-						Health = value;
+						this.health = value;
 					}
 				}
 			}
@@ -60,23 +61,24 @@ namespace WarCroft.Entities.Characters.Contracts
 
 		public double BaseArmor { get; set; }
 
+		private double armor;
 		public double Armor 
 		{
 			get
 			{
-				return Armor;
+				return this.armor;
 			}
 			set
 			{
 				if (value > 0)
 				{
-					if (value + Armor > BaseArmor)
+					if (value > BaseArmor)
 					{
-						Armor = BaseArmor;
+						this.armor = BaseArmor;
 					}
 					else
 					{
-						Armor = value;
+						this.armor = value;
 					}
 				}
 			}
@@ -84,7 +86,7 @@ namespace WarCroft.Entities.Characters.Contracts
 
 		public double AbilityPoints { get; set; }
 
-		Bag Bag { get; set; }
+		public Bag Bag { get; set; }
 
 		public bool IsAlive { get; set; } = true;
 
@@ -98,21 +100,25 @@ namespace WarCroft.Entities.Characters.Contracts
 
 		public void TakeDamage(double hitPoints)
 		{
+			EnsureAlive();
+
 			if (this.IsAlive)
 			{
 				double left = this.Armor - hitPoints;
 				if (left < 0)
 				{
-					double leftHealth = this.Health - left;
+					double leftHealth = this.Health - Math.Abs(left);
 					if (leftHealth < 0)
 					{
-						this.Health = 0;
+						this.health = 0;
 						this.IsAlive = false;
 					}
 					else
 					{
 						this.Health = leftHealth;
 					}
+
+					this.armor = 0;
 				}
 				else
 				{
@@ -125,7 +131,8 @@ namespace WarCroft.Entities.Characters.Contracts
 		{
 			if (this.IsAlive)
 			{
-				item.AffectCharacter(this);
+				Character character = this;
+				item.AffectCharacter(character);
 			}
 		}
 	}
