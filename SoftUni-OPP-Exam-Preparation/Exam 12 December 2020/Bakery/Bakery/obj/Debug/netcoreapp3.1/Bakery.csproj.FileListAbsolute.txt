@@ -1,0 +1,14 @@
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 12 December 2020\Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 12 December 2020\Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 12 December 2020\Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 12 December 2020\Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 12 December 2020\Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 12 December 2020\Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 12 December 2020\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.AssemblyReference.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 12 December 2020\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 12 December 2020\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 12 December 2020\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 12 December 2020\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 12 December 2020\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 12 December 2020\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 12 December 2020\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache
