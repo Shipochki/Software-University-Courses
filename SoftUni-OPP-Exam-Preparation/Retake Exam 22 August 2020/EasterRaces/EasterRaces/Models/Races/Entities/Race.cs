@@ -14,6 +14,7 @@ namespace EasterRaces.Models.Races.Entities
 		{
 			Name = name;
 			Laps = laps;
+			this.drivers = new List<IDriver>();
 		}
 
 		private string name;
