@@ -1,0 +1,14 @@
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 22 August 2020\EasterRaces\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.exe
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 22 August 2020\EasterRaces\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.deps.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 22 August 2020\EasterRaces\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 22 August 2020\EasterRaces\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.dev.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 22 August 2020\EasterRaces\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 22 August 2020\EasterRaces\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 22 August 2020\EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csproj.AssemblyReference.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 22 August 2020\EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 22 August 2020\EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfoInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 22 August 2020\EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfo.cs
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 22 August 2020\EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csproj.CoreCompileInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 22 August 2020\EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 22 August 2020\EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Retake Exam 22 August 2020\EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.genruntimeconfig.cache
