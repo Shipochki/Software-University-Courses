@@ -1,0 +1,14 @@
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 16 August 2020\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 16 August 2020\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 16 August 2020\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 16 August 2020\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 16 August 2020\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 16 August 2020\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 16 August 2020\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.AssemblyReference.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 16 August 2020\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 16 August 2020\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 16 August 2020\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 16 August 2020\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 16 August 2020\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 16 August 2020\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+D:\SoftUni c# OPP Exam Preparation\C# OOP Exam 16 August 2020\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
