@@ -23,7 +23,7 @@ namespace OnlineShop.Models.Products.Peripherals
 
 		public override string ToString()
 		{
-			return $"Overall Performance: {base.OverallPerformance}. Price: {base.Price} - {this.GetType().Name}: {base.Manufacturer} {base.Model} (Id: {base.Id}) Connection Type: {this.connectionType}";
+			return $"  Overall Performance: {base.OverallPerformance:f2}. Price: {base.Price:f2} - {this.GetType().Name}: {base.Manufacturer} {base.Model} (Id: {base.Id}) Connection Type: {this.connectionType}";
 		}
 	}
 }

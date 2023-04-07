@@ -10,7 +10,7 @@ namespace OnlineShop.Models.Products.Computers
 {
 	public abstract class Computer : Product, IComputer
 	{
-		protected Computer(int id, string manufacturer, string model, decimal price, double overallPerformance) 
+		protected Computer(int id, string manufacturer, string model, decimal price, double overallPerformance)
 			: base(id, manufacturer, model, price, overallPerformance)
 		{
 			this.components = new List<IComponent>();
@@ -31,7 +31,7 @@ namespace OnlineShop.Models.Products.Computers
 		{
 			get
 			{
-				if(this.components.Count == 0)
+				if (this.components.Count == 0)
 				{
 					return base.overallPerformance;
 				}
@@ -44,7 +44,7 @@ namespace OnlineShop.Models.Products.Computers
 		{
 			get
 			{
-				return this.components.Sum(c => c.Price) + this.peripherals.Sum(p => p.Price);
+				return base.price + this.components.Sum(c => c.Price) + this.peripherals.Sum(p => p.Price);
 			}
 		}
 
@@ -61,7 +61,7 @@ namespace OnlineShop.Models.Products.Computers
 
 		public void AddPeripheral(IPeripheral peripheral)
 		{
-			if(this.peripherals.Any(p => p.GetType().Name == peripheral.GetType().Name))
+			if (this.peripherals.Any(p => p.GetType().Name == peripheral.GetType().Name))
 			{
 				throw new ArgumentException(
 					string.Format(ExistingPeripheral, peripheral.GetType().Name, this.GetType().Name, this.Id));
@@ -72,7 +72,7 @@ namespace OnlineShop.Models.Products.Computers
 
 		public IComponent RemoveComponent(string componentType)
 		{
-			if(this.components.Count == 0 || !this.components.Any(c => c.GetType().Name == componentType))
+			if (this.components.Count == 0 || !this.components.Any(c => c.GetType().Name == componentType))
 			{
 				throw new ArgumentException(string.Format(NotExistingComponent, componentType, this.GetType().Name, this.Id));
 			}
@@ -84,7 +84,7 @@ namespace OnlineShop.Models.Products.Computers
 
 		public IPeripheral RemovePeripheral(string peripheralType)
 		{
-			if(this.peripherals.Count == 0 || !this.peripherals.Any(p => p.GetType().Name == peripheralType))
+			if (this.peripherals.Count == 0 || !this.peripherals.Any(p => p.GetType().Name == peripheralType))
 			{
 				throw new ArgumentException(string.Format(NotExistingPeripheral, peripheralType, this.GetType().Name, this.Id));
 			}
@@ -98,16 +98,25 @@ namespace OnlineShop.Models.Products.Computers
 		{
 			StringBuilder sb = new StringBuilder();
 
-			sb.AppendLine(base.ToString());
+			sb.AppendLine($"Overall Performance: {this.OverallPerformance:f2}. Price: {this.Price:f2} - {this.GetType().Name}: {base.Manufacturer} {this.Model} (Id: {this.Id})");
 
+			sb.AppendLine($" Components ({this.components.Count}):");
 			foreach (var component in this.components)
 			{
 				sb.AppendLine(component.ToString());
 			}
 
-			foreach (var peripheral in this.peripherals)
+			if (this.peripherals.Count == 0)
 			{
-				sb.AppendLine(peripheral.ToString());
+				sb.AppendLine($" Peripherals ({this.peripherals.Count}); Average Overall Performance (0.00):");
+			}
+			else
+			{
+				sb.AppendLine($" Peripherals ({this.peripherals.Count}); Average Overall Performance ({this.peripherals.Average(p => p.OverallPerformance):f2}):");
+				foreach (var peripheral in this.peripherals)
+				{
+					sb.AppendLine(peripheral.ToString());
+				}
 			}
 
 			return sb.ToString().TrimEnd();
