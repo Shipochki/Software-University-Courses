@@ -1,0 +1,15 @@
+D:\softuni c# OPP\C# OOP Exam - 08 April 2023\UnitTests\RobotFactory\bin\Debug\net6.0\RobotFactory.exe
+D:\softuni c# OPP\C# OOP Exam - 08 April 2023\UnitTests\RobotFactory\bin\Debug\net6.0\RobotFactory.deps.json
+D:\softuni c# OPP\C# OOP Exam - 08 April 2023\UnitTests\RobotFactory\bin\Debug\net6.0\RobotFactory.runtimeconfig.json
+D:\softuni c# OPP\C# OOP Exam - 08 April 2023\UnitTests\RobotFactory\bin\Debug\net6.0\RobotFactory.dll
+D:\softuni c# OPP\C# OOP Exam - 08 April 2023\UnitTests\RobotFactory\bin\Debug\net6.0\RobotFactory.pdb
+D:\softuni c# OPP\C# OOP Exam - 08 April 2023\UnitTests\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.AssemblyReference.cache
+D:\softuni c# OPP\C# OOP Exam - 08 April 2023\UnitTests\RobotFactory\obj\Debug\net6.0\RobotFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni c# OPP\C# OOP Exam - 08 April 2023\UnitTests\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfoInputs.cache
+D:\softuni c# OPP\C# OOP Exam - 08 April 2023\UnitTests\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfo.cs
+D:\softuni c# OPP\C# OOP Exam - 08 April 2023\UnitTests\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.CoreCompileInputs.cache
+D:\softuni c# OPP\C# OOP Exam - 08 April 2023\UnitTests\RobotFactory\obj\Debug\net6.0\RobotFactory.dll
+D:\softuni c# OPP\C# OOP Exam - 08 April 2023\UnitTests\RobotFactory\obj\Debug\net6.0\refint\RobotFactory.dll
+D:\softuni c# OPP\C# OOP Exam - 08 April 2023\UnitTests\RobotFactory\obj\Debug\net6.0\RobotFactory.pdb
+D:\softuni c# OPP\C# OOP Exam - 08 April 2023\UnitTests\RobotFactory\obj\Debug\net6.0\RobotFactory.genruntimeconfig.cache
+D:\softuni c# OPP\C# OOP Exam - 08 April 2023\UnitTests\RobotFactory\obj\Debug\net6.0\ref\RobotFactory.dll
