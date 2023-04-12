@@ -1,14 +1,16 @@
+import { allComment } from "./allComents.js";
+
 const container = document.getElementsByClassName('topic-container')[0];
 const url = 'http://localhost:3030/jsonstore/collections/myboard/posts';
 
-export function getPosts(){
+export function getPosts() {
     posts();
 }
 
 async function posts() {
     try {
         const responese = await fetch(url);
-
+        document.querySelector('main').style.display = 'block';
         if (responese.ok == false) {
             throw new Error('Error');
         }
@@ -25,6 +27,10 @@ async function posts() {
             const a = document.createElement('a');
             a.href = '#';
             a.className = 'normal';
+            a.id = value._id;
+            a.addEventListener('click', (e) => { 
+                allComment(e);
+            })
             const h2 = document.createElement('h2');
             h2.textContent = `${value.topicName}`;
 
