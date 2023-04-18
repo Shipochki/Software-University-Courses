@@ -6,6 +6,7 @@ import { homePage } from './views/home.js';
 import { loginPage } from './views/login.js';
 import { registerPage } from './views/register.js';
 import { logout } from './data/auth.js';
+import { catalogPage } from './views/catalog.js';
 
 //Todo change render root depending on project HTML structure
 const root = document.getElementById('wrapper');
@@ -16,6 +17,7 @@ page('/', homePage);
 page('/login', loginPage)
 page('/register', registerPage)
 page('/logout', logoutAction)
+page('/catalog', catalogPage)
 
 page.start();
 
