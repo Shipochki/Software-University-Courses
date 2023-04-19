@@ -20,7 +20,6 @@ const catalogTemplete = (offers) => html`
 
 export async function catalogPage(ctx){
   const offers = await getAllOffers();
-  console.log(offers);
   ctx.render(catalogTemplete(offers));
 }
 
