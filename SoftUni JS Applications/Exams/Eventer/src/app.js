@@ -5,6 +5,8 @@ import { layoutTemple } from "./views/layout.js";
 import { homePage } from "./views/home.js";
 import { loginPage } from "./views/login.js";
 import { logout } from "./data/auth.js";
+import { registerPage } from "./views/register.js";
+import { eventsPage } from "./views/events.js";
 
 const root = document.getElementById('wrapper');
 
@@ -13,6 +15,8 @@ page('/index.html', '/');
 page('/', homePage);
 page('/login', loginPage);
 page('/logout', logoutAction);
+page('/register', registerPage)
+page('/events', eventsPage)
 
 page.start();
 
