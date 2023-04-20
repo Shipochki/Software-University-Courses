@@ -8,6 +8,8 @@ import { logout } from "./data/auth.js";
 import { registerPage } from "./views/register.js";
 import { eventsPage } from "./views/events.js";
 import { detailsPage } from "./views/details.js";
+import { createPage } from "./views/create.js";
+import { editPage } from "./views/edit.js";
 
 const root = document.getElementById('wrapper');
 
@@ -19,6 +21,8 @@ page('/logout', logoutAction);
 page('/register', registerPage);
 page('/events', eventsPage);
 page('/details/:id', detailsPage);
+page('/create', createPage)
+page('/edit/:id', editPage)
 
 page.start();
 

@@ -11,7 +11,7 @@ export const layoutTemple = (userData, content) => html`
   </div>
     ${userData ? html`
   <div class="user">
-    <a href="/addEvent">Add Event</a>
+    <a href="/create">Add Event</a>
     <a href="/logout">Logout</a>
   </div>` : html`
   <div class="guest">
