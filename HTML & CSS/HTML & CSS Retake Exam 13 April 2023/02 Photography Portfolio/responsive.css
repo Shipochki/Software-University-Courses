@@ -1,0 +1,62 @@
+.home-container{
+    width: 600px;
+}
+
+.navigation-header{
+    width: 600px;
+}
+
+.navigation-nav{
+    display: none;
+}
+
+.home-text{
+    display: none;
+}
+
+.home-tab-selector-cards-container{
+    display: block;
+}
+
+.portofolio-card-speaker-card{
+    width: 560px;
+}
+
+.portofolio-card-first-name{
+    margin-bottom: 35px;
+}
+
+
+.section-container{
+    display: block;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.max-content-container{
+    display: block;
+}
+
+.home-image{
+    display: none;
+}
+
+.home-process{
+    padding-top: 30px;
+}
+
+.home-step span{
+    margin-right: 30px;
+}
+
+.home-top-part{
+    display: block;
+}
+
+.home-links-container{
+    display: block;
+}
+
+.home-links-container div{
+    margin-bottom: 40px;
+}
