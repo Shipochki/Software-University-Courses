@@ -97,6 +97,12 @@ ul li a{
 
 .section2-info{
     display: flex;
+    margin-bottom: 50px;
+}
+
+.section2-info1{
+    width: 33%;
+    text-align: center;
 }
 
 .section2-heading{
@@ -107,11 +113,66 @@ ul li a{
     margin: 30px 0px;
 }
 
-.section2-info-p{
+.section2-heading-p{
     font-size: 22px;
     letter-spacing: 3px;
     font-weight: 600;
     font-family: 'Arial';
     width: 755px;
     margin: 0px 0px 80px 570px;
+}
+
+.section2-sybmbols{
+    font-size: 180px;
+    color: #85DCFF;
+}
+
+.section2-h2{
+    margin: 40px 0px;
+    font-size: 26px;
+}
+
+.section2-p{
+    font-size: 22px;
+    padding: 0px 100px;
+}
+
+.section3{
+    height: 840px;
+    background-color: #85DCFF;
+    text-align: center;
+}
+
+.section3-heading{
+    padding: 80px 0px 0px 0px;
+    font-size: 40px;
+}
+
+.section3-ul-div{
+    display: flex;
+    text-align: center;
+    margin-left: 21%;
+}
+
+.section3-ul{
+    width: 33%;
+    text-align: left;
+    display: block;
+}
+
+li span{
+    font-size: 100px;
+}
+
+.section3-ul-li{
+    list-style-type: none;
+    font-size: 28px;
+    width: 480px;
+}
+
+.ul-li{
+}
+
+.ul-li-margin{
+    margin-left: 90px;
 }
