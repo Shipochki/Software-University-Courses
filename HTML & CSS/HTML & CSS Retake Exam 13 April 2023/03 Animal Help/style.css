@@ -138,7 +138,7 @@ ul li a{
 }
 
 .section3{
-    height: 840px;
+    height: 830px;
     background-color: #85DCFF;
     text-align: center;
 }
@@ -152,6 +152,7 @@ ul li a{
     display: flex;
     text-align: center;
     margin-left: 21%;
+    margin-bottom: 60px;
 }
 
 .section3-ul{
@@ -167,12 +168,69 @@ li span{
 .section3-ul-li{
     list-style-type: none;
     font-size: 28px;
-    width: 480px;
+    width: 500px;
+    display: flex;
+    height: 140px;
 }
 
-.ul-li{
+.ul-li-p{
+    margin-top: 65px;
 }
 
 .ul-li-margin{
     margin-left: 90px;
+}
+
+.section4{
+    text-align: center;
+    height: 600px;
+}
+
+.section4-heading{
+    font-size: 70px;
+    font-weight: 900;
+    margin: 30px 0px;
+}
+
+.section4-p{
+    font-size: 25px;
+    margin: 20px 0px 40px 0px;
+}
+
+.section4-images{
+    display: flex;
+    margin: 0px 0px 0px 100px;
+}
+
+.section4-img{
+    width: 370px;
+    margin-right: 70px;
+}
+
+.section5{
+    height: 1100px;
+}
+
+.section5-heading{
+    font-size: 38px;
+    text-align: center;
+}
+
+.section5-info{
+    border: 1px solid lightgray;
+    border-radius: 12px;
+    margin: 40px 235px;
+}
+
+.section5-info-heading{
+    height: 100px;
+    background-color: #85DCFF;
+    border-radius: 12px 12px 0px 0px;
+    padding: 30px;
+}
+
+.section5-info-p{
+    padding: 30px 51px 40px 30px;
+    font-size: 23px;
+    font-weight: bold;
 }
