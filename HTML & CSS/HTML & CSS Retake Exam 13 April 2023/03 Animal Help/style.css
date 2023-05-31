@@ -204,6 +204,7 @@ li span{
 
 .section4-img{
     width: 370px;
+    height: 320px;
     margin-right: 70px;
 }
 
@@ -232,5 +233,77 @@ li span{
 .section5-info-p{
     padding: 30px 51px 40px 30px;
     font-size: 23px;
+    font-weight: bold;
+}
+
+.section6{
+    display: flex;
+}
+
+.section6-img{
+    width: 50%;
+}
+
+.section6-info-heading{
+    padding: 110px 0px 40px 80px;
+    font-size: 40px;
+}
+
+.section6-info-p{
+    padding: 0px 0px 55px 85px;
+    font-size: 20px;
+    width: 800px;
+}
+
+.section6-info{
+    display: block;
+}
+
+.section6-input{
+    border-radius: 12px;
+    border: 1px solid lightgray;
+    width: 380px;
+    height: 75px;
+    font-size: 20px;
+    color: gray;
+    font-weight: 600;
+    margin: 0px 0px 50px 85px;
+    padding-left: 25px;
+}
+
+.section6-btn{
+    display: block;
+    width: 200px;
+    height: 75px;
+    margin-left: 85px;
+}
+
+.section6-btn:hover{
+    color: white;
+    background-color: black;
+}
+
+.footer{
+    height: 130px;
+    display: flex;
+}
+
+.footer-icons{
+    display: flex;
+    width: 50%;
+    align-items: center;
+    padding-left: 5%;
+}
+
+.footer-icon{
+    font-size: 40px;
+    padding-left: 20px;
+}
+
+.footer-copy{
+    width: 50%;
+    text-align: right;
+    padding: 55px;
+    font-size: 20px;
     font-weight: bold;
 }
