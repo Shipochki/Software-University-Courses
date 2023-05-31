@@ -70,10 +70,7 @@ ul li a{
     display: flex;
 }
 
-.section1-btn1{
-    width: 320px;
-    margin-right: 40px;
-    height: 70px;
+.section-btn{
     color: black;
     background-color: white;
     border: 1px solid black;
@@ -82,13 +79,39 @@ ul li a{
     font-weight: bold;
 }
 
+.section1-btn1{
+    width: 320px;
+    margin-right: 40px;
+    height: 70px;
+}
+
 .section1-btn2{
     width: 380px;
     height: 70px;
+}
+
+.section1-btn2:hover, .section1-btn1:hover{
     color: white;
     background-color: black;
-    font-size: 18px;
-    font-weight: bold;
-    border-radius: 6px;
-    border: 1px solid black;
+}
+
+.section2-info{
+    display: flex;
+}
+
+.section2-heading{
+    text-align: center;
+}
+
+.section2-heading h1{
+    margin: 30px 0px;
+}
+
+.section2-info-p{
+    font-size: 22px;
+    letter-spacing: 3px;
+    font-weight: 600;
+    font-family: 'Arial';
+    width: 755px;
+    margin: 0px 0px 80px 570px;
 }
