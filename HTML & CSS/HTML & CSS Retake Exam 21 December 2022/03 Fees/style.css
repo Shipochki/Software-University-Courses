@@ -1,28 +1,28 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 @import url(https://fonts.googleapis.com/css?family=Lato);
 
-body{
+body {
     font-family: 'Montserrat', 'Lato';
 }
 
-p{
+p {
     margin: 0px;
 }
 
-header{
+header {
     display: flex;
 }
 
-header img{
+header img {
     margin: 10px 0px 20px 110px;
     width: 160px;
 }
 
-header nav{
+header nav {
     padding-left: 59%;
 }
 
-header nav ul{
+header nav ul {
     display: flex;
 }
 
@@ -32,48 +32,48 @@ header nav ul li {
     margin-top: 15px;
 }
 
-header nav ul li a{
+header nav ul li a {
     text-decoration: none;
     color: #54546D;
     font-size: 17px;
     font-weight: bolder;
 }
 
-.section1-heading{
+.section1-heading {
     background-color: #54546D;
     display: flex;
     height: 415px;
 }
 
-.section1-heading-h1{
+.section1-heading-h1 {
     text-align: center;
     color: white;
     font-size: 36px;
     font-weight: bolder;
     padding: 80px 0px;
-    width: 75%;
+    width: 79%;
 }
 
-.section1-heading-img{
-    object-position: -85px 0px;
+.section1-heading-img {
+    object-position: -83px 0px;
     width: 200px;
 }
 
-.taxes1{
+.taxes1 {
     display: flex;
-    position: absolute;    
+    position: absolute;
     top: 265px;
-    left: 100px;    
+    left: 103px;
 }
 
-section div div{
+section div div {
     width: 30%;
     background-color: white;
     margin-right: 34px;
     border-radius: 12px;
 }
 
-.taxes-info-h2{
+.taxes-info-h2 {
     text-align: center;
     padding: 25px 25px 0px 25px;
     font-size: 30px;
@@ -81,7 +81,7 @@ section div div{
     color: #54546D;
 }
 
-.texes-info-basic-p{
+.taxes-info-basic-p {
     text-align: center;
     font-size: 21px;
     padding-bottom: 80px;
@@ -89,34 +89,185 @@ section div div{
     color: #54546D;
 }
 
-.taxes-info-btn{
-        margin: 0px 27% 70px 28%;
-        width: 45%;
-        height: 55px;
-        border-radius: 25px;
-        border: 0px solid purple;
-        background-color: #9A5DC6;
-        color: white;
-        font-weight: bold;
+.taxes-info-btn {
+    margin: 0px 27% 70px 28%;
+    width: 45%;
+    height: 55px;
+    border-radius: 25px;
+    border: 0px solid purple;
+    background-color: #9A5DC6;
+    color: white;
+    font-weight: bold;
 }
 
-.taxes-info-basic-price{
+.taxes-info-basic-price {
     margin: 0px;
-    background-image: linear-gradient(to right, #029A3C , #49D57F);
+    background-image: linear-gradient(to right, #029A3C, #49D57F);
     width: 100%;
     height: 125px;
     border-radius: 0px 0px 12px 12px;
 }
 
-.taxes-info-basic-price-h3{
+.taxes-info-basic-price-h3 {
     text-align: center;
-    padding: 25px 0px 10px 0px;
+    padding: 25px 0px 5px 0px;
     color: white;
     font-size: 33px;
 }
 
-.taxes-info-basic-price-p{
+.taxes-info-basic-price-p {
     color: white;
     padding-left: 20%;
     font-size: 20px;
+}
+
+.taxes-info-standart-p{
+    padding: 10px 30px;
+    font-size: 19px;
+    text-align: center;
+    color: #54546D;
+    font-weight: bold;
+}
+
+.taxes-info-prices{
+    display: flex;
+    width: 100%;
+    margin: 55px 0px 0px 0px;
+    text-align: center;
+    height: 125px;
+    background-image: linear-gradient(to right, #4D6C88, #619ACE);
+    border-radius: 0px 0px 12px 12px;
+}
+
+.taxes-info-standart-price{
+    width: 50%;
+    margin: 0px;
+    background: 0;
+    padding: 20px 0px;
+    color: white;
+    font-size: 20px;
+    border-radius: 0px;
+}
+
+.taxes-info-standart-price-h3{
+    padding: 10px 0px;
+}
+
+.taxes-info-premium-prices{
+    display: flex;
+    width: 100%;
+    margin: 55px 0px 0px 0px;
+    text-align: center;
+    height: 125px;
+    background-image: linear-gradient(to right, #4B38A6, #8C7DE1);
+    border-radius: 0px 0px 12px 12px;
+}
+
+.section2{
+    margin-top: 300px;
+    color: #54546D;
+    padding-left: 13%;
+}
+
+.section2-h2{
+    font-size: 26px;
+}
+
+.section2-p{
+    padding: 20px 12% 40px 0px;
+    font-size: 20px;
+}
+
+table{
+    border-collapse: separate;
+    border-spacing: 0;
+}
+
+table tr td p{
+    font-size: 21px;
+    padding-left: 15px;
+}
+
+.table-even{
+    background-color: #E6E6E6;
+}
+
+.table-odd{
+    background-color: #F8F8F8;
+}
+
+.table-tr-td-p{
+    width: 60%;
+}
+
+.table-tr-td-img{
+    width: 18%;
+}
+
+.table-tr-td-img-2{
+    width: 12%;
+}
+
+table tr td img{
+    padding-left: 40px;
+    width: 70px;
+}
+
+table tr td{
+    height: 70px;
+}
+
+table th:first-child td:first-child{
+    border-top-left-radius: 12px;
+}
+
+table th:first-child td:last-child{
+    border-radius: 0px 12px 0px 0px;
+}
+
+.section3{
+    display: flex;
+    margin: 100px 0px 150px 110px;
+}
+
+.section3-info{
+    width: 73%;
+}
+
+.section3-h1{
+    font-size: 30px;
+    padding-bottom: 20px;
+    color: #54546D;
+}
+
+.section3-p{
+    width: 85%;
+    font-size: 19px;
+    padding-bottom: 20px;
+    font-weight: bold;
+    color: #54546D;
+}
+
+.section3-p-2{
+    width: 85%;
+    font-size: 19px;
+    font-weight: bold;
+    color: #54546D;
+}
+
+.img{
+    width: 450px;
+    padding-top: 40px;
+}
+
+footer{
+    background-color: #54546D;
+    height: 100px;
+    text-align: center;
+}
+
+footer p{
+    color: #908FAB;
+    font-size: 22px;
+    padding-top: 35px;
 }
