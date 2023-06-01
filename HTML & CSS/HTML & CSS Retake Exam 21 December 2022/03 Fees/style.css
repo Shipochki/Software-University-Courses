@@ -5,6 +5,10 @@ body{
     font-family: 'Montserrat', 'Lato';
 }
 
+p{
+    margin: 0px;
+}
+
 header{
     display: flex;
 }
@@ -35,16 +39,84 @@ header nav ul li a{
     font-weight: bolder;
 }
 
-main .section1{
+.section1-heading{
     background-color: #54546D;
+    display: flex;
+    height: 415px;
 }
 
-main .section1 h1{
+.section1-heading-h1{
+    text-align: center;
     color: white;
+    font-size: 36px;
+    font-weight: bolder;
+    padding: 80px 0px;
+    width: 75%;
 }
 
-main .section1 img{
-    position: absolute;
-    clip: rect(0px,170px,400px,78px);
-    background: #54546D;
+.section1-heading-img{
+    object-position: -85px 0px;
+    width: 200px;
+}
+
+.taxes1{
+    display: flex;
+    position: absolute;    
+    top: 265px;
+    left: 100px;    
+}
+
+section div div{
+    width: 30%;
+    background-color: white;
+    margin-right: 34px;
+    border-radius: 12px;
+}
+
+.taxes-info-h2{
+    text-align: center;
+    padding: 25px 25px 0px 25px;
+    font-size: 30px;
+    font-weight: 900;
+    color: #54546D;
+}
+
+.texes-info-basic-p{
+    text-align: center;
+    font-size: 21px;
+    padding-bottom: 80px;
+    font-weight: bold;
+    color: #54546D;
+}
+
+.taxes-info-btn{
+        margin: 0px 27% 70px 28%;
+        width: 45%;
+        height: 55px;
+        border-radius: 25px;
+        border: 0px solid purple;
+        background-color: #9A5DC6;
+        color: white;
+        font-weight: bold;
+}
+
+.taxes-info-basic-price{
+    margin: 0px;
+    background-image: linear-gradient(to right, #029A3C , #49D57F);
+    width: 100%;
+    height: 125px;
+    border-radius: 0px 0px 12px 12px;
+}
+
+.taxes-info-basic-price-h3{
+    text-align: center;
+    padding: 25px 0px 10px 0px;
+    color: white;
+    font-size: 33px;
+}
+
+.taxes-info-basic-price-p{
+    color: white;
+    padding-left: 20%;
+    font-size: 20px;
 }
