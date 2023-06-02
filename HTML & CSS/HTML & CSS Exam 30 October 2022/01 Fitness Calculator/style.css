@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body{
+    font-family: 'Open Sans';
+}
+
+.section{
+    width: 1400px;
+    display: flex;
+    margin: 5% 12%;
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19) !important;
+    border-radius: 24px;
+    border: 1px solid black;
+    background-color: #F6F7F8;
+}
+
+.section-img{
+    width: 50%;
+}
+
+img{
+    border-radius: 24px 0px 0px 24px;
+    filter: grayscale(45%);
+}
+
+.section-info{
+    width: 50%;
+}
+
+.section-info-h1{
+    padding: 10% 27%;
+    font-size: 30px;
+}
+
+.section-info-units{
+    padding: 0% 0% 4% 8%;
+}
+
+.unit-btn{
+    margin-left: 13%;
+    width: 25%;
+    height: 40px;
+    border-radius: 12px;
+    border: 1px solid black;
+    background-color: #E0E0DF;
+}
+
+.unit-btn:hover{
+    background-color: #86D862;
+}
+
+.section-info-gender{
+    text-align: center;
+}
+
+.section-info-p{
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+select{
+    padding-bottom: 1px;
+    font-size: 12px;
+    width: 23%;
+    font-weight: bold;
+}
+
+.genders input{
+    margin-left: 40px;
+    font-size: 11px;
+    width: 23%;
+    padding-top: 1px;
+}
+
+.section-info-weight{
+    text-align: center;
+    padding: 25px 0px;
+}
+
+.section-info-weight input{
+    width: 77%;
+    height: 30px;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.section-info-heigths{
+    text-align: center;
+    padding: 25px 0px;
+    padding: 0px 0px 75px 0px;
+}
+
+.section-info-heigths input{
+    font-size: 13px;
+    width: 33%;
+}
