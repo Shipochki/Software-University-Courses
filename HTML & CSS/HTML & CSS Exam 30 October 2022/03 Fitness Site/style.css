@@ -110,9 +110,14 @@ hr{
     font-size: 18px;
 }
 
+.coaches{
+    background-color: #EFEFEF;
+    padding: 20px 0px 70px 0px;
+}
+
 .coaches-info{
     display: flex;
-    padding-left: 3%;
+    padding-top: 30px;
 }
 
 .coaches-info div{
@@ -127,13 +132,28 @@ hr{
     margin-right: auto;
 }
 
+.coaches-info div h3{
+    padding: 10px 0px;
+}
+
 .sport-info{
     font-size: 1.2rem;
     color: gray;
-    padding: 0px 1rem;
 }
 
 .type-sport{
     color: #D01919;
     font-weight: bold;
+    padding-bottom: 10px;
+}
+
+footer{
+    height: 50px;
+    text-align: center;
+    background-color: #D01919;
+}
+
+footer p{
+    padding-top: 10px;
+    font-size: 20px;
 }
