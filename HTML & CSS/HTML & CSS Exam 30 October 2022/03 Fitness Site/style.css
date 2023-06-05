@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans|PT+Serif);
+
+body{
+    font-family: sans-serif;
+}
+
+header{
+    color: white;
+}
+
+.header-heading{
+    display: flex;
+    background-color: #D01919;
+    padding: 1.1rem 3rem;
+    font-size: 19px;
+    height: 4rem;
+    font-weight: lighter;
+}
+
+i{
+    padding-right: 5px;
+}
+
+.phone-number{
+    padding-right: 36%;
+}
+
+.address{
+    padding-right: 36%;
+}
+
+.header-section{
+    background-image: url(image/fitness-main.jpg);
+    height: 600px;
+    padding-top: 1px;
+    background-position: center;
+    background-size: 100%;
+    text-align: center;
+}
+
+ul{
+    display: flex;
+    margin-left: 48%;
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+ul li{
+    list-style-type: none;
+    margin-right: 8%;
+}
+
+.header-section h1{
+    font-size: 4rem;
+    letter-spacing: 5px;
+    margin: 9rem 0px 2rem 0px;
+    font-weight: 100;
+}
+
+.header-section p{
+    padding: 0px 36%;
+    font-size: 1.1rem;
+    padding-bottom: 2rem;
+}
+
+.header-section button{
+    border-radius: 6px;
+    border: 1px solid #D01919;
+    color: white;
+    height: 2.2rem;
+    width: 9rem;
+    background-color: #D01919;
+    font-weight: bold;
+}

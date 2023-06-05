@@ -23,7 +23,7 @@ body{
 
 .site-logos{
     padding: 0px 16%;
-    width: 600px;
+    width: 100%;
 }
 
 .site-logos-container{
@@ -86,7 +86,7 @@ body{
 .site-posts{
     display: block;
     margin-left: 20%;
-    width: 600px;
+    width: 100%;
 }
 
 .site-blog-container h2{
