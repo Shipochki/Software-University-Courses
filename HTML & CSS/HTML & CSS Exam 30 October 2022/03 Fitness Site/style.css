@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Sans|PT+Serif);
 
 body{
-    font-family: sans-serif;
+    font-family: 'PT Sans', 'PT Serif';
 }
 
 header{
@@ -52,13 +52,13 @@ ul li{
 
 .header-section h1{
     font-size: 4rem;
-    letter-spacing: 5px;
+    letter-spacing: 12px;
     margin: 9rem 0px 2rem 0px;
     font-weight: 100;
 }
 
 .header-section p{
-    padding: 0px 36%;
+    padding: 0px 35%;
     font-size: 1.1rem;
     padding-bottom: 2rem;
 }
@@ -70,5 +70,70 @@ ul li{
     height: 2.2rem;
     width: 9rem;
     background-color: #D01919;
+    font-weight: bold;
+}
+
+section h2{
+    padding: 20px 0px;
+    text-align: center;
+    font-size: 2.4rem;
+}
+
+hr{
+    border: 1px solid #D01919;
+    width: 50px;
+}
+
+.info{
+    display: flex;
+    padding: 30px 0px;
+}
+
+.info div{
+    width: 33%;
+    text-align: center;
+    padding: 0px 8%;
+}
+
+.info div img{
+    width: 20%;
+    margin-left: 40%;
+}
+
+.info div h3{
+    color: #D01919;
+    padding: 20px 0px;
+    font-size: 20px;
+}
+
+.info div p{
+    font-size: 18px;
+}
+
+.coaches-info{
+    display: flex;
+    padding-left: 3%;
+}
+
+.coaches-info div{
+    text-align: center;
+    padding: 0px 9rem;
+}
+
+.coaches-info div img{
+    width: 100%;
+    border-radius: 6px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sport-info{
+    font-size: 1.2rem;
+    color: gray;
+    padding: 0px 1rem;
+}
+
+.type-sport{
+    color: #D01919;
     font-weight: bold;
 }
