@@ -30,3 +30,62 @@ header nav ul li{
 .header-title h1{
     font-size: 37px;
 }
+
+.about-us p:nth-child(3){
+    width: 93%;
+}
+
+.team-description{
+    padding-bottom: 50px;
+}
+
+.team-description ul{
+    display: grid;
+    gap: 5%;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.team-description-wrapper, .about-us{
+    width: 80%;
+    margin: 0px 10%;
+    padding: 2.5rem 0;
+    text-align: center;
+}
+
+.team-description ul li img{
+    width: 200px;
+    height: 200px;
+}
+
+.choose-us ul{
+    display: block;
+}
+
+.choose-us li{
+    padding: 0px 15%;
+}
+
+.blog-news ul{
+    display: block;
+}
+
+.blog-news ul .item{
+    list-style: none outside;
+    display: flex;
+    flex: 0 0 35%;
+    box-shadow: 0 0.3rem 1rem 0.3rem rgba(0,0,0,0.3);
+    width: 78%;
+    margin-left: 9%;
+    margin-bottom: 40px;
+}
+
+.blog-news .content{
+    width: 15rem;
+    padding: 1rem 2rem;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: white;
+    font-size: 13px;
+}
