@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+    padding: 0px 14%;
+    color: #363434;
+}
+
+.main{
+    background-image: url(image/image.jpg);
+    background-position: center;
+    height: 1050px;
+    width: 100%;
+}
+
+.heading{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 17%;
+    position: absolute;
+    top: 30px;
+    left: 16%;
+    height: 250px;
+}
+
+.heading h1{
+    font-size: 48px;
+    padding: 8% 14% 5px 6%;
+    font-family: 'Abril Fatface';
+}
+
+.heading hr{
+    width: 54%;
+    margin-right: 40%;
+    border: 1px solid white;
+}
+
+.heading p{
+    padding: 2% 5% 5% 5%;
+    font-size: 22px;
+}
+
+.heading-info{
+    width: 21%;
+    text-align: right;
+    color: white;
+    background-image: linear-gradient(to right, #9C928A , #C9C7C6);
+    box-shadow: 0 4px 13px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+    position: absolute;
+    top: 32%;
+    left: 63%;
+    height: 37%;
+    padding: 2% 1% 4% 1%;
+    font-size: 1.25rem;
+}
+
+.heading-info i{
+    font-size: 1.5rem;
+    color: #89817D;
+}
+
+.heading-info p{
+    text-shadow: 1px 1px black;
+}
