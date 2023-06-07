@@ -1,0 +1,32 @@
+body{
+    width: 600px;
+}
+
+header{
+    background-size: 800px;
+    height: 500px;
+    padding: 1rem 0px
+}
+
+header nav{
+    display: block;
+    text-align: center;
+}
+
+header nav img{
+    margin: 5px 0px;
+    padding-right: 10px;
+}
+
+header nav ul li{
+    display: block;
+    margin: 5px 0px;
+}
+
+.header-title{
+    padding: 1rem 0px;
+}
+
+.header-title h1{
+    font-size: 37px;
+}
