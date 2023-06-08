@@ -1,0 +1,60 @@
+body{
+    width: 600px;
+}
+
+.left-to-rigth{
+    padding: 65px;
+    height: 500px;
+}
+
+.left-to-right:first-child{
+    height: 600px;
+    padding: 27px 50px;
+}
+
+section .left-to-rigth button{
+    display: none;
+}
+
+.left-to-rigth p{
+    padding: 0px 40px;
+}
+
+header h1{
+    font-size: 2rem;
+}
+
+main section:nth-child(2), main section:nth-child(4){
+    display: block;
+}
+
+main section:nth-child(2) button, main section:nth-child(4) button{
+    display: none;
+}
+
+main section:nth-child(2) article img, main section:nth-child(4) article img{
+    width: 100%;
+}
+
+main section.left-to-right:nth-child(3) {
+    height: 900px;
+}
+
+main .left-to-right article{
+    border-radius: 16%;
+    height: 300px;
+    padding: 75px 64px 75px 45px;
+    width: 375px;
+}
+
+button{
+    display: none;
+}
+
+main section:nth-child(4) article{
+    margin-left: 20%;
+}
+
+form input[type="submit"]{
+    margin: 30px 14%;
+}
