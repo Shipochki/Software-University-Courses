@@ -1,0 +1,34 @@
+@import url('https://fonts.google.com/specimen/Courgette');
+
+body{
+    font-family: 'Courgette';
+    padding: 5% 10%;
+}
+
+section{
+    background-color: #F5F5F5;
+}
+
+.main{
+    display: flex;
+    width: 75%;
+    margin: 0px 13%;
+}
+
+.heading h1, h2{
+    display: block;
+}
+
+.card{
+    width: 30%;
+    text-align: center;
+    background-color: white;
+    margin-right: 3%;
+    border-radius: 12px;
+}
+
+.card img{
+    width: 100%;
+    height: 200px;
+    border-radius: 12px 12px 0px 0px;
+}
