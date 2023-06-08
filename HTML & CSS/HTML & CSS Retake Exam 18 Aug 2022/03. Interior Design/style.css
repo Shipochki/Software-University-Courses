@@ -6,10 +6,14 @@ body{
     color: #363434;
 }
 
+h1{
+    font-family: 'Abril Fatface';
+}
+
 .main{
     background-image: url(image/image.jpg);
     background-position: center;
-    height: 1050px;
+    height: 1065px;
     width: 100%;
 }
 
@@ -25,7 +29,6 @@ body{
 .heading h1{
     font-size: 48px;
     padding: 8% 14% 5px 6%;
-    font-family: 'Abril Fatface';
 }
 
 .heading hr{
@@ -46,9 +49,9 @@ body{
     background-image: linear-gradient(to right, #9C928A , #C9C7C6);
     box-shadow: 0 4px 13px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
     position: absolute;
-    top: 32%;
+    top: 310px;
     left: 63%;
-    height: 37%;
+    height: 330px;
     padding: 2% 1% 4% 1%;
     font-size: 1.25rem;
 }
@@ -60,4 +63,82 @@ body{
 
 .heading-info p{
     text-shadow: 1px 1px black;
+}
+
+.info{
+    display: flex;
+}
+
+.left-side{
+    background-color: #F2F0F3;
+    width: 70%;
+    padding: 4% 6% 2% 5%;
+}
+
+.left-side h1{
+    font-size: 2rem;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+
+.right-side{
+    background-color: #BAB1AD;
+    width: 30%;
+}
+
+.info-main{
+    margin-bottom: 70px;
+}
+
+.info-main p{
+    font-size: 1.34rem;
+    margin: 15px 0px;
+}
+
+.info-main span{
+    font-weight: bold;
+}
+
+.info-main i{
+    margin-right: 10px;
+}
+
+.info-footer hr{
+    position: absolute;
+    width: 50.4%;
+    left: 14%;
+    height: 3px;
+    top: 1745px;
+    border: 1px solid;
+}
+
+.info-footer p{
+    display: inline;
+    font-size: 1.4rem;
+    margin-right: 10px;
+}
+
+.info-footer span{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.info-footer input{
+    height: 50px;
+    border-radius: 6px;
+    width: 52%;
+    margin: 40px 20px 0px 0px;
+    color: white;
+    border: 1px solid #BAB1AD;
+    background-color: #BAB1AD;
+    padding: 15px;
+}
+
+.info-footer button{
+    height: 50px;
+    width: 18%;
+    border-radius: 6px;
+    border: 1px solid #67784D;
+    background-color: #67784D;
+    color: white;
 }
