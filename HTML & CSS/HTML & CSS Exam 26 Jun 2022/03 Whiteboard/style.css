@@ -3,3 +3,24 @@
 body{
     font-family: 'PT Sans';
 }
+
+.section1{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url(image/computer-main.jpg);
+    height: 885px;
+    background-position: center;
+}
+
+.section1-heading{
+    display: flex;
+    font-size: 2rem;
+    color: white;
+    padding-top: 30px;
+}
+
+.section1-heading-p1{
+    padding-left: 13%;
+}
+
+.section1-heading-p2{
+    padding-left: 54%;
+}
