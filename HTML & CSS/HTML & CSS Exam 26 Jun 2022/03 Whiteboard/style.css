@@ -68,3 +68,56 @@ body{
 .section1-main a i{
     padding-left: 10px;
 }
+
+.section2 article{
+    display: flex;
+}
+
+.section2 article img{
+    width: 50%;
+}
+
+.section2-article1 article{
+    display: block;
+    padding: 50px 0px 0px 7%;
+}
+
+.section2 article article h2{
+    font-size: 2.6rem;
+}
+
+.section2 article article h3{
+    font-weight: lighter;
+    font-size: 1.6rem;
+    padding-right: 25%;
+    padding-bottom: 50px;
+}
+
+.section2-article1 article p{
+    font-size: 1.5rem;
+    padding: 16px 0px;
+}
+
+.section2-article1 article p i{
+    color: #00D08E;
+    padding-right: 30px;
+}
+
+.grids{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.section2-article2 article{
+    width: 50%;
+    padding: 2% 5%;
+    display: block;
+}
+
+.section2-article2 article{
+    text-align: center;
+}
+
+.section2-article2 article div{
+    
+}
