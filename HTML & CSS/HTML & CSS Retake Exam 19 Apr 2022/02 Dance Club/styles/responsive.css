@@ -39,14 +39,17 @@ nav ul{
     display: block;
 }
 
+section{
+    
+}
+
 .site-footer .about{
-    display: block;
 }
 
 .site-footer .sitemap{
-    display: inline;
+    width: 50%;
 }
 
 .site-footer .contacts{
-    display: inline ;
+    width: 50%;
 }
