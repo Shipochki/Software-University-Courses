@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+body{
+    font-family: 'Open Sans';
+    background-color: #E9E9E9;
+    padding: 4% 27%;
+}
+
+section{
+    display: flex;
+    height: 550px;
+    background-color: white;
+}
+
+.left-side{
+    background-image: url(image/cover.jpg);
+    background-position: center;
+    background-size: 885px;
+    width: 50%;
+    color: white;
+    padding: 3%;
+}
+
+.left-side p{
+    margin-bottom: 42%;
+}
+
+.left-side h1{
+    font-size: 2rem;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.left-side h2{
+    text-align: center;
+    font-weight: lighter;
+}
+
+.left-side div{
+    margin: 54% 0 0 0;
+    text-align: center;
+}
+
+.left-side i{
+    margin: 5px;
+}
+
+.right-side{
+    width: 50%;
+    padding: 4%;
+    color: lightgray;
+}
+
+.right-side label{
+    display: block;
+    margin: 4% 0;
+}
+
+.right-side input{
+    width: 95%;
+    border: 0px;
+    border-bottom: 1px solid lightgray;
+    color: gray;
+    font-size: 1.2rem;
+    padding: 0px 15px;
+}
+
+.right-side div{
+    margin: 30% 0px 0px 0px;
+}
+
+.right-side button{
+    width: 40%;
+    border-radius: 24px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.right-side a{
+    color: gray;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 0.9rem;
+}

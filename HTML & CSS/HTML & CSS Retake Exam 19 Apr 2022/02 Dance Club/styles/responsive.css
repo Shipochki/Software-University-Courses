@@ -1,0 +1,52 @@
+body{
+    width: 800px;
+}
+
+header div{
+    background-image: url('/02\ Dance\ Club/image/dancing-girl.png'), linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2));
+    background-position: center;
+}
+
+nav{
+    display: block;
+    text-align: center;
+}
+
+nav ul{
+    display: block;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+}
+
+.trainings{
+    display: block;
+}
+
+.trainings div{
+    width: 50%;
+}
+
+.instructors-pic{
+    display: block;
+}
+
+.classes li{
+    width: 45%;
+}
+
+.getInTouch{
+    display: block;
+}
+
+.site-footer .about{
+    display: block;
+}
+
+.site-footer .sitemap{
+    display: inline;
+}
+
+.site-footer .contacts{
+    display: inline ;
+}
