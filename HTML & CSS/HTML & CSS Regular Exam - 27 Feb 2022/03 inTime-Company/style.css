@@ -1,0 +1,72 @@
+body{
+    font-family: 'Helvetica';
+    color: #454545;
+}
+
+header nav{
+    display: flex;
+    padding: 2% 12%;
+}
+
+nav h2{
+    font-weight: lighter;
+    font-size: 2rem;
+}
+
+h2 span{
+    color: #008CBA;
+}
+
+nav ul{
+    display: flex;
+    width: 62%;
+    margin-left: 32%;
+}
+
+ul li{
+    list-style: none;
+}
+
+nav ul li{
+    font-size: 1.2rem;
+    width: auto;
+    height: 30px;
+    text-align: center;
+    margin-right: 5%;
+}
+
+nav ul li:hover{
+    border-bottom: 3px solid #008CBA;
+}
+
+.started-head{
+    background-image: url(images/slide2.jpg);
+    background-position: center;
+    height: 775px;
+    background-size: 2000px;
+    padding: 14.5% 5% 5% 10%;
+}
+
+.started-head div{
+    background: rgba(0, 0, 0, 0.6);
+    width: 45%;
+    height: 300px;
+    padding: 20px 0px 0px 20px;
+}
+
+.started-head div h1{
+    font-size: 4rem;
+    font-weight: lighter;
+    color: white;
+}
+
+.started-head div button{
+    width: 50%;
+    border-radius: 30px;
+    height: 60px;
+    border: 0px;
+    font-size: 2.2rem;
+    color: white;
+    background-color: #008CBA;
+    margin-top: 10px;
+}
