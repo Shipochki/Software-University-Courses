@@ -1,0 +1,60 @@
+body{
+    width: 600px;
+}
+
+#top-bar ul:first-child li:last-child{
+   display: none;
+}
+
+#main-menu img{
+    display: block;
+    float: none;
+    padding-left: 38%;
+}
+
+#main-menu ul{
+    text-align: center;
+    padding-left: 40%;
+}
+
+#main-menu ul li{
+    display: block;
+    border: 1px solid #e52236;
+    width: 33%;
+}
+
+#left-aside{
+    display: flex;
+}
+
+#left-aside article{
+    border: 0;
+    padding: 0 9%;
+}
+
+#news{
+    width: 95%;
+    padding: 10px;
+    margin: 0;
+}
+
+#news article{
+    display: block;
+    width: 100%;
+}
+
+#right-aside{
+    width: 94%;
+    margin: 10px;
+}
+
+footer{
+    height: 340px;
+    padding: 20px 0px;
+}
+
+footer ul{
+    display: block;
+    width: 50%;
+    margin: 15px 0;
+}

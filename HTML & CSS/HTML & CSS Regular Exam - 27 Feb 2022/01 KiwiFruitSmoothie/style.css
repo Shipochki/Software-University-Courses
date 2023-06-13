@@ -14,6 +14,7 @@ section{
 article{
     background-image: url(image/image1.png);
     padding-left: 3%;
+    width: 100%;
 }
 
 img{
@@ -63,7 +64,8 @@ span{
 }
 
 .text{
-    font-size: 1rem;
+    font-size: 18px;
+    padding-right: 10px;
 }
 
 table{
