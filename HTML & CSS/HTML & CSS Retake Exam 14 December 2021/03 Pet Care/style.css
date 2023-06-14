@@ -182,3 +182,82 @@ nav ul li{
     font-size: 1.3rem;
     font-weight: bold;
 }
+
+.contactUs{
+    background-image: url(images/cats-bg.png);
+    height: 610px;
+    background-position: center;
+    color: white;
+}
+
+.contactUs h2{
+    text-align: center;
+    font-size: 3.6rem;
+    padding: 170px 0 15px 0;
+}
+
+.contactUs-info{
+    text-align: center;
+    font-size: 1.6rem;
+    padding: 0 31%;
+}
+
+.contactUs div{
+    display: flex;
+    margin-left: 40%;
+    margin-top: 50px;
+}
+
+.contactUs div button{
+    width: 17%;
+    border-radius: 30px;
+    border: 0;
+    height: 55px;
+    margin-right: 20px;
+    background-color: white;
+}
+
+.contactUs div button p{
+    font-size: 1.1rem;
+    color: #FF3600;
+    padding: 0;
+}
+
+.contactUs div p{
+    padding-top: 15px;
+    font-size: 1.2rem;
+}
+
+.contactUs span{
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+footer{
+    display: flex;
+    margin-left: 16%;
+    margin-top: 100px;
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+footer ul{
+    width: 17%;
+}
+
+footer ul h3{
+    font-size: 1.7rem;
+    color: #2E2E2E;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+footer ul li{
+    list-style: none;
+}
+
+footer ul li p{
+    font-size: 1.1rem;
+    color: #7A7A7A;
+    margin: 15px 0;
+}
