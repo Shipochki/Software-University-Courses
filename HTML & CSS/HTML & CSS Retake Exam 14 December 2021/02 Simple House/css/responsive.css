@@ -1,0 +1,147 @@
+body {
+    width: 600px;
+    background-color: white;
+}
+
+main {
+    background-color: #ccc;
+}
+
+footer {
+    background-color: #ccc;
+}
+
+.tm-header-inner {
+    padding-left: 20px;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+.tm-site-logo {
+    width: 15%;
+}
+
+.tm-site-title {
+    font-size: 3.5rem;
+}
+
+.tm-site-description {
+    font-size: 1.8rem;
+}
+
+.tm-nav {
+    margin-left: 35%;
+}
+
+.tm-nav-li {
+    font-size: 1.6rem;
+}
+
+.tm-welcome-section {
+    margin-top: 0;
+}
+
+.tm-section-title {
+    text-align: center;
+    margin-left: 4%;
+    font-size: 3rem;
+}
+
+.tm-welcome-section p {
+    padding: 0 5%;
+    font-size: 1.48rem;
+    padding-right: 0;
+}
+
+.tm-paging-item {
+    width: 27%;
+    font-size: 1.5rem;
+    height: 60px;
+    margin: 11px;
+    border: 2px solid #2E956D;
+}
+
+.tm-paging-link{
+    padding: 13px 30px;
+}
+
+.tm-gallery{
+    margin-left: 70px;
+}
+
+.tm-gallery-page {
+    margin: 0px 0px 0px 7%;
+    width: 100%;
+}
+
+figure {
+    width: 400px;
+}
+
+.tm-gallery-img {
+    width: 345px;
+}
+
+figcaption {
+    padding-right: 19%;
+}
+
+.tm-gallery-title {
+    font-size: 1.8rem;
+}
+
+.tm-gallery-description {
+    font-size: 1.4rem;
+}
+
+.tm-gallery-price {
+    font-size: 1.8rem;
+}
+
+.tm-cta-section {
+    width: 100%;
+}
+
+.col-md-6 {
+    width: 100%;
+    margin-right: 0;
+    padding-right: 0;
+}
+
+.tm-description-figure {
+    width: 100%;
+    text-align: left;
+}
+
+.img-fluid {
+    width: 100%;
+}
+
+.tm-description-box {
+    margin-left: 0;
+    max-width: 100%;
+    width: 100%;
+}
+
+.tm-gallery-title {
+    font-size: 2rem;
+}
+
+.tm-mb-45 {
+    font-size: 1.6rem;
+}
+
+.tm-right {
+    font-size: 1.5rem;
+}
+
+footer p {
+    font-size: 1.5rem;
+}
+
+.tm-footer {
+    margin-top: 0;
+    padding-top: 80px;
+}
