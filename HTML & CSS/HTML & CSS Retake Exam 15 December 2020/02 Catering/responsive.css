@@ -1,0 +1,17 @@
+@media (width <= 600px) {
+    .w3-right{
+        display: none;
+    }
+
+    #about article:first-child{
+        display: none;
+    }
+
+    .w3-col.m6{
+        width: 100%;
+    }
+
+    .w3-col.l6{
+        width: 100%;
+    }
+}
