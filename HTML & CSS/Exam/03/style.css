@@ -1,0 +1,300 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap');
+
+body{
+    font-family: 'Inter';
+}
+
+.navigation{
+    display: flex;
+    padding: 40px 155px;
+    font-size: 1.2rem;
+}
+
+.navigation ul{
+    display: flex;
+    list-style: none;
+}
+
+.navigation ul li{
+    margin-right: 60px;
+}
+
+.navigation div{
+    margin-left: 42%;
+    display: flex;
+}
+
+.navigation button{
+    color: black;
+    height: 60px;
+    width: 130px;
+    border-radius: 6px;
+    border: 0;
+}
+
+.navigation button:first-child{
+    background-color: white;
+}
+
+.navigation button:last-child{
+    background-color: #ADE2DF;
+    font-weight: 500;
+}
+
+.section1{
+    background-color: #ADE2DF;
+    text-align: center;
+}
+
+.section1 h1{
+    font-size: 5rem;
+    font-weight: 600;
+    padding: 60px 0 30px 0;
+}
+
+.section1 p{
+    font-size: 1.4rem;
+}
+
+.section1 div{
+    padding: 40px 1% 130px 0;
+}
+
+.section1 button{
+    border-radius: 8px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-left: 15px;
+    padding: 0 40px;
+    border: 0;
+}
+
+.section1 i{
+    margin-right: 10px;
+}
+
+.section2{
+    display: flex;
+    padding: 100px 215px;
+}
+
+.card{
+    width: auto;
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+    height: 250px;
+    text-align: center;
+}
+
+.card h3{
+    font-size: 3rem;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.card p{
+    font-size: 1.4rem;
+}
+
+.section3{
+    background-color: #ADE2DF;
+    display: flex;
+}
+
+.section3 img{
+    border: 2px dashed #98B8B6;
+    margin-left: 15%;
+    padding: 0 3%;
+}
+
+.section3-text{
+    margin-left: 6%;
+    padding: 100px 0;
+    width: 38%;
+}
+
+.section3-text h2{
+    font-size: 3rem;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.section3-text h4{
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.section3-text p{
+    font-size: 1.2rem;
+    margin-bottom: 25px;
+    font-weight: 400;
+}
+
+.section3-text div{
+    margin-top: 45px;
+}
+
+.section3-text div a{
+    font-size: 1.2rem;
+    color: black;
+    text-decoration: none;
+    border-bottom: 1px solid #000;
+    padding-bottom: 4px;
+}
+
+.section3-text div a i{
+    font-size: 1rem;
+    margin-left: 10px;
+}
+
+.section4{
+    background-color: #F3F5FA;
+    text-align: center;
+    padding-bottom: 80px;
+}
+
+.section4 button{
+    border: 0;
+    width: 8%;
+    font-size: 1.3rem;
+    margin: 70px 0 30px 0;
+    font-weight: 500;
+    height: 45px;
+    border-radius: 8px;
+    background-color: #ADE2DF;
+}
+
+.section4 h3{
+    font-size: 3rem;
+    font-weight: 600;
+    padding-bottom: 90px;
+}
+
+.section4-cards{
+    display: flex;
+    text-align: left;
+}
+
+.section4 .left-cards{
+    width: 100%;
+    display: flex;
+    text-align: left;
+    background-color: white;
+    border-radius: 25px 0 0 25px;
+    padding: 30px 0;
+    border: 1px solid lightgray;
+}
+
+.card-price{
+    width: 34%;
+    background-color: white;
+    border-right: 1px solid lightgray;
+    padding: 0 30px;
+}
+
+.card-price h4{
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.card-price p{
+    font-size: 1.2rem;
+}
+
+.card-price .price{
+    font-size: 3rem;
+    font-weight: 600;
+    margin: 20px 0 30px 0;
+}
+
+.card-price .price span{
+    font-size: 1.1rem;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+.card-price hr{
+    border-top: 1px solid lightgray;
+}
+
+.card-price ul{
+    padding: 0;
+    list-style: none;
+    margin-top: 35px;
+}
+
+.card-price ul li {
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+
+.card-price ul li i{
+    margin-right: 5px;
+}
+
+.section4-cards .card-price button{
+    width: 100%;
+    height: 75px;
+}
+
+.last-card-price{
+    width: 67%;
+    background-color: #ADE2DF;
+    border-radius: 0 25px 25px 0;
+}
+
+.last-card-price p{
+    font-size: 1.95rem;
+    font-weight: 500;
+}
+
+.last-card-price button{
+    margin-top: 217px;
+    background-color: black;
+    color: white;
+}
+
+.section6{
+    background-color: #ADE2DF;
+    text-align: center;
+}
+
+.section6 h2{
+    font-size: 5rem;
+    font-weight: 600;
+    width: 38%;
+    margin-left: 31%;
+    padding-top: 100px;
+}
+
+.section6 p{
+    font-size: 1.5rem;
+    width: 41%;
+    margin-left: 29%;
+}
+
+.section6 div{
+    padding: 40px 1% 130px 0;
+}
+
+.section6 button{
+    border-radius: 8px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-left: 15px;
+    padding: 0 40px;
+    border: 0;
+}
+
+footer p{
+    text-align: left;
+    padding: 40px 60px;
+    font-size: 1.3rem;
+}

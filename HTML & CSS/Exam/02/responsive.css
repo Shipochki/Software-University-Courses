@@ -1,0 +1,77 @@
+@media (width <=600px) {
+    .home-links-container {
+        margin-left: 8%;
+    }
+
+    .home-cta-container {
+        width: 50%;
+        margin-left: 3%;
+    }
+
+    .home-cta-btn {
+        width: 75%;
+        padding: 6px 0;
+        font-size: 83%;
+        margin-left: 15%;
+        height: 40px;
+    }
+
+    .home-link,
+    .home-link1,
+    .home-link2 {
+        margin-right: 20px;
+    }
+
+    .home-hero {
+        display: block;
+        height: 820px;
+    }
+
+    .home-hero-text-container {
+        display: block;
+        width: 100%;
+        margin: 340px 0;
+        text-align: center;
+    }
+
+    .home-image1 {
+        display: block;
+        position: absolute;
+        top: 150px;
+        width: 89%;
+    }
+
+    .home-cta-btn2 {
+        display: block;
+        margin-left: 32%;
+        margin-top: 20px;
+        width: 35%;
+    }
+
+    .home-heading-container {
+        width: 100%;
+    }
+
+    .home-cards-container {
+        display: block;
+    }
+
+    .home-feature-card,
+    .home-feature-card1,
+    .home-feature-card2 {
+        width: 100%;
+        font-size: 0.9rem;
+    }
+
+    .home-image2,
+    .home-image3,
+    .home-image4 {
+        width: 400px;
+        height: 275px;
+    }
+
+    .home-stats {
+        margin: 1000px 0 0 0;
+        display: block;
+    }
+}
