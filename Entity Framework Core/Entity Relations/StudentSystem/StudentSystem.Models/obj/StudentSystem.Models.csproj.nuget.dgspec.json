@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Software-University-Courses\\Entity Framework Core\\StudentSystem\\StudentSystem.Models\\StudentSystem.Models.csproj": {}
+    "D:\\Software-University-Courses\\Entity Framework Core\\Entity Relations\\StudentSystem\\StudentSystem.Models\\StudentSystem.Models.csproj": {}
   },
   "projects": {
-    "D:\\Software-University-Courses\\Entity Framework Core\\StudentSystem\\StudentSystem.Models\\StudentSystem.Models.csproj": {
+    "D:\\Software-University-Courses\\Entity Framework Core\\Entity Relations\\StudentSystem\\StudentSystem.Models\\StudentSystem.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Software-University-Courses\\Entity Framework Core\\StudentSystem\\StudentSystem.Models\\StudentSystem.Models.csproj",
+        "projectUniqueName": "D:\\Software-University-Courses\\Entity Framework Core\\Entity Relations\\StudentSystem\\StudentSystem.Models\\StudentSystem.Models.csproj",
         "projectName": "StudentSystem.Models",
-        "projectPath": "D:\\Software-University-Courses\\Entity Framework Core\\StudentSystem\\StudentSystem.Models\\StudentSystem.Models.csproj",
+        "projectPath": "D:\\Software-University-Courses\\Entity Framework Core\\Entity Relations\\StudentSystem\\StudentSystem.Models\\StudentSystem.Models.csproj",
         "packagesPath": "C:\\Users\\xxcat\\.nuget\\packages\\",
-        "outputPath": "D:\\Software-University-Courses\\Entity Framework Core\\StudentSystem\\StudentSystem.Models\\obj\\",
+        "outputPath": "D:\\Software-University-Courses\\Entity Framework Core\\Entity Relations\\StudentSystem\\StudentSystem.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,28 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
