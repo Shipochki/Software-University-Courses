@@ -11,7 +11,7 @@
 
 		//Address
 		public const int StreetNameMaxLength = 20;
-		public const int SteerNameMinLength = 10;
+		public const int StreetNameMinLength = 10;
 
 		public const int CityMaxLength = 15;
 		public const int CityMinLength = 5;
