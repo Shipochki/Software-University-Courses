@@ -1,10 +1,14 @@
 ﻿namespace Boardgames.DataProcessor
 {
     using System.ComponentModel.DataAnnotations;
-    using Boardgames.Data;
-   
-    public class Deserializer
-    {
+	using System.Text;
+	using System.Xml.Serialization;
+	using Boardgames.Data;
+	using Boardgames.Data.Models;
+	using Boardgames.DataProcessor.ImportDto;
+
+	public class Deserializer
+	{
         private const string ErrorMessage = "Invalid data!";
 
         private const string SuccessfullyImportedCreator
@@ -15,7 +19,59 @@
 
         public static string ImportCreators(BoardgamesContext context, string xmlString)
         {
-            throw new NotImplementedException();
+			StringBuilder sb = new StringBuilder();
+
+			XmlRootAttribute xmlRoot = new XmlRootAttribute("Creators");
+			XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportCreatorDto[]), xmlRoot);
+
+			using StringReader reader = new StringReader(xmlString);
+            ImportCreatorDto[] importCreatorDtos = (ImportCreatorDto[])xmlSerializer.Deserialize(reader);
+
+            ICollection<Creator> creators = new List<Creator>();
+
+            foreach (var cDto in importCreatorDtos)
+            {
+                if (!IsValid(cDto))
+                {
+                    sb.AppendLine(ErrorMessage);
+                    continue;
+                }
+
+                Creator creator = new Creator()
+                {
+                    FirstName = cDto.FirstName,
+                    LastName = cDto.LastName,
+                };
+
+                foreach (var bDto in cDto.Boardgames)
+                {
+                    if (!IsValid(bDto))
+                    {
+                        sb.AppendLine(ErrorMessage);
+                        continue;
+                    }
+
+                    Boardgame boardgame = new Boardgame()
+                    {
+                        Name = bDto.Name,
+                        Rating = bDto.Rating,
+                        YearPublished = bDto.YearPublished,
+                        CategoryType = bDto.CategoryType,
+                        Mechanics = bDto.Mechanics,
+                    };
+
+                    creator.Boardgames.Add(boardgame);
+                }
+
+                creators.Add(creator);
+
+                sb.AppendLine(string.Format(SuccessfullyImportedCreator, creator.FirstName, creator.LastName, creator.Boardgames.Count));
+            }
+
+            context.Creators.AddRange(creators);
+            context.SaveChanges();
+
+            return sb.ToString().Trim();
         }
 
         public static string ImportSellers(BoardgamesContext context, string jsonString)
