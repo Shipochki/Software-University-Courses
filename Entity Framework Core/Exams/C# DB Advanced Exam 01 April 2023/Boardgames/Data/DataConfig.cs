@@ -20,10 +20,10 @@
 		public const int SellerAddressMaxLength = 30;
 
 		//Creator
-		public const int CreatorFirstNameMaxLength = 2;
-		public const int CreatorFirstNameMinLength = 7;
+		public const int CreatorFirstNameMaxLength = 7;
+		public const int CreatorFirstNameMinLength = 2;
 
-		public const int CreatorLastNameMaxLength = 2;
-		public const int CreatorLastNameMinLength = 7;
+		public const int CreatorLastNameMaxLength = 7;
+		public const int CreatorLastNameMinLength = 2;
 	}
 }

@@ -25,9 +25,9 @@
 		public int YearPublished { get; set; }
 
 		[XmlElement("CategoryType")]
-		[Required]
 		[Range(0, 4)]
-		public CategoryType CategoryType { get; set; }
+		[Required]
+		public int CategoryType { get; set; }
 
 		[XmlElement("Mechanics")]
 		[Required]
