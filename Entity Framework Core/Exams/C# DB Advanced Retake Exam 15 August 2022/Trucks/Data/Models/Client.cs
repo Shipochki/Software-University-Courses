@@ -22,7 +22,7 @@
 		public string Nationality { get; set; } = null!;
 
 		[Required]
-		public string Type { get; set; } = null!;
+		public string Type { get; set; }
 
 		public ICollection<ClientTruck> ClientsTrucks { get; set; }
 	}
