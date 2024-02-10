@@ -8,7 +8,11 @@ namespace SoftUniBazar.Services
 		Task<List<AdAllViewModel>> GetAllAsync();
 
 		Task AddAdAsync(AddAdModel model, string ownerId);
+		Task EditAdAsync(EditAdModel model, int id);
+		Task<EditAdModel> GetAdAsync(int id);
+		Task<List<AdAllCartViewModel>> GetAllCartAdsAsync(string userId);
+		Task RemoveAdFromCartAsync(int id, string userId);
 
-		//Task<AdEditModel> EditAdAsync();
+		Task<bool> AddAdToCartAsync(int id, string userId);
 	}
 }

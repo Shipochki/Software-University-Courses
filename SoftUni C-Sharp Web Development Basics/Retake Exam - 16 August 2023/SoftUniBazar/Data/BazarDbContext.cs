@@ -66,5 +66,7 @@ namespace SoftUniBazar.Data
         public DbSet<Ad> Ads { get; set; } = null!;
 
         public DbSet<Category> Categories { get; set; } = null!;
-    }
+
+		public DbSet<AdBuyer> AdsBuyers { get; set; }
+	}
 }
