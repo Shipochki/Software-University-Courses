@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SoftUniBazar.Data;
+using SoftUniBazar.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,6 +22,8 @@ builder.Services.Configure<IdentityOptions>(options =>
 });
 
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<IAdService, AdService>();
 
 var app = builder.Build();
 
