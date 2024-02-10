@@ -1,13 +1,14 @@
 ﻿using SoftUniBazar.Models;
+using SoftUniBazar.Services.Models;
 
 namespace SoftUniBazar.Services
 {
-	public interface IAdService
+    public interface IAdService
 	{
 		Task<List<AdAllViewModel>> GetAllAsync();
 
-		Task AddAdAsync();
+		Task AddAdAsync(AddAdModel model, string ownerId);
 
-		Task<AdEditModel> EditAdAsync();
+		//Task<AdEditModel> EditAdAsync();
 	}
 }
