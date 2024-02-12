@@ -1,4 +1,5 @@
 using Homies.Data;
+using Homies.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -10,15 +11,17 @@ builder.Services.AddDbContext<HomiesDbContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = false)
-    .AddEntityFrameworkStores<HomiesDbContext>();
-builder.Services.AddControllersWithViews();
-builder.Services.AddDefaultIdentity<IdentityUser>(options =>
-{
+builder.Services.AddDefaultIdentity<IdentityUser>(options => {
+    options.SignIn.RequireConfirmedAccount = false;
     options.Password.RequireDigit = false;
     options.Password.RequireNonAlphanumeric = false;
-    options.Password.RequireUppercase = false;
-});
+    options.Password.RequireUppercase = false;})
+    .AddEntityFrameworkStores<HomiesDbContext>();
+
+builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<IEventService, EventService>();
+builder.Services.AddScoped<ITypeService, TypeService>();
 
 var app = builder.Build();
 
