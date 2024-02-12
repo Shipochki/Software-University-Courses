@@ -99,6 +99,11 @@ namespace Homies.Areas.Identity.Pages.Account
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
 
             ReturnUrl = returnUrl;
+
+            if (User.Identity.IsAuthenticated)
+            {
+                ReturnUrl = "https://localhost:7234/Event/All";
+            }
         }
 
         public async Task<IActionResult> OnPostAsync(string returnUrl = null)

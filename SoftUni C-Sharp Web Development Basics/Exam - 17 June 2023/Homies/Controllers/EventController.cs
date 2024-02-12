@@ -100,6 +100,22 @@ namespace Homies.Controllers
 		}
 
 
+		[HttpPost]
+		public async Task<IActionResult> Join(int id)
+		{
+			await this.eventService.Join(id, GetUserId());
+
+			return RedirectToAction("Joined", "Event");
+		}
+
+		[HttpPost]
+		public async Task<IActionResult> Leave(int id)
+		{
+			await this.eventService.Leave(id, GetUserId());
+
+			return RedirectToAction("All", "Event");
+		}
+
         private string GetUserId()
 		   => User.FindFirstValue(ClaimTypes.NameIdentifier);
 	}

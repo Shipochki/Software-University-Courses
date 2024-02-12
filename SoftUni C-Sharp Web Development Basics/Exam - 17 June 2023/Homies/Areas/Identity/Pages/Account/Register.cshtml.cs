@@ -103,6 +103,12 @@ namespace Homies.Areas.Identity.Pages.Account
         public async Task OnGetAsync(string returnUrl = null)
         {
             ReturnUrl = returnUrl;
+
+            if (User.Identity.IsAuthenticated)
+            {
+                ReturnUrl = "https://localhost:7234/Event/All";
+            }
+
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
         }
 
