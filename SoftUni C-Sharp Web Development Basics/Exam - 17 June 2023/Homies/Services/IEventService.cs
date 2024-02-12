@@ -9,10 +9,14 @@ namespace Homies.Services
 
 		public Task AddEventAsync(EventAddModel model, string userId);
 
-		public Task RemoveEventAsync();
-
 		public Task<bool> IsOwnerAsync(int eventId, string userId);
 		Task EditEventAsync(int id, EventEditModel model);
 		Task<EventEditModel> GetEventAsync(int id);
-	}
+        Task<EventDetailsViewModel> GetEventDetailsAsync(int id);
+        Task<List<EventJoinedViewModel>> GetAllJoinedEventsAsync(string userId);
+
+		Task Join(int id, string userId);
+
+		Task Leave(int id, string userId);
+    }
 }

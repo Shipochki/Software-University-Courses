@@ -83,7 +83,24 @@ namespace Homies.Controllers
 			return RedirectToAction("All", "Event");
 		}
 
-		private string GetUserId()
+		[HttpGet]
+		public async Task<IActionResult> Details(int id)
+		{
+			EventDetailsViewModel model = await this.eventService.GetEventDetailsAsync(id);
+
+			return View(model);
+		}
+
+		[HttpGet]
+		public async Task<IActionResult> Joined()
+		{
+			List<EventJoinedViewModel> models = await this.eventService.GetAllJoinedEventsAsync(GetUserId());
+
+			return View(models);
+		}
+
+
+        private string GetUserId()
 		   => User.FindFirstValue(ClaimTypes.NameIdentifier);
 	}
 }

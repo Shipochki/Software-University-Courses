@@ -65,7 +65,23 @@ namespace Homies.Services
 				.ToListAsync();
 		}
 
-		public async Task<EventEditModel> GetEventAsync(int id)
+        public async Task<List<EventJoinedViewModel>> GetAllJoinedEventsAsync(string userId)
+        {
+            return await this.context
+                .EventsParticipants
+				.Where(e => e.HelperId == userId)
+                .Select(e => new EventJoinedViewModel()
+                {
+                    Id = e.Event.Id,
+                    Name = e.Event.Name,
+                    Start = e.Event.Start.ToString("yyyy-MM-dd H:mm"),
+                    Type = e.Event.Type.Name,
+                    Organiser = e.Event.Organiser.UserName
+                })
+                .ToListAsync();
+        }
+
+        public async Task<EventEditModel> GetEventAsync(int id)
 		{
 			EventEditModel model = await this.context
 				.Events
@@ -83,7 +99,28 @@ namespace Homies.Services
 			return model;
 		}
 
-		public async Task<bool> IsOwnerAsync(int eventId, string userId)
+        public async Task<EventDetailsViewModel> GetEventDetailsAsync(int id)
+        {
+            EventDetailsViewModel model = await this.context
+				.Events
+				.Where(e => e.Id == id)
+				.Select(e => new EventDetailsViewModel()
+				{
+					Id = e.Id,
+					Name = e.Name,
+					Description = e.Description,
+					Start = e.Start.ToString(),
+					End = e.End.ToString(),
+					CreatedOn = e.CreatedOn.ToString(),
+					Organiser = e.Organiser.UserName,
+					Type = e.Type.Name,
+				})
+				.FirstAsync();
+
+			return model;	
+        }
+
+        public async Task<bool> IsOwnerAsync(int eventId, string userId)
 		{
 			Event event1 = await this.context.Events.FindAsync(eventId);
 
@@ -95,9 +132,58 @@ namespace Homies.Services
 			return true;
 		}
 
-		public Task RemoveEventAsync()
-		{
-			throw new NotImplementedException();
-		}
-	}
+        public async Task Join(int id, string userId)
+        {
+			Event? currentEvent = await this.context.Events.FindAsync(id);
+
+			if(currentEvent == null)
+			{
+				return;
+			}
+
+			EventParticipant? eventParticipant = await this.context
+				.EventsParticipants
+				.Where(e => e.EventId == id && e.HelperId == userId)
+				.FirstOrDefaultAsync();
+			
+			if(eventParticipant != null)
+			{
+				return;
+			}
+
+			eventParticipant = new EventParticipant()
+			{
+				EventId = id,
+				Event = currentEvent,
+				HelperId = userId
+			};
+
+			await this.context.EventsParticipants.AddAsync(eventParticipant);
+			await this.context.SaveChangesAsync();
+        }
+
+        public async Task Leave(int id, string userId)
+        {
+            Event? currentEvent = await this.context.Events.FindAsync(id);
+
+            if (currentEvent == null)
+            {
+                return;
+            }
+
+            EventParticipant? eventParticipant = await this.context
+                .EventsParticipants
+                .Where(e => e.EventId == id && e.HelperId == userId)
+                .FirstOrDefaultAsync();
+
+            if (eventParticipant == null)
+            {
+                return;
+            }
+
+			context.EventsParticipants.Remove(eventParticipant);
+
+			await this.context.SaveChangesAsync();
+        }
+    }
 }
