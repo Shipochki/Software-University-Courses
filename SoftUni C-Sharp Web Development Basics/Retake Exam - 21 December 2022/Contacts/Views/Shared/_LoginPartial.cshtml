@@ -1,10 +1,11 @@
-﻿@*
-    @inject SignInManager<>
-    @inject UserManager<>
-*@
+﻿@using Microsoft.AspNetCore.Identity;
 
-@*
-<ul class="navbar-nav">
+@inject SignInManager<IdentityUser> SignInManager;
+@inject UserManager<IdentityUser> UserManager;
+
+
+
+@* <ul class="navbar-nav">
     @if (SignInManager.IsSignedIn(User))
     {
         <li class="nav-item">
@@ -22,11 +23,11 @@
             <a class="nav-link text-dark" asp-controller="User" asp-action="Login">Login</a>
         </li>
     }
-</ul>
-*@
+</ul> *@
 
-@*
-    USE THIS CODE IF YOU ARE SCAFFOLDING IDENTITY
+
+
+   @* USE THIS CODE IF YOU ARE SCAFFOLDING IDENTITY *@
     <ul class="navbar-nav">
     @if (SignInManager.IsSignedIn(User))
     {
@@ -46,4 +47,3 @@
         </li>
     }
 </ul>
-*@
