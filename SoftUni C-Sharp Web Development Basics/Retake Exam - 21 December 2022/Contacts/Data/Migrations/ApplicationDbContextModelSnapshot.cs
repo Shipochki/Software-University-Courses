@@ -17,7 +17,7 @@ namespace Contacts.Data.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "6.0.10")
+                .HasAnnotation("ProductVersion", "6.0.26")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
@@ -55,6 +55,9 @@ namespace Contacts.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
+                    b.Property<string>("Address")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Email")
                         .IsRequired()
                         .HasMaxLength(60)
@@ -76,7 +79,6 @@ namespace Contacts.Data.Migrations
                         .HasColumnType("nvarchar(13)");
 
                     b.Property<string>("Website")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -87,6 +89,7 @@ namespace Contacts.Data.Migrations
                         new
                         {
                             Id = 1,
+                            Address = "Gotham City",
                             Email = "imbatman@batman.com",
                             FirstName = "Bruce",
                             LastName = "Wayne",

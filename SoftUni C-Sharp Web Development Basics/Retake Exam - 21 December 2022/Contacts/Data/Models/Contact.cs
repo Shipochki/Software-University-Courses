@@ -23,9 +23,9 @@ namespace Contacts.Data.Models
         [MaxLength(13)]
         public string PhoneNumber { get; set; } = null!;
 
-        public string Address = null!;
+        public string? Address { get; set; }
 
-        public string Website { get; set; } = null!;
+        public string? Website { get; set; }
 
         public List<ApplicationUserContact> ApplicationUsersContacts { get; set; } = new List<ApplicationUserContact>();
     }
