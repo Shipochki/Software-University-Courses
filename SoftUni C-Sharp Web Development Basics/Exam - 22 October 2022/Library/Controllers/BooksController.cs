@@ -77,7 +77,7 @@ namespace Library.Controllers
                 return RedirectToAction("All", "Books");
 			}
 
-			return RedirectToAction("Mine", "Books");
+			return RedirectToAction("All", "Books");
 		}
 
 		[HttpPost]
@@ -93,7 +93,7 @@ namespace Library.Controllers
 				return RedirectToAction("All", "Books");
             }
 
-			return RedirectToAction("All", "Books");
+			return RedirectToAction("Mine", "Books");
 		}
 
         private string GetUserId()
